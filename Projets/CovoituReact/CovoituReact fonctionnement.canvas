@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"19e79eae2170ddd9","type":"text","text":"localhost/","x":-126,"y":-340,"width":250,"height":60},
+		{"id":"bbc1b4d7476dc979","type":"text","text":"local storage: JWT ?","x":-126,"y":-220,"width":250,"height":60},
+		{"id":"d37896b85dd97b7e","type":"text","text":"Render the login page","x":-340,"y":-60,"width":250,"height":60},
+		{"id":"f481418867afb71d","type":"text","text":"render the default page","x":100,"y":-60,"width":250,"height":60},
+		{"id":"7b29126a079c1aac","type":"text","text":"Refresh page","x":-590,"y":-220,"width":250,"height":60},
+		{"id":"082877770e0ac88a","type":"text","text":"localhost/search","x":-465,"y":180,"width":250,"height":60},
+		{"id":"842cbf20de6c007d","type":"text","text":"localhost/profile","x":660,"y":180,"width":250,"height":60},
+		{"id":"de9c4d7286144f5b","type":"text","text":"localhost/post","x":100,"y":180,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"d8cfa3e4856aded4","fromNode":"19e79eae2170ddd9","fromSide":"bottom","toNode":"bbc1b4d7476dc979","toSide":"top"},
+		{"id":"646776be57ea8711","fromNode":"bbc1b4d7476dc979","fromSide":"bottom","toNode":"d37896b85dd97b7e","toSide":"top","label":"Non"},
+		{"id":"b689bba796137135","fromNode":"bbc1b4d7476dc979","fromSide":"bottom","toNode":"f481418867afb71d","toSide":"top","label":"Oui"},
+		{"id":"c74ed93965a0a8c1","fromNode":"d37896b85dd97b7e","fromSide":"bottom","toNode":"7b29126a079c1aac","toSide":"left"},
+		{"id":"a93fd0d19e9a062a","fromNode":"7b29126a079c1aac","fromSide":"right","toNode":"bbc1b4d7476dc979","toSide":"left"},
+		{"id":"87b7cbcbcd71a25d","fromNode":"f481418867afb71d","fromSide":"bottom","toNode":"082877770e0ac88a","toSide":"top","label":"Chercher une annonce"},
+		{"id":"e4c8f9ee8ef80f36","fromNode":"f481418867afb71d","fromSide":"bottom","toNode":"de9c4d7286144f5b","toSide":"top","label":"Poster une annonce"},
+		{"id":"d83d813a4d8a9891","fromNode":"f481418867afb71d","fromSide":"bottom","toNode":"842cbf20de6c007d","toSide":"top","label":"Profile utilisateur"}
+	]
+}
