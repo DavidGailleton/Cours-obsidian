@@ -1,0 +1,217 @@
+
+Cours généraux/Anglais/BTS 1/Expression Anglaise.md
+Cours généraux/Anglais/BTS 1/Résumé COP 27.md
+Cours généraux/Anglais/BTS 1/Résumé Rugby.md
+Cours généraux/Anglais/BTS 1/Support/Rugby Story.md
+Cours généraux/Anglais/BTS 2/Rappel des temps.md
+Cours généraux/Anglais/BTS 2/put the words in correct order.md
+Cours généraux/Anglais/Restaurant - Lucas BONVALLET David GAILLETON.md
+Cours généraux/CEJM/2023-10-05.md
+Cours généraux/CEJM/2023-10-05.md#La protection des actifs immatériel
+Cours généraux/CEJM/2023-10-05.md#La protection des actifs immatériel#Base de données#Site internet et nom de domaine
+Cours généraux/CEJM/2023-10-05.md#La protection des actifs immatériel#L'auteur et sont oeuvre
+Cours généraux/CEJM/2023-10-05.md#La protection des actifs immatériel#L'auteur et sont oeuvre#Les *blockchains* et le droit des créations
+Cours généraux/CEJM/2023-10-05.md#La protection des actifs immatériel#L'auteur et sont oeuvre#Les droits d'un auteur sur son oeuvre
+Cours généraux/CEJM/2023-10-05.md#La protection des actifs immatériel#L'auteur et sont oeuvre#Les sanctions en cas d'atteinte au droit d'auteur
+Cours généraux/CEJM/Evolution économiques liées au numérique.md
+Cours généraux/CEJM/Evolution économiques liées au numérique.md#Evolution des modèles économiques#Economie de la propriété VS Economie d'usage
+Cours généraux/CEJM/Evolution économiques liées au numérique.md#Evolution des modèles économiques#Externalité du réseau
+Cours généraux/CEJM/Evolution économiques liées au numérique.md#Evolution des modèles économiques#L'impact du numérique sur les pratiques tarifaires
+Cours généraux/CEJM/Evolution économiques liées au numérique.md#Les canaux de distributions
+Cours généraux/CEJM/Evolution économiques liées au numérique.md#Les canaux de distributions#Circuit de distribution
+Cours généraux/CEJM/Impact Juridique et économique des évolution numériques.md
+Cours généraux/CEJM/Impact Juridique et économique des évolution numériques.md#Impacts du numérique sur l'emploi#Automatisation des tâches
+Cours généraux/CEJM/Impact Juridique et économique des évolution numériques.md#Impacts du numérique sur l'emploi#Impact sur l'emploi
+Cours généraux/CEJM/Impact Juridique et économique des évolution numériques.md#Problématique pour les règles juridique encadrant l'activité#Le cas Uber et la réglementation du contrat de travail
+Cours généraux/CEJM/Impact Juridique et économique des évolution numériques.md#Problématique pour les règles juridique encadrant l'activité#Les GAFAM et la problématique des règles fiscales
+Cours généraux/CEJM/Lexique non connu - David GAILLETON.md
+Cours généraux/CEJM/Protection de la personne dans l'univers numérique.md
+Cours généraux/Culture G/Paris/Centralisation de la France.md
+Cours généraux/Culture G/Paris/Centralisation de la France.md#Les avantages de la centralisation
+Cours généraux/Culture G/Paris/Centralisation de la France.md#Les inconvénient de la centralisation
+Cours généraux/Culture G/Paris/Cinema/Paris dans le cinema americain.md
+Cours généraux/Culture G/Paris/Définition/Centralisation.md
+Cours généraux/Culture G/Paris/Définition/Fédéralisme.md
+Cours généraux/Culture G/Paris/Définition/Régionalisme.md
+Cours généraux/Culture G/Paris/Historique de Paris.md
+Cours généraux/Culture G/Paris/Historique de Paris.md#Chute de l'empire romain
+Cours généraux/Culture G/Paris/Historique de Paris.md#Origine celtes
+Cours généraux/Culture G/Paris/Historique de Paris.md#Romains
+Cours généraux/Culture G/Paris/Le pouvoir à Paris.md
+Cours généraux/Culture G/Paris/Paris aujourd'hui.md
+Cours généraux/Culture G/Paris/Paris aujourd'hui.md#Histoire rapide#source :
+Cours généraux/Culture G/Paris/Paris aujourd'hui.md#Les symboles
+Cours généraux/Culture G/Paris/Personnalité/Haussmann.md
+Cours généraux/Culture G/Paris/Problématique.md
+Cours généraux/Culture G/Paris/Support/Bulletin officiel Paris.md
+Cours généraux/Culture G/Paris/Support/Bulletin officiel Paris.md#**Thème n° 2 - Paris, ville capitale ?**#**Arts plastiques**
+Cours généraux/Culture G/Paris/Support/Bulletin officiel Paris.md#**Thème n° 2 - Paris, ville capitale ?**#**Bande-dessinée**
+Cours généraux/Culture G/Paris/Support/Bulletin officiel Paris.md#**Thème n° 2 - Paris, ville capitale ?**#**Expressions**
+Cours généraux/Culture G/Paris/Support/Bulletin officiel Paris.md#**Thème n° 2 - Paris, ville capitale ?**#**Films**
+Cours généraux/Culture G/Paris/Support/Bulletin officiel Paris.md#**Thème n° 2 - Paris, ville capitale ?**#**Littérature**
+Cours généraux/Culture G/Paris/Support/Bulletin officiel Paris.md#**Thème n° 2 - Paris, ville capitale ?**#**Mots clés**
+Cours généraux/Culture G/Paris/Support/Bulletin officiel Paris.md#**Thème n° 2 - Paris, ville capitale ?**#**Musique**
+Cours généraux/Culture G/Paris/Support/Bulletin officiel Paris.md#**Thème n° 2 - Paris, ville capitale ?**#Problématique
+Cours généraux/Culture G/Paris/Support/Vocabulaire Paris.md
+Cours généraux/Culture G/Paris/Support/Vocabulaire Paris.md#**Vocabulaire et mots-clés**
+Cours généraux/Culture G/Paris/Support/Vocabulaire Paris.md#**Vocabulaire et mots-clés**#**Expressions**
+Cours généraux/Culture G/Paris/Support/Vocabulaire Paris.md#**Vocabulaire et mots-clés**#**Mots clés**
+Cours généraux/Culture G/Paris/Synthèse 2023-10-02 - David GAILLETON.md
+Cours généraux/Mathematique/Algo/00 - Base Algorithme.md
+Cours généraux/Mathematique/Algo/00 - Base Algorithme.md#Rappels
+Cours généraux/Mathematique/Algo/00 - Base Algorithme.md#Rappels#Algo 1 : récupérer un nombre et indiquer s'il est pair ou non
+Cours généraux/Mathematique/Algo/00 - Base Algorithme.md#Rappels#Algo 2 : Récupérer deux nombres, il faut renvoyer le quotient et le reste de la division du premier nombre par le deuxième
+Cours généraux/Mathematique/Algo/00 - Base Algorithme.md#Rappels#Algo 3 : Trouver le [[PGCD]] via un algorithme d'Euclide
+Cours généraux/Mathematique/Algo/01 - Algo python.md
+Cours généraux/Mathematique/Algo/01 - Algo python.md#Écrire un algorithme qui prend en entrée deux nombres entiers a et b, et calcule le quotient et le reste de la division euclidienne de a par b.
+Cours généraux/Mathematique/Algo/01 - Algo python.md#Écrire un algorithme qui prend en entrée deux nombres entiers a et b, et calcule leur plus grand diviseur commun (PGCD) en utilisant l'algorithme d'Euclide
+Cours généraux/Mathematique/Algo/01 - Algo python.md#Écrire un algorithme qui prend en entrée deux nombres entiers a et b, et calcule leur plus petit multiple commun (PPCM) en utilisant la formule : PPCM(a, b) = (a * b) / PGCD(a, b).
+Cours généraux/Mathematique/Algo/01 - Algo python.md#Écrire un algorithme qui prend en entrée un nombre entier n, et trouve le plus petit nombre premier qui est strictement supérieur à n.
+Cours généraux/Mathematique/Algo/02 - Rendre la monnaie.md
+Cours généraux/Mathematique/Algo/02 - Rendre la monnaie.md#1.
+Cours généraux/Mathematique/Algo/02 - Rendre la monnaie.md#2.
+Cours généraux/Mathematique/Algo/03 - Salle de concert.md
+Cours généraux/Mathematique/Algo/03 - Salle de concert.md#A1
+Cours généraux/Mathematique/Algo/03 - Salle de concert.md#A2
+Cours généraux/Mathematique/Exos/BTS 2010.md
+Cours généraux/Mathematique/Exos/BTS 2010.md#Metropole
+Cours généraux/Mathematique/Exos/BTS 2010.md#Metropole#Exercice 1#2.
+Cours généraux/Mathematique/Exos/BTS 2010.md#Metropole#Exercice 1#3.
+Cours généraux/Mathematique/Exos/BTS 2010.md#Metropole#Exercice 1#4.#c.
+Cours généraux/Mathematique/Exos/BTS 2010.md#Metropole#Exercice 1#5.#a.
+Cours généraux/Mathematique/Exos/BTS 2010.md#Polynesie
+Cours généraux/Mathematique/Exos/BTS 2010.md#Polynesie#Exercice 1#Deuxième partie#1.#a.
+Cours généraux/Mathematique/Exos/BTS 2010.md#Polynesie#Exercice 1#Deuxième partie#1.#b.
+Cours généraux/Mathematique/Exos/BTS 2010.md#Polynesie#Exercice 1#Deuxième partie#2.
+Cours généraux/Mathematique/Exos/BTS 2010.md#Polynesie#Exercice 1#première partie
+Cours généraux/Mathematique/Graphes.md
+Cours généraux/Mathematique/Graphes.md#Calcule des chemins
+Cours généraux/Mathematique/Graphes.md#Les chemins et Circuits#Chemin
+Cours généraux/Mathematique/Graphes.md#Les chemins et Circuits#Circuit
+Cours généraux/Mathematique/Graphes.md#Les représentations
+Cours généraux/Mathematique/Matrices.md
+Cours généraux/Mathematique/Matrices.md#Calcules#Addition
+Cours généraux/Mathematique/Matrices.md#Calcules#Multiplication
+Cours généraux/Mathematique/Matrices.md#Calcules#Soustraction
+Cours généraux/Mathematique/PGCD.md
+Cours généraux/Mathematique/PGCD.md#Algorithme#Algorithme d’Euclide
+Cours généraux/Mathematique/PGCD.md#Définition
+Developpement/API/JDBC (Java DataBase Connectivity)/JDBC.md
+Developpement/API/REST/JS/mongoose.md
+Developpement/API/REST/JS/mongoose.md#Connexion de l'API a une BDD MongoDB avec Mongoose#Afficher les données d'une BDD
+Developpement/API/REST/JS/mongoose.md#Connexion de l'API a une BDD MongoDB avec Mongoose#Créer des Schema et Models
+Developpement/API/REST/JS/mongoose.md#Connexion de l'API a une BDD MongoDB avec Mongoose#Initialisation du projet
+Developpement/API/REST/JS/mongoose.md#Connexion de l'API a une BDD MongoDB avec Mongoose#Insérer des données
+Developpement/API/REST/rest.md
+Developpement/BDD/Base de données.md
+Developpement/BDD/MongoDB/mongoDB.md
+Developpement/BDD/MongoDB/mongoDB.md#MongoDB
+Developpement/BDD/MongoDB/mongoDB.md#MongoDB#Format
+Developpement/BDD/MongoDB/mongoDB.md#MongoDB#Ligne de commandes
+Developpement/BDD/MongoDB/mongoDB.md#MongoDB#Types de données
+Developpement/BDD/SQL/mysql.md
+Developpement/BDD/SQL/mysql.md#SQL#Introduction à MySQL#Installation de MySQL
+Developpement/BDD/SQL/mysql.md#SQL#Introduction à MySQL#Pourquoi utiliser MySQL?
+Developpement/BDD/SQL/mysql.md#SQL#Introduction à MySQL#Qu'est-ce que MySQL?
+Developpement/BDD/SQL/mysql.md#SQL#Le langage SQL#Filtrage de données
+Developpement/BDD/SQL/mysql.md#SQL#Le langage SQL#Les commandes SQL de base
+Developpement/BDD/SQL/mysql.md#SQL#Le langage SQL#Mise à jour de données
+Developpement/BDD/SQL/mysql.md#SQL#Le langage SQL#Suppression de données
+Developpement/BDD/SQL/mysql.md#SQL#Le langage SQL#Sélection de données
+Developpement/BDD/SQL/mysql.md#SQL#Le langage SQL#Tri de données
+Developpement/BDD/SQL/mysql.md#SQL#Les bases de données relationnelles#Concepts de base des bases de données relationnelles
+Developpement/BDD/SQL/mysql.md#SQL#Les bases de données relationnelles#Les relations entre tables
+Developpement/BDD/SQL/mysql.md#SQL#Les bases de données relationnelles#Les tables
+Developpement/BaseGit.md
+Developpement/BaseGit.md#Base git
+Developpement/BaseGit.md#Git Hub sur Windows
+Developpement/Client_lourd/JAVA/Constructeurs en JAVA.md
+Developpement/Client_lourd/JAVA/Constructeurs en JAVA.md#Exemple 1 :
+Developpement/Client_lourd/JAVA/Constructeurs en JAVA.md#Règles pour définir un Constructeur
+Developpement/Client_lourd/JAVA/Exos/exercices.md
+Developpement/Client_lourd/JAVA/Fonctionnement.md
+Developpement/Client_lourd/JAVA/Fonctionnement.md#Premier programme
+Developpement/Client_lourd/JAVA/Fonctionnement.md#Premier programme JAVA
+Developpement/Client_lourd/JAVA/Fonctionnement.md#Premier programme JAVA#Compilation
+Developpement/Client_lourd/JAVA/Gestion des erreurs.md
+Developpement/Client_lourd/JAVA/Gestion des erreurs.md#La gestion des erreurs en Java#Les blocs try catch
+Developpement/Client_lourd/JAVA/Gestion des erreurs.md#La gestion des erreurs en Java#Les differents types d'erreurs
+Developpement/Client_lourd/JAVA/Gestion des erreurs.md#La gestion des erreurs en Java#Les differents types d'erreurs#Les erreurs d'execution
+Developpement/Client_lourd/JAVA/Gestion des erreurs.md#La gestion des erreurs en Java#Les differents types d'erreurs#Les erreurs d'execution#Les erreurs logiques
+Developpement/Client_lourd/JAVA/Gestion des erreurs.md#La gestion des erreurs en Java#Les differents types d'erreurs#Les erreurs de syntaxes
+Developpement/Client_lourd/JAVA/Gestion des erreurs.md#La gestion des erreurs en Java#Les erreurs et leur representation objet en Java
+Developpement/Client_lourd/JAVA/Interface Graphique/AWT/AWT.md
+Developpement/Client_lourd/JAVA/Interface Graphique/Les applications graphique en JAVA.md
+Developpement/Client_lourd/JAVA/Interface Graphique/Les evenements.md
+Developpement/Client_lourd/JAVA/Interface Graphique/Les interfaces.md
+Developpement/Client_lourd/JAVA/Interface Graphique/Positionnement des composants.md
+Developpement/Client_lourd/JAVA/Interface Graphique/Swing/Classes/JFrame.md
+Developpement/Client_lourd/JAVA/Interface Graphique/Swing/Swing.md
+Developpement/Client_lourd/JAVA/Interface Graphique/Swing/Swing.md#La bibliothèque Swing
+Developpement/Client_lourd/JAVA/Interface Graphique/Swing/Swing.md#La bibliothèque Swing#La conception d'une interface graphique
+Developpement/Client_lourd/JAVA/Interface Graphique/Swing/Swing.md#La bibliothèque Swing#Les composants graphiques SWING et java
+Developpement/Client_lourd/JAVA/Interface Graphique/Thread EDT.md
+Developpement/Client_lourd/JAVA/JAVA.md
+Developpement/Client_lourd/JAVA/JAVA.md#Historique
+Developpement/Client_lourd/JAVA/JAVA.md#La javadoc
+Developpement/Client_lourd/JAVA/JAVA.md#La plateforme JAVA SE
+Developpement/Client_lourd/JAVA/JAVA.md#Les caractéristique de JAVA
+Developpement/Client_lourd/JAVA/JAVA.md#Les caractéristique de JAVA#Les avantages de la programmation objet
+Developpement/Client_lourd/JAVA/JAVA.md#Les implementations de la plateforme JAVA SE
+Developpement/Client_lourd/JAVA/JAVA.md#Les objectifs de la conception de Java
+Developpement/Client_lourd/JAVA/JAVA.md#Qu'est ce que java ?
+Developpement/Client_lourd/JAVA/Les classes en JAVA/Collections/Ensembles (Set).md
+Developpement/Client_lourd/JAVA/Les classes en JAVA/Collections/Files (queue).md
+Developpement/Client_lourd/JAVA/Les classes en JAVA/Collections/Listes (list).md
+Developpement/Client_lourd/JAVA/Les classes en JAVA/Collections/Piles (Stack).md
+Developpement/Client_lourd/JAVA/Les classes en JAVA/Collections/Tableaux associatifs (Map).md
+Developpement/Client_lourd/JAVA/Les classes en JAVA/Les classes en JAVA.md
+Developpement/Client_lourd/JAVA/Les classes en JAVA/Les classes en JAVA.md#Création d'accesseur (getter et setter)
+Developpement/Client_lourd/JAVA/Les classes en JAVA/Les classes en JAVA.md#La création d'une classe
+Developpement/Client_lourd/JAVA/Les classes en JAVA/Les classes en JAVA.md#La création d'une classe#Appel d'un classe
+Developpement/Client_lourd/JAVA/Les classes en JAVA/Les classes en JAVA.md#La création d'une classe#Déclaration d'une classe
+Developpement/Client_lourd/JAVA/Les classes en JAVA/Les classes en JAVA.md#Les collections
+Developpement/Client_lourd/JAVA/Les classes en JAVA/Les classes en JAVA.md#Les génériques
+Developpement/Client_lourd/JAVA/Les classes en JAVA/Les génériques en JAVA.md
+Developpement/Client_lourd/JAVA/Les classes en JAVA/Modificateurs.md
+Developpement/Client_lourd/JAVA/Les classes en JAVA/Types de classes/Champs en JAVA.md
+Developpement/Client_lourd/JAVA/Les classes en JAVA/Types de classes/Les collections en JAVA.md
+Developpement/Client_lourd/JAVA/Les classes en JAVA/Types de classes/Les packages en JAVA.md
+Developpement/Client_lourd/JAVA/Les classes en JAVA/Types de classes/Methodes en JAVA.md
+Developpement/Client_lourd/JAVA/Plateforme/JDK.md
+Developpement/Client_lourd/JAVA/Plateforme/JRE.md
+Developpement/Client_lourd/JAVA/Types de valeurs en JAVA.md
+Developpement/Client_lourd/JAVA/Types de valeurs en JAVA.md#Les types caracteres
+Developpement/Client_lourd/JAVA/Types de valeurs en JAVA.md#Les types décimaux
+Developpement/Client_lourd/JAVA/Types de valeurs en JAVA.md#Les types entiers
+Developpement/Client_lourd/JAVA/Variables en JAVA.md
+Developpement/Client_lourd/JAVA/Variables en JAVA.md#Initialisation des variables
+Developpement/Client_lourd/JAVA/Variables en JAVA.md#L'affectation
+Developpement/Client_lourd/JAVA/Variables en JAVA.md#La declaration des variables :
+Developpement/Client_lourd/JAVA/Variables en JAVA.md#Le nom des variable :
+Developpement/Client_lourd/JAVA/Variables en JAVA.md#le type de variable :
+Developpement/Commande_linux.md
+Developpement/Commun/Notation/PascalCase.md
+Developpement/Commun/Notation/camelCase.md
+Projets/CovoituReact/CovoituReact fonctionnement.canvas
+Projets/CovoituReact/README.md
+Projets/CovoituReact/README.md#CovoituReact
+Projets/CovoituReact/README.md#CovoituReact#Fonctionnement
+Projets/CovoituReact/README.md#CovoituReact#Fonctionnement#Connexion au site#Connexion
+Projets/CovoituReact/README.md#CovoituReact#Fonctionnement#Connexion au site#Inscription
+Projets/CovoituReact/README.md#CovoituReact#Fonctionnement#Connexion au site#Vérification de validité de la connexion
+Projets/CovoituReact/README.md#CovoituReact#Fonctionnement#Navigation sur le site#Chercher une annonce
+Projets/CovoituReact/README.md#CovoituReact#Fonctionnement#Navigation sur le site#Mes informations
+Projets/CovoituReact/README.md#CovoituReact#Fonctionnement#Navigation sur le site#Mes produits
+Projets/CovoituReact/README.md#CovoituReact#Fonctionnement#Navigation sur le site#Page d'accueil
+Projets/CovoituReact/README.md#CovoituReact#Fonctionnement#Navigation sur le site#Poster une annonce
+Projets/CovoituReact/README.md#CovoituReact#Fonctionnement#React rooter dom
+Projets/CovoituReact/README.md#CovoituReact#Outils utilisés#Back-end
+Projets/CovoituReact/README.md#CovoituReact#Outils utilisés#Front-end
+Projets/CovoituReact/README.md#CovoituReact#Presentation
+Projets/CovoituReact/README.md#CovoituReact#Sources
+Projets/CovoituReact/README.md#CovoituReact#Visuel du site#Les pages du site
+Projets/CovoituReact/README.md#CovoituReact#Visuel du site#Les pages du site#Page d'accueil
+Projets/Serveur de déploiement/Mise en place d'un serveur de déploiement.md
+Projets/Serveur de déploiement/Mise en place d'un serveur de déploiement.md#Introduction
+Projets/Serveur de déploiement/Mise en place d'un serveur de déploiement.md#Objectifs

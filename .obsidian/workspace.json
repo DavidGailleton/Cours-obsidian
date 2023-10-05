@@ -4,11 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9663ba3034e00e13",
+        "id": "f20d224b07b039ec",
         "type": "tabs",
         "children": [
           {
-            "id": "fef250593855d80f",
+            "id": "26c403bc294bc0d8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "972cdbfd9f0031b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +26,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7b2992eaca12ceee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Developpement/Client_lourd/JAVA/Les classes en JAVA/Les génériques en JAVA.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.500732421875
+    "width": 275.500732421875
   },
   "right": {
     "id": "c16eaec9fe41393f",
@@ -85,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projets/PPE 3/idée.md",
+                "file": "Developpement/Client_lourd/JAVA/Les classes en JAVA/Les génériques en JAVA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projets/PPE 3/idée.md",
+                "file": "Developpement/Client_lourd/JAVA/Les classes en JAVA/Les génériques en JAVA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projets/PPE 3/idée.md"
+                "file": "Developpement/Client_lourd/JAVA/Les classes en JAVA/Les génériques en JAVA.md"
               }
             }
           },
@@ -143,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 333.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -154,16 +176,39 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false
+      "obsidian-projects:Open projects": false,
+      "periodic-notes:Open today": false,
+      "periodic-notes:Open this week": false
     }
   },
-  "active": "fef250593855d80f",
+  "active": "7b2992eaca12ceee",
   "lastOpenFiles": [
+    "Developpement/API/REST/rest.md",
+    "Cours généraux/CEJM/2023-10-05.md",
+    "Cours généraux/CEJM/Lexique Management Economie Droit Lexique.pdf",
+    "Developpement/BDD/SQL/mysql.md",
+    "Developpement/BDD/Base de données.md",
+    "Cours généraux/CEJM/Evolution économiques liées au numérique.md",
+    "Cours généraux/CEJM/2023-10-05_support/CEJM theme 4 chap 32 révision .pdf",
+    "Cours généraux/CEJM/2023-10-05_support/CEJM theme 4 chap 33 révision .pdf",
+    "Cours généraux/CEJM/2023-10-05_support/CEJM theme 4 chap 35 révision .pdf",
+    "Cours généraux/CEJM/2023-10-05_support/CEJM theme 4 chap 35 révision -1.pdf",
+    "Cours généraux/CEJM/2023-10-05_support",
+    "Projets/PPE 3/idée.md",
+    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
+    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
+    "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
+    "Projects - Demo Project/Why You Should Be Taking More Notes.md",
+    "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
+    "Projects - Demo Project",
+    "Whisper",
+    "img/Recording 20231005100317.webm",
+    "Cours généraux/CEJM/Protection de la personne dans l'univers numérique.md",
+    "Cours généraux/CEJM/Lexique non connu - David GAILLETON.md",
+    "Cours généraux/CEJM/Impact Juridique et économique des évolution numériques.md",
     "Projets/gsb-organisation.pdf",
     "2023-10-03.md",
-    "Projets/PPE 3/idée.md",
     "a_faire/JVM.md",
-    "Projets/PPE 3",
     "Developpement/Client_lourd/JAVA/Les classes en JAVA/Les classes en JAVA.md",
     "Developpement/Client_lourd/JAVA/Les classes en JAVA/Les génériques en JAVA.md",
     "Developpement/Commun/Programmation orientée objets/UML.md",
@@ -174,29 +219,9 @@
     "Developpement/Client_lourd/JAVA/Types de valeurs en JAVA.md",
     "Developpement/API/JDBC (Java DataBase Connectivity)/JDBC.md",
     "Developpement/BDD/MongoDB/mongoDB.md",
-    "Developpement/Client_lourd/JAVA/Les classes en JAVA/Modificateurs.md",
-    "Developpement/Client_lourd/JAVA/Les classes en JAVA/Types de classes/Methodes en JAVA.md",
-    "Developpement/Client_lourd/JAVA/Les classes en JAVA/Types de classes/Les packages en JAVA.md",
-    "Developpement/Client_lourd/JAVA/Les classes en JAVA/Types de classes/Les collections en JAVA.md",
-    "Developpement/Client_lourd/JAVA/Les classes en JAVA/Types de classes/Champs en JAVA.md",
-    "Developpement/Client_lourd/JAVA/Les classes en JAVA/Collections/Ensembles (Set).md",
-    "Developpement/Client_lourd/JAVA/Interface Graphique/Thread EDT.md",
-    "Developpement/Client_lourd/JAVA/Interface Graphique/Positionnement des composants.md",
-    "Developpement/Client_lourd/JAVA/Interface Graphique/Les interfaces.md",
-    "Developpement/Client_lourd/JAVA/Interface Graphique/Les evenements.md",
-    "Developpement/Client_lourd/JAVA/Interface Graphique/Les applications graphique en JAVA.md",
-    "Developpement/Client_lourd/JAVA/Interface Graphique/Swing/Classes/JFrame.md",
     "img/Pasted image 20231003121022.png",
     "img/Pasted image 20231003120958.png",
     "img/Pasted image 20231003120855.png",
-    "Developpement/API/JDBC (Java DataBase Connectivity)",
-    "Developpement/Client_lourd/JAVA/Interface Graphique/Swing/Classes",
-    "Developpement/Client_lourd/JAVA/Interface Graphique/JAVA FX",
-    "Developpement/Client_lourd/JAVA/Interface Graphique/Spring",
-    "Developpement/Client_lourd/JAVA/Interface Graphique/AWT",
-    "Developpement/Client_lourd/JAVA/Interface Graphique/Swing",
-    "Developpement/Client_lourd/JAVA/Interface Graphique",
-    "Developpement/Client_lourd/JAVA/Les classes en JAVA/Types de classes",
     "img/Pasted image 20231003112315.png",
     "Projets/CovoituReact/CovoituReact fonctionnement.canvas",
     "img/CovoituReact fonctionnement.png",

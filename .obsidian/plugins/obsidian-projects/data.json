@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projets/PPE 3",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "df3c9a4d-0ab9-4f61-a23e-efd633f6a4c2",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "1c77b52b-4913-4371-8dd4-1404f41d2cf7",
+      "name": "PPE 3"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projets/CovoituReact",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "53ac032d-affc-458a-b108-17c2cd399cb7",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "833f6e60-e3a9-4738-88fd-f6d5d4631c16",
+      "name": "CovoituReact"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projets/Serveur de déploiement",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "4ae5fa3a-edd7-439d-9363-757a7be3c01a",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "426d3077-e027-47f3-8701-ff5d9fb80d8e",
+      "name": "Serveur de déploiement"
+    }
+  ],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}
