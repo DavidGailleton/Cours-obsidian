@@ -1,0 +1,1 @@
+Système politique dans le quel un Etat partage les compétence constitutionnelle avec les états membre qui sont souverain dans le même domaine de compétence.

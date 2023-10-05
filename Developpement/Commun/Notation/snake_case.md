@@ -1,0 +1,1 @@
+La snake_case est utilisée afin de distinguer visuellement les **mots** constituant un élément en faisant usage de tirets du bas `_` (« underscore ») en guise de séparateur.

@@ -1,0 +1,1 @@
+La kebab-case est utilisée afin de distinguer visuellement les **mots** constituant un élément en faisant usage de tirets `-` en guise de séparateur.

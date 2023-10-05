@@ -1,0 +1,1 @@
+Doctrine socio politique apparue au XIX e siècle posant pour principe l’existence au seins de l'état de communauté culturel, sociologique, économique correspondant aux régions et réclamant la reconnaissance politique de cette réalité.

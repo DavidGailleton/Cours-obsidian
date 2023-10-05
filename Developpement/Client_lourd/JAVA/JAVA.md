@@ -4,7 +4,7 @@ Java existe depuis 20 ans. Il a été créé par Sun Microsystems en 1995. Cette
 
 ## Qu'est ce que java ?
 
-- Java est un language orienté objet qui permet d'écrire des programmes.
+- Java est un language de [[Programmation orienté objet]] qui permet d'écrire des programmes.
 - C'est aussi une plateforme de developpement, elle est composé d'un enesemble de librairies et d'un ensemble de spécifications (JSR: Java specification request) qui décrivent les APIs constituant  la plateforme et les outils qui permettent de **compiler, debugger, et exécuter** les programmes écrits en JAVA.
 - C'est aussi un environnement d'execution (JRE: Java Runtime Execution). Il permet d'excutier des programmes au travers de la JVM (Java Virtual Machine). Le JRE s'installe a travers l'installation de la JDK.
 
