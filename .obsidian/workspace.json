@@ -23,6 +23,7 @@
               "state": {
                 "file": "Projets/PPE 3/idée.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -176,9 +177,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-projects:Open projects": false,
-      "periodic-notes:Open today": false,
-      "periodic-notes:Open this week": false
+      "obsidian-projects:Open projects": false
     }
   },
   "active": "7b2992eaca12ceee",
