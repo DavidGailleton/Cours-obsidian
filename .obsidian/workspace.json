@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours généraux/CEJM/2023-10-05.md",
+                "file": "Projets/CovoituReact/README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours généraux/CEJM/2023-10-05.md",
+                "file": "Projets/CovoituReact/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours généraux/CEJM/2023-10-05.md",
+                "file": "Projets/CovoituReact/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours généraux/CEJM/2023-10-05.md"
+                "file": "Projets/CovoituReact/README.md"
               }
             }
           },
@@ -180,8 +180,9 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "cb0605c79d7a5644",
+  "active": "7b2992eaca12ceee",
   "lastOpenFiles": [
+    "README.md",
     "Cours généraux/CEJM/Exercices",
     "Cours généraux/CEJM/Impact Juridique et économique des évolution numériques.md",
     "Developpement/Client_lourd/JAVA/Les classes en JAVA/Les génériques en JAVA.md",
@@ -207,7 +208,6 @@
     "img/Recording 20231005100317.webm",
     "Cours généraux/CEJM/Protection de la personne dans l'univers numérique.md",
     "Cours généraux/CEJM/Lexique non connu - David GAILLETON.md",
-    "Projets/gsb-organisation.pdf",
     "2023-10-03.md",
     "a_faire/JVM.md",
     "Developpement/Client_lourd/JAVA/Les classes en JAVA/Les classes en JAVA.md",
