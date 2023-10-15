@@ -21,23 +21,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projets/PPE 3/idée.md",
+                "file": "Developpement/Web/JS/Net_ninja_tutorial/Variables.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "7b2992eaca12ceee",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Developpement/Web/JS/Net_ninja_tutorial/Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Developpement/Web/JS/Net_ninja_tutorial/Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Developpement/Web/JS/Net_ninja_tutorial/Variables.md"
+              }
             }
           },
           {
@@ -171,8 +167,14 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "7b2992eaca12ceee",
+  "active": "972cdbfd9f0031b1",
   "lastOpenFiles": [
+    "Developpement/Web/JS/Net_ninja_tutorial/How to insert JS ?.md",
+    "Developpement/Web/JS/Net_ninja_tutorial/Variables.md",
+    "Developpement/Web/JS/JS.md",
+    "Developpement/Web/JS/Net_ninja_tutorial",
+    "Developpement/Web/JS/ex_JS.md",
+    "Projets/PPE 3/idée.md",
     "Projets/CovoituReact/README.md",
     "README.md",
     "Cours généraux/CEJM/Exercices",
@@ -189,7 +191,6 @@
     "Cours généraux/CEJM/2023-10-05_support/CEJM theme 4 chap 35 révision .pdf",
     "Cours généraux/CEJM/2023-10-05_support/CEJM theme 4 chap 35 révision -1.pdf",
     "Cours généraux/CEJM/2023-10-05_support",
-    "Projets/PPE 3/idée.md",
     "Projects - Demo Project/The Best Notes You'll Ever Make.md",
     "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
     "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
@@ -197,7 +198,6 @@
     "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
     "Projects - Demo Project",
     "Whisper",
-    "img/Recording 20231005100317.webm",
     "Cours généraux/CEJM/Protection de la personne dans l'univers numérique.md",
     "Cours généraux/CEJM/Lexique non connu - David GAILLETON.md",
     "2023-10-03.md",
@@ -205,10 +205,6 @@
     "Developpement/Client_lourd/JAVA/Les classes en JAVA/Les classes en JAVA.md",
     "Developpement/Commun/Programmation orientée objets/UML.md",
     "Developpement/Client_lourd/JAVA/Constructeurs en JAVA.md",
-    "Developpement/Client_lourd/JAVA/Fonctionnement.md",
-    "Developpement/Client_lourd/JAVA/Variables en JAVA.md",
-    "Developpement/Client_lourd/JAVA/JAVA.md",
-    "Developpement/Client_lourd/JAVA/Types de valeurs en JAVA.md",
     "img/Pasted image 20231003121022.png",
     "img/Pasted image 20231003120958.png",
     "img/Pasted image 20231003120855.png",

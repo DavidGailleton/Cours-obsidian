@@ -1,4 +1,4 @@
-En [[JAVA]] on peut déclarer une [[Variables]] a peu près n'importe ou dans notre programme. Par contre elle doivent être declarer obligatoirement entre les accolades d'une classe, interface ou enum.
+En [[JAVA]] on peut déclarer une [[Developpement/Commun/Variables]] a peu près n'importe ou dans notre programme. Par contre elle doivent être declarer obligatoirement entre les accolades d'une classe, interface ou enum.
 
 ```java
 public class MaClasse {
