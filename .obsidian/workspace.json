@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developpement/Web/JS/Net_ninja_tutorial/Variables.md",
+                "file": "Developpement/Web/JS/Net_ninja_tutorial/Variable and Constant.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developpement/Web/JS/Net_ninja_tutorial/Variables.md",
+                "file": "Developpement/Web/JS/Net_ninja_tutorial/Variable and Constant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Developpement/Web/JS/Net_ninja_tutorial/Variables.md",
+                "file": "Developpement/Web/JS/Net_ninja_tutorial/Variable and Constant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Developpement/Web/JS/Net_ninja_tutorial/Variables.md"
+                "file": "Developpement/Web/JS/Net_ninja_tutorial/Variable and Constant.md"
               }
             }
           },
@@ -169,8 +169,10 @@
   },
   "active": "972cdbfd9f0031b1",
   "lastOpenFiles": [
+    "Developpement/Web/JS/Net_ninja_tutorial/Logs.md",
+    "img/Pasted image 20231015115624.png",
+    "Developpement/Web/JS/Net_ninja_tutorial/Variable and Constant.md",
     "Developpement/Web/JS/Net_ninja_tutorial/How to insert JS ?.md",
-    "Developpement/Web/JS/Net_ninja_tutorial/Variables.md",
     "Developpement/Web/JS/JS.md",
     "Developpement/Web/JS/Net_ninja_tutorial",
     "Developpement/Web/JS/ex_JS.md",
@@ -203,8 +205,6 @@
     "2023-10-03.md",
     "a_faire/JVM.md",
     "Developpement/Client_lourd/JAVA/Les classes en JAVA/Les classes en JAVA.md",
-    "Developpement/Commun/Programmation orientée objets/UML.md",
-    "Developpement/Client_lourd/JAVA/Constructeurs en JAVA.md",
     "img/Pasted image 20231003121022.png",
     "img/Pasted image 20231003120958.png",
     "img/Pasted image 20231003120855.png",
@@ -214,7 +214,6 @@
     "img/Pasted image 20231002155522.png",
     "img/Pasted image 20231002155442.png",
     "img/Pasted image 20231002155406.png",
-    "img/Pasted image 20231002155331.png",
-    "img/Pasted image 20231002155235.png"
+    "img/Pasted image 20231002155331.png"
   ]
 }
