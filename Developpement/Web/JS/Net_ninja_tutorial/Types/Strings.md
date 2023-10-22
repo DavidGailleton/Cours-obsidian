@@ -70,5 +70,8 @@ let lastIndex = test.lastIndexOf("m")
 ```
 
 ### `slice()`
-La méthode `slice()` permet de découper une chaine de caractère pour trouver pour trouver 
+La méthode `slice()` permet de découper une chaine de caractère pour garder seulement les caractères d'un plage donnée :
+```js
+let theSlice = fullName.slice(0, 5)
+```
 
