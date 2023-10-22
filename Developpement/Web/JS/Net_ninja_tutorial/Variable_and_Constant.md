@@ -1,4 +1,6 @@
 En [[JS]] il est possible de créer des variables et des constantes
+
+Les variables et constantes doivent être définie en annotation [[camelCase]]
 ## Variable
 Pour instancier une variable, on utilise la suffixe `let`:
 ```js
