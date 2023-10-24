@@ -21,6 +21,9 @@ let secondName = 'Dow';
 
 let fullName = firstName + '' + lastName
 // fullName sera égal à "Jhon Dow"
+
+let fullName = "Hello" + 6 + 'guys'
+// fullName sera égal à "Hello 6 guys"
 ```
 
 ## Getting characters
@@ -30,7 +33,7 @@ console.log(fullName[0]);
 // retournera "J" car la première position d'une chaine de caractere est 0
 ```
 
-## Proptiété `length`
+## Propriété `length`
 ```js
 console.log(fullName.length);
 // sera égale à 8
@@ -65,13 +68,28 @@ let result = email.indexOf("@");
 La méthode `lastIndexOf()` permet de trouver la dernière position d'un caractère spécifique :
 ```js
 let test = "Lorem Ipsum"
-let lastIndex = test.lastIndexOf("m")
+let lastIndex = test.lastIndexOf("m");
 // retournera 10
 ```
 
 ### `slice()`
 La méthode `slice()` permet de découper une chaine de caractère pour garder seulement les caractères d'un plage donnée :
 ```js
-let theSlice = fullName.slice(0, 5)
+let theSlice = fullName.slice(0, 6);
+// Jhon D
+```
+
+### `substr()`
+LA méthode `substr` ressemble à la méthode [[#`slice()`]]  à la différence que le 2eme argument vas correspondre au nombre de caractère voulu et non à la position du caractère :
+```js
+let result = email.substr(2, 7);
+// "on.dow@"
+```
+
+### `replace()`
+La méthode `replace` va prendre en argument 2 option, le 1er est le caractère à remplacer et le second est le caractère remplacent. Cette méthodes va remplacer le premier caractère de la chaine correspondant à la première option :
+```js
+let result = email.replace('c', 'k');
+// "jhon.dow@likdac.fr"
 ```
 

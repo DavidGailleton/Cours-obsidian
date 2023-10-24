@@ -1,6 +1,6 @@
 Il y a différent type de données en JS
 
-## Number
+## [[Numbers]]
 En JS, les nombre décimaux et flottant font parties du meme type ***number***
 ```js
 5, 28, 3.4
@@ -22,7 +22,7 @@ Le type ***Null*** permet d'attribuer aucune valeur
 C'est le type par défault donné par les navigateurs pour les variable n'ayant pas encore de type définie
 
 ## Object
-Les objets peuvent être de nombreuse choses, des Tableau (Arrays), des Dates, etc...
+Les objets peuvent être de nombreuse choses, des Tableau ([[Arrays]]), des Dates, etc...
 
 ## Symbol
 Les symboles sont liée aux objets
