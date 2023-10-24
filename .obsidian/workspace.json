@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developpement/Web/JS/Net_ninja_tutorial/Types/Arrays.md",
+                "file": "Developpement/Web/JS/Net_ninja_tutorial/Loops/Do while.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developpement/Web/JS/Net_ninja_tutorial/Types/Arrays.md",
+                "file": "Developpement/Web/JS/Net_ninja_tutorial/Loops/Do while.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Developpement/Web/JS/Net_ninja_tutorial/Types/Arrays.md",
+                "file": "Developpement/Web/JS/Net_ninja_tutorial/Loops/Do while.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Developpement/Web/JS/Net_ninja_tutorial/Types/Arrays.md"
+                "file": "Developpement/Web/JS/Net_ninja_tutorial/Loops/Do while.md"
               }
             }
           },
@@ -160,17 +160,26 @@
   },
   "active": "972cdbfd9f0031b1",
   "lastOpenFiles": [
-    "Developpement/Web/JS/Net_ninja_tutorial/Types/Strings.md",
-    "Developpement/Web/JS/Net_ninja_tutorial/Types/Arrays.md",
-    "Developpement/Web/JS/Net_ninja_tutorial/Types/Numbers.md",
+    "Developpement/Web/JS/Net_ninja_tutorial/Loops/While.md",
+    "Developpement/Web/JS/Net_ninja_tutorial/Loops/Do while.md",
+    "Developpement/Web/JS/Net_ninja_tutorial/Loops/For.md",
+    "Developpement/Web/JS/Net_ninja_tutorial/Loops",
+    "Developpement/Web/JS/Net_ninja_tutorial/Types/Type convertion.md",
+    "Developpement/Web/JS/Net_ninja_tutorial/Types/Booleans & comparaison.md",
+    "img/d439b6003af33a87caba06e5c15c10385243b57d.jpg",
     "Developpement/Web/JS/Net_ninja_tutorial/Types.md",
-    "Developpement/Web/JS/Net_ninja_tutorial/Template.md",
-    "Developpement/Web/JS/Net_ninja_tutorial/Strings",
     "Developpement/Web/JS/Net_ninja_tutorial/Variable_and_Constant.md",
+    "Developpement/Web/JS/Net_ninja_tutorial/Template.md",
+    "Developpement/Web/JS/Net_ninja_tutorial/Logs.md",
+    "Developpement/Web/JS/Net_ninja_tutorial/Types/Null and Undefined.md",
+    "Developpement/Web/JS/Net_ninja_tutorial/Types/Objets/Arrays.md",
+    "Developpement/Web/JS/Net_ninja_tutorial/Types/Objets",
+    "Developpement/Web/JS/Net_ninja_tutorial/Types/Strings.md",
+    "Developpement/Web/JS/Net_ninja_tutorial/Types/Numbers.md",
+    "Developpement/Web/JS/Net_ninja_tutorial/Strings",
     "Developpement/Web/JS/Net_ninja_tutorial/Types",
     "Developpement/Web/JS/React/Hooks.md",
     "Developpement/Web/JS/typescript/TypeScript.md",
-    "Developpement/Web/JS/Net_ninja_tutorial/Logs.md",
     "Developpement/Web/JS/Net_ninja_tutorial/Insert_JS.md",
     "Developpement/Web/JS/React/React_Web_Extension.md",
     "Developpement/Web/JS/React/React_CSS.md",
@@ -185,18 +194,10 @@
     "Cours généraux/CEJM/Exercices",
     "Cours généraux/CEJM/Impact Juridique et économique des évolution numériques.md",
     "Developpement/Client_lourd/JAVA/Les classes en JAVA/Les génériques en JAVA.md",
-    "Developpement/API/REST/rest.md",
-    "Cours généraux/CEJM/2023-10-05.md",
     "Cours généraux/CEJM/Lexique Management Economie Droit Lexique.pdf",
-    "Developpement/BDD/SQL/mysql.md",
-    "Developpement/BDD/Base de données.md",
-    "Cours généraux/CEJM/Evolution économiques liées au numérique.md",
     "Cours généraux/CEJM/2023-10-05_support/CEJM theme 4 chap 32 révision .pdf",
     "Cours généraux/CEJM/2023-10-05_support/CEJM theme 4 chap 33 révision .pdf",
     "Cours généraux/CEJM/2023-10-05_support/CEJM theme 4 chap 35 révision .pdf",
-    "Cours généraux/CEJM/2023-10-05_support/CEJM theme 4 chap 35 révision -1.pdf",
-    "Cours généraux/CEJM/2023-10-05_support",
-    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
     "img/Pasted image 20231003121022.png",
     "img/Pasted image 20231003120958.png",
     "img/Pasted image 20231003120855.png",
@@ -205,7 +206,6 @@
     "img/CovoituReact fonctionnement.png",
     "img/Pasted image 20231002155522.png",
     "img/Pasted image 20231002155442.png",
-    "img/Pasted image 20231002155406.png",
-    "img/Pasted image 20231002155331.png"
+    "img/Pasted image 20231002155406.png"
   ]
 }

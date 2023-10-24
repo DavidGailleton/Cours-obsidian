@@ -12,13 +12,13 @@ Le type ***String*** représente une chain de caractère :
 "Hello world"
 ```
 
-## Boolean
+## [[Booleans & comparaison|Booleen]]
 Le type ***booleen*** n'a que 2 valeurs possible, `true` ou `false`
 
-## Null
+## [[Null and Undefined|Null]]
 Le type ***Null*** permet d'attribuer aucune valeur
 
-## Undefined
+## [[Null and Undefined|Undefined]]
 C'est le type par défault donné par les navigateurs pour les variable n'ayant pas encore de type définie
 
 ## Object
