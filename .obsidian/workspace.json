@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developpement/Web/JS/Net_ninja_tutorial/Loops/Do while.md",
+                "file": "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Condition/Block scope.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developpement/Web/JS/Net_ninja_tutorial/Loops/Do while.md",
+                "file": "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Condition/Block scope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Developpement/Web/JS/Net_ninja_tutorial/Loops/Do while.md",
+                "file": "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Condition/Block scope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Developpement/Web/JS/Net_ninja_tutorial/Loops/Do while.md"
+                "file": "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Condition/Block scope.md"
               }
             }
           },
@@ -160,22 +160,31 @@
   },
   "active": "972cdbfd9f0031b1",
   "lastOpenFiles": [
-    "Developpement/Web/JS/Net_ninja_tutorial/Loops/While.md",
-    "Developpement/Web/JS/Net_ninja_tutorial/Loops/Do while.md",
-    "Developpement/Web/JS/Net_ninja_tutorial/Loops/For.md",
-    "Developpement/Web/JS/Net_ninja_tutorial/Loops",
+    "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Condition/Switch.md",
+    "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Condition/Block scope.md",
+    "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Opérateur logique.md",
+    "Developpement/Web/JS/Net_ninja_tutorial/Control flow",
+    "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Loops/Break & Continue.md",
+    "Developpement/Web/JS/Net_ninja_tutorial/Types/Strings.md",
+    "Developpement/Web/JS/Net_ninja_tutorial/Types/Numbers.md",
+    "Developpement/Web/JS/Net_ninja_tutorial/Types/Null and Undefined.md",
+    "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Condition/Else and Else if statement.md",
+    "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Condition/If statement.md",
+    "a_faire/Opérateur logique.md",
     "Developpement/Web/JS/Net_ninja_tutorial/Types/Type convertion.md",
+    "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Loops/Do while.md",
+    "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Condition",
+    "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Loops/While.md",
+    "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Loops/For.md",
+    "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Loops",
     "Developpement/Web/JS/Net_ninja_tutorial/Types/Booleans & comparaison.md",
     "img/d439b6003af33a87caba06e5c15c10385243b57d.jpg",
     "Developpement/Web/JS/Net_ninja_tutorial/Types.md",
     "Developpement/Web/JS/Net_ninja_tutorial/Variable_and_Constant.md",
     "Developpement/Web/JS/Net_ninja_tutorial/Template.md",
     "Developpement/Web/JS/Net_ninja_tutorial/Logs.md",
-    "Developpement/Web/JS/Net_ninja_tutorial/Types/Null and Undefined.md",
     "Developpement/Web/JS/Net_ninja_tutorial/Types/Objets/Arrays.md",
     "Developpement/Web/JS/Net_ninja_tutorial/Types/Objets",
-    "Developpement/Web/JS/Net_ninja_tutorial/Types/Strings.md",
-    "Developpement/Web/JS/Net_ninja_tutorial/Types/Numbers.md",
     "Developpement/Web/JS/Net_ninja_tutorial/Strings",
     "Developpement/Web/JS/Net_ninja_tutorial/Types",
     "Developpement/Web/JS/React/Hooks.md",
@@ -185,19 +194,10 @@
     "Developpement/Web/JS/React/React_CSS.md",
     "img/Pasted image 20231015115624.png",
     "Developpement/Web/JS/Net_ninja_tutorial/How to insert JS ?.md",
-    "Developpement/Web/JS/JS.md",
     "Developpement/Web/JS/Net_ninja_tutorial",
-    "Developpement/Web/JS/ex_JS.md",
-    "Projets/PPE 3/idée.md",
-    "Projets/CovoituReact/README.md",
-    "README.md",
     "Cours généraux/CEJM/Exercices",
-    "Cours généraux/CEJM/Impact Juridique et économique des évolution numériques.md",
-    "Developpement/Client_lourd/JAVA/Les classes en JAVA/Les génériques en JAVA.md",
     "Cours généraux/CEJM/Lexique Management Economie Droit Lexique.pdf",
     "Cours généraux/CEJM/2023-10-05_support/CEJM theme 4 chap 32 révision .pdf",
-    "Cours généraux/CEJM/2023-10-05_support/CEJM theme 4 chap 33 révision .pdf",
-    "Cours généraux/CEJM/2023-10-05_support/CEJM theme 4 chap 35 révision .pdf",
     "img/Pasted image 20231003121022.png",
     "img/Pasted image 20231003120958.png",
     "img/Pasted image 20231003120855.png",
