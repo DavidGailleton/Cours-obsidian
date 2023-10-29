@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Condition/Block scope.md",
+                "file": "Developpement/Web/JS/Net_ninja_tutorial/Function/Arrow_function.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Condition/Block scope.md",
+                "file": "Developpement/Web/JS/Net_ninja_tutorial/Function/Arrow_function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Condition/Block scope.md",
+                "file": "Developpement/Web/JS/Net_ninja_tutorial/Function/Arrow_function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Condition/Block scope.md"
+                "file": "Developpement/Web/JS/Net_ninja_tutorial/Function/Arrow_function.md"
               }
             }
           },
@@ -160,8 +160,13 @@
   },
   "active": "972cdbfd9f0031b1",
   "lastOpenFiles": [
-    "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Condition/Switch.md",
+    "Developpement/Web/JS/Net_ninja_tutorial/Function/Return.md",
+    "Developpement/Web/JS/Net_ninja_tutorial/Function/Arrow_function.md",
+    "Developpement/Web/JS/Net_ninja_tutorial/Function/Value in function.md",
+    "Developpement/Web/JS/Net_ninja_tutorial/Function/Function.md",
     "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Condition/Block scope.md",
+    "Developpement/Web/JS/Net_ninja_tutorial/Function",
+    "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Condition/Switch.md",
     "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Opérateur logique.md",
     "Developpement/Web/JS/Net_ninja_tutorial/Control flow",
     "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Loops/Break & Continue.md",
@@ -189,15 +194,10 @@
     "Developpement/Web/JS/Net_ninja_tutorial/Types",
     "Developpement/Web/JS/React/Hooks.md",
     "Developpement/Web/JS/typescript/TypeScript.md",
-    "Developpement/Web/JS/Net_ninja_tutorial/Insert_JS.md",
-    "Developpement/Web/JS/React/React_Web_Extension.md",
-    "Developpement/Web/JS/React/React_CSS.md",
     "img/Pasted image 20231015115624.png",
-    "Developpement/Web/JS/Net_ninja_tutorial/How to insert JS ?.md",
     "Developpement/Web/JS/Net_ninja_tutorial",
     "Cours généraux/CEJM/Exercices",
     "Cours généraux/CEJM/Lexique Management Economie Droit Lexique.pdf",
-    "Cours généraux/CEJM/2023-10-05_support/CEJM theme 4 chap 32 révision .pdf",
     "img/Pasted image 20231003121022.png",
     "img/Pasted image 20231003120958.png",
     "img/Pasted image 20231003120855.png",
