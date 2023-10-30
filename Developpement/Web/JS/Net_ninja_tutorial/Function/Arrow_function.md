@@ -11,4 +11,14 @@ const functionName = parametre => {
 	// fonction
 }
 ```
-lorsque'il n'y a pas de parametre
+lorsque'il n'y a pas de parametre, on met des parentheses vide :
+```js
+const functionName = () => {
+	// fonction
+}
+```
+
+Pour un fonction s'écrivant sur 1 seul ligne qui contient `return`, on peut raccourcir la fonction sur une seul ligne :
+```js
+const functionName = radius => 3.14 * radius**2;
+```
