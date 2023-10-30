@@ -11,12 +11,9 @@
             "id": "972cdbfd9f0031b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Developpement/Web/JS/Net_ninja_tutorial/Function/Arrow_function.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Projets/gsb-organisation.pdf"
               }
             }
           }
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developpement/Web/JS/Net_ninja_tutorial/Function/Arrow_function.md",
+                "file": "Projets/gsb-organisation.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Developpement/Web/JS/Net_ninja_tutorial/Function/Arrow_function.md",
+                "file": "Projets/gsb-organisation.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Developpement/Web/JS/Net_ninja_tutorial/Function/Arrow_function.md"
+                "file": "Projets/gsb-organisation.pdf"
               }
             }
           },
@@ -160,40 +157,41 @@
   },
   "active": "972cdbfd9f0031b1",
   "lastOpenFiles": [
-    "Developpement/Web/JS/Net_ninja_tutorial/Function/Return.md",
-    "Developpement/Web/JS/Net_ninja_tutorial/Function/Arrow_function.md",
-    "Developpement/Web/JS/Net_ninja_tutorial/Function/Value in function.md",
-    "Developpement/Web/JS/Net_ninja_tutorial/Function/Function.md",
-    "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Condition/Block scope.md",
+    "Developpement/Client_lourd/JAVA/Les classes en JAVA/Les classes en JAVA.md",
+    "Developpement/Client_lourd/JAVA/Variables en JAVA.md",
+    "Developpement/Commun/Programmation orientée objets/Programmation orienté objet.md",
+    "a_faire/héritage.md",
+    "Developpement/Client_lourd/JAVA/Types de valeurs en JAVA.md",
+    "Developpement/Client_lourd/JAVA/Fonctionnement.md",
+    "Developpement/Client_lourd/JAVA/Constructeurs en JAVA.md",
+    "Developpement/Client_lourd/JAVA/Les classes en JAVA/Types de classes/Les collections en JAVA.md",
+    "Developpement/Client_lourd/JAVA/Les classes en JAVA/Types de classes/Champs en JAVA.md",
+    "Developpement/Client_lourd/JAVA/Les classes en JAVA/Types de classes/Methodes en JAVA.md",
+    "Developpement/Client_lourd/JAVA/Les classes en JAVA/Types de classes/Les packages en JAVA.md",
+    "Developpement/Client_lourd/JAVA/Les classes en JAVA/Les génériques en JAVA.md",
+    "Projets/PPE 3/PPE3_schema.canvas",
+    "Projets/PPE 3/idée.md",
+    "Developpement/Client_lourd/JAVA/Les classes en JAVA/Collections/Tableaux associatifs (Map).md",
+    "Developpement/Client_lourd/JAVA/Les classes en JAVA/Collections/Piles (Stack).md",
+    "Developpement/Client_lourd/JAVA/Les classes en JAVA/Collections/Listes (list).md",
+    "Developpement/Client_lourd/JAVA/Les classes en JAVA/Collections/Files (queue).md",
+    "Developpement/Client_lourd/JAVA/Les classes en JAVA/Collections/Ensembles (Set).md",
+    "Developpement/Client_lourd/JAVA/Les classes en JAVA/Modificateurs.md",
+    "Developpement/Commun/Programmation orientée objets/UML.md",
+    "Developpement/Client_lourd/JAVA/Plateforme/JRE.md",
+    "Developpement/Client_lourd/JAVA/Plateforme/JDK.md",
+    "Developpement/Client_lourd/JAVA/Gestion des erreurs.md",
+    "Developpement/Client_lourd/JAVA/JAVA.md",
+    "Developpement/BaseGit.md",
+    "README.md",
     "Developpement/Web/JS/Net_ninja_tutorial/Function",
-    "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Condition/Switch.md",
-    "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Opérateur logique.md",
     "Developpement/Web/JS/Net_ninja_tutorial/Control flow",
-    "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Loops/Break & Continue.md",
-    "Developpement/Web/JS/Net_ninja_tutorial/Types/Strings.md",
-    "Developpement/Web/JS/Net_ninja_tutorial/Types/Numbers.md",
-    "Developpement/Web/JS/Net_ninja_tutorial/Types/Null and Undefined.md",
-    "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Condition/Else and Else if statement.md",
-    "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Condition/If statement.md",
-    "a_faire/Opérateur logique.md",
-    "Developpement/Web/JS/Net_ninja_tutorial/Types/Type convertion.md",
-    "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Loops/Do while.md",
     "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Condition",
-    "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Loops/While.md",
-    "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Loops/For.md",
     "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Loops",
-    "Developpement/Web/JS/Net_ninja_tutorial/Types/Booleans & comparaison.md",
     "img/d439b6003af33a87caba06e5c15c10385243b57d.jpg",
-    "Developpement/Web/JS/Net_ninja_tutorial/Types.md",
-    "Developpement/Web/JS/Net_ninja_tutorial/Variable_and_Constant.md",
-    "Developpement/Web/JS/Net_ninja_tutorial/Template.md",
-    "Developpement/Web/JS/Net_ninja_tutorial/Logs.md",
-    "Developpement/Web/JS/Net_ninja_tutorial/Types/Objets/Arrays.md",
     "Developpement/Web/JS/Net_ninja_tutorial/Types/Objets",
     "Developpement/Web/JS/Net_ninja_tutorial/Strings",
     "Developpement/Web/JS/Net_ninja_tutorial/Types",
-    "Developpement/Web/JS/React/Hooks.md",
-    "Developpement/Web/JS/typescript/TypeScript.md",
     "img/Pasted image 20231015115624.png",
     "Developpement/Web/JS/Net_ninja_tutorial",
     "Cours généraux/CEJM/Exercices",
