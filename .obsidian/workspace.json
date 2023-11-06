@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developpement/BDD/MERISE/Introduction.md",
+                "file": "Cours généraux/Mathematique/Ordonnancement.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developpement/BDD/MERISE/Introduction.md",
+                "file": "Cours généraux/Mathematique/Ordonnancement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Developpement/BDD/MERISE/Introduction.md",
+                "file": "Cours généraux/Mathematique/Ordonnancement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Developpement/BDD/MERISE/Introduction.md"
+                "file": "Cours généraux/Mathematique/Ordonnancement.md"
               }
             }
           },
@@ -160,8 +160,14 @@
   },
   "active": "972cdbfd9f0031b1",
   "lastOpenFiles": [
-    "Developpement/BDD/MERISE/Cours.md",
+    "Cours généraux/Mathematique/Graphes.md",
+    "Cours généraux/Mathematique/Ordonnancement.md",
+    "Cours généraux/Mathematique/PGCD.md",
+    "Cours généraux/Mathematique/Matrices.md",
+    "Cours généraux/Culture G/Paris/Mixité sociale.md",
+    "Cours généraux/Culture G/PARIS_MIXITE SOCIALE_LIENS.pdf",
     "Developpement/BDD/MERISE/Introduction.md",
+    "Developpement/BDD/MERISE/Cours.md",
     "Developpement/BDD/MERISE/Démarche de modélisation.md",
     "Projets/gsb-organisation.pdf",
     "Developpement/BDD/MERISE",
@@ -184,11 +190,6 @@
     "Developpement/Client_lourd/JAVA/Les classes en JAVA/Collections/Listes (list).md",
     "Developpement/Client_lourd/JAVA/Les classes en JAVA/Collections/Files (queue).md",
     "Developpement/Client_lourd/JAVA/Les classes en JAVA/Collections/Ensembles (Set).md",
-    "Developpement/Client_lourd/JAVA/Les classes en JAVA/Modificateurs.md",
-    "Developpement/Commun/Programmation orientée objets/UML.md",
-    "Developpement/Client_lourd/JAVA/Plateforme/JRE.md",
-    "Developpement/Client_lourd/JAVA/Plateforme/JDK.md",
-    "Developpement/Client_lourd/JAVA/Gestion des erreurs.md",
     "Developpement/Web/JS/Net_ninja_tutorial/Function",
     "Developpement/Web/JS/Net_ninja_tutorial/Control flow",
     "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Condition",
@@ -198,7 +199,6 @@
     "Developpement/Web/JS/Net_ninja_tutorial/Strings",
     "Developpement/Web/JS/Net_ninja_tutorial/Types",
     "img/Pasted image 20231015115624.png",
-    "Developpement/Web/JS/Net_ninja_tutorial",
     "img/Pasted image 20231003121022.png",
     "img/Pasted image 20231003120958.png",
     "img/Pasted image 20231003120855.png",

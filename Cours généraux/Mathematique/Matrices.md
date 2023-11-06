@@ -10,7 +10,7 @@ Pour **multiplier une matrice par un scalaire**, on multiplie chacun des éléme
 
 ![[Capture d’écran du 2023-08-28 14-52-06.png]]
 
-Pour multiplier 2 matrices, on les multiplie par les croisements en diagonale
+Pour multiplier 2 matrices, on additionne le résultat de la multiplication des diagonale.
 
 ![[Capture d’écran du 2023-08-28 14-49-36.png]]
 
@@ -24,5 +24,7 @@ De même, pour soustraire deux matrices, on soustrait les éléments situés aux
 
 ![[Capture d’écran du 2023-08-28 14-48-18.png]]
 
-## Différents types de matrices
 
+## Inverse
+
+## Différents types de matrices
