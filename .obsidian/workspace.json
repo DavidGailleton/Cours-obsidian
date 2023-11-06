@@ -11,9 +11,12 @@
             "id": "972cdbfd9f0031b1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Projets/gsb-organisation.pdf"
+                "file": "Developpement/BDD/MERISE/Introduction.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projets/gsb-organisation.pdf",
+                "file": "Developpement/BDD/MERISE/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projets/gsb-organisation.pdf",
+                "file": "Developpement/BDD/MERISE/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projets/gsb-organisation.pdf"
+                "file": "Developpement/BDD/MERISE/Introduction.md"
               }
             }
           },
@@ -157,6 +160,11 @@
   },
   "active": "972cdbfd9f0031b1",
   "lastOpenFiles": [
+    "Developpement/BDD/MERISE/Cours.md",
+    "Developpement/BDD/MERISE/Introduction.md",
+    "Developpement/BDD/MERISE/Démarche de modélisation.md",
+    "Projets/gsb-organisation.pdf",
+    "Developpement/BDD/MERISE",
     "Developpement/Client_lourd/JAVA/Les classes en JAVA/Les classes en JAVA.md",
     "Developpement/Client_lourd/JAVA/Variables en JAVA.md",
     "Developpement/Commun/Programmation orientée objets/Programmation orienté objet.md",
@@ -181,9 +189,6 @@
     "Developpement/Client_lourd/JAVA/Plateforme/JRE.md",
     "Developpement/Client_lourd/JAVA/Plateforme/JDK.md",
     "Developpement/Client_lourd/JAVA/Gestion des erreurs.md",
-    "Developpement/Client_lourd/JAVA/JAVA.md",
-    "Developpement/BaseGit.md",
-    "README.md",
     "Developpement/Web/JS/Net_ninja_tutorial/Function",
     "Developpement/Web/JS/Net_ninja_tutorial/Control flow",
     "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Condition",
@@ -194,8 +199,6 @@
     "Developpement/Web/JS/Net_ninja_tutorial/Types",
     "img/Pasted image 20231015115624.png",
     "Developpement/Web/JS/Net_ninja_tutorial",
-    "Cours généraux/CEJM/Exercices",
-    "Cours généraux/CEJM/Lexique Management Economie Droit Lexique.pdf",
     "img/Pasted image 20231003121022.png",
     "img/Pasted image 20231003120958.png",
     "img/Pasted image 20231003120855.png",
