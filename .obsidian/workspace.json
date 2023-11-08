@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "899b272d1f05ce03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Veille techno - Langage et outils dev Web.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-08.md",
+                "file": "Veille techno - Langage et outils dev Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-11-08.md",
+                "file": "Veille techno - Langage et outils dev Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-11-08.md"
+                "file": "Veille techno - Langage et outils dev Web.md"
               }
             }
           },
@@ -158,10 +172,13 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "972cdbfd9f0031b1",
+  "active": "899b272d1f05ce03",
   "lastOpenFiles": [
-    "Cours généraux/Mathematique/Injective surjective.md",
     "2023-11-08.md",
+    "Veille techno - Langage et outils dev Web.md",
+    "Veille Techno  - outils  d'ITSM.md",
+    "2023-10-03.md",
+    "Cours généraux/Mathematique/Injective surjective.md",
     "Cours généraux/Mathematique/Ordonnancement.md",
     "Cours généraux/Mathematique/Graphes.md",
     "Cours généraux/Mathematique/PGCD.md",
@@ -187,9 +204,6 @@
     "Developpement/Client_lourd/JAVA/Les classes en JAVA/Les génériques en JAVA.md",
     "Projets/PPE 3/PPE3_schema.canvas",
     "Projets/PPE 3/idée.md",
-    "Developpement/Client_lourd/JAVA/Les classes en JAVA/Collections/Tableaux associatifs (Map).md",
-    "Developpement/Client_lourd/JAVA/Les classes en JAVA/Collections/Piles (Stack).md",
-    "Developpement/Client_lourd/JAVA/Les classes en JAVA/Collections/Listes (list).md",
     "Developpement/Web/JS/Net_ninja_tutorial/Function",
     "Developpement/Web/JS/Net_ninja_tutorial/Control flow",
     "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Condition",
