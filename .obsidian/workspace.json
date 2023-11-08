@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours généraux/Mathematique/Ordonnancement.md",
+                "file": "2023-11-08.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours généraux/Mathematique/Ordonnancement.md",
+                "file": "2023-11-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours généraux/Mathematique/Ordonnancement.md",
+                "file": "2023-11-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours généraux/Mathematique/Ordonnancement.md"
+                "file": "2023-11-08.md"
               }
             }
           },
@@ -160,8 +160,10 @@
   },
   "active": "972cdbfd9f0031b1",
   "lastOpenFiles": [
-    "Cours généraux/Mathematique/Graphes.md",
+    "Cours généraux/Mathematique/Injective surjective.md",
+    "2023-11-08.md",
     "Cours généraux/Mathematique/Ordonnancement.md",
+    "Cours généraux/Mathematique/Graphes.md",
     "Cours généraux/Mathematique/PGCD.md",
     "Cours généraux/Mathematique/Matrices.md",
     "Cours généraux/Culture G/Paris/Mixité sociale.md",
@@ -188,8 +190,6 @@
     "Developpement/Client_lourd/JAVA/Les classes en JAVA/Collections/Tableaux associatifs (Map).md",
     "Developpement/Client_lourd/JAVA/Les classes en JAVA/Collections/Piles (Stack).md",
     "Developpement/Client_lourd/JAVA/Les classes en JAVA/Collections/Listes (list).md",
-    "Developpement/Client_lourd/JAVA/Les classes en JAVA/Collections/Files (queue).md",
-    "Developpement/Client_lourd/JAVA/Les classes en JAVA/Collections/Ensembles (Set).md",
     "Developpement/Web/JS/Net_ninja_tutorial/Function",
     "Developpement/Web/JS/Net_ninja_tutorial/Control flow",
     "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Condition",
