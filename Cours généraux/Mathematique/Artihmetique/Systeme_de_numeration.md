@@ -90,3 +90,60 @@ Pour convertire de la base 16 en base 2 on fait simplement l'inverse de [[#En ba
 **4FA** sera égal **0100 1111 1010**
 
 #### en base 10
+On peut convertir un nombre hexadécimal en décimal en additionnant les chiffres multipliés par leur poids (puissance de 16 associée).
+
+E13A sera égal à 14x16<sup>3</sup> + 1x16<sup>2</sup> + 3x16<sup>1</sup> + 10x16<sup>0</sup> = 57 344 + 512 + 160 + 10 = 57658
+
+## Arrondi et de précision
+Tout nombre décimal n'a pas nécessairement une écriture finie en binaire. Il est
+donc important de se pencher sur les notions d'arrondi et de précision.
+
+Considérons le nombre 23,45825. Il existe plusieurs façon de l'arrondir :
+-  arrondi à l'entier près : 23,
+	-  arrondi (au plus proche) à 10<sup>-2</sup> près : 23,46,
+-  arrondi par défaut à 10<sup>-2</sup> près : 23,45,
+-  arrondi par excès à 10<sup>-3</sup> près : 23,459,
+-  arrondi avec une précision de 3 chiffres significatifs : 23,5.
+
+On peut aussi arrondir des nombres écrits dans d'autres bases :
+-  1001, 01112 arrondi à l'entier près vaut 10012.
+-  11, 111112 arrondi avec une précision de 3 chiffres signifcatifs vaut 11; 12.
+-  1001, 101112 arrondi avec une précision de 3 chiffres significatifs vaut 1010.
+-  A134B, C516 arrondi à l'entier près vaut A134C16.
+-  A134B, C516 arrondi avec une précision de 3 chiffres significatifs vaut A130016.
+
+## Opérations sur les entiers naturels
+
+### Addition binaire
+
+Pour additionner deux entiers écrits en binaire, il suffit de savoir que : 
+-  0 + 0 = 0,
+-  0 + 1 = 1 + 0 = 1,
+-  1 + 1 = 10,
+-  1 + 1 + 1 = 11.
+Pour effectuer l'addition binaire, on procède comme pour une addition décimale, en
+utilisant les égalités précédentes, et en tenant compte des éventuelles retenues.
+
+**Remarque**: On peut vérifier les résultats des additions binaires en repassant en décimal.
+
+**Remarque**: Pour calculer à la main des additions de nombres hexadécimaux, on peut convertir
+les nombres en binaires, puis faire l'addition, puis reconvertir le résultat en hexadécimal.
+
+### Soustraction binaire
+La soustraction fonctionne avec le même principe que l'[[#Addition binaire]].
+- 111 - 1 = 110
+- 110 - 1 = 101
+- 101 - 1 = 11
+
+### Multiplication binaire par une puissance de 2
+Soit *n* un entier naturel. Multiplier un entier binaire par 2<sup>n</sup> revient à ajouter *n* zéros à
+droite du nombre.
+1011 x 2<sup>4</sup> = 1011 x 10000 = 10110000
+
+### Division binaire par une puissance de 2
+Soit *n* un entier naturel. Lorsqu'on réalise la division euclidienne d'un entier binaire par
+2<sup>n</sup>, on obtient :
+-  un reste formé de *n* chiffres les plus à droite du nombre,
+-  un quotient formé par les chiffres restants.
+
+**Exemple**: 1011001 / 2<sup>3</sup> = 1011 et le reste est 001

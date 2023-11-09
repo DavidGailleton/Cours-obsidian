@@ -11,12 +11,9 @@
             "id": "972cdbfd9f0031b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Cours généraux/Mathematique/Artihmetique/Systeme_de_numeration.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Cours généraux/CEJM/Supports/Theme 2/CEJM theme 2 chap 15 révision .pdf"
               }
             }
           }
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours généraux/Mathematique/Artihmetique/Systeme_de_numeration.md",
+                "file": "Cours généraux/CEJM/Supports/Theme 2/CEJM theme 2 chap 15 révision .pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours généraux/Mathematique/Artihmetique/Systeme_de_numeration.md",
+                "file": "Cours généraux/CEJM/Supports/Theme 2/CEJM theme 2 chap 15 révision .pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours généraux/Mathematique/Artihmetique/Systeme_de_numeration.md"
+                "file": "Cours généraux/CEJM/Supports/Theme 2/CEJM theme 2 chap 15 révision .pdf"
               }
             }
           },
@@ -160,10 +157,19 @@
   },
   "active": "972cdbfd9f0031b1",
   "lastOpenFiles": [
-    "Cours généraux/CEJM/Supports/Revision/~WRL0945.tmp",
-    "Cours généraux/CEJM/Supports/Revision/~WRD0937.tmp",
+    "Cours généraux/CEJM/Supports/Theme 2/CEJM theme 2 chap 14 révision .pdf",
+    "Cours généraux/CEJM/Supports/Theme 2/CEJM theme 2 chap 13 révision .pdf",
+    "Cours généraux/CEJM/Supports/Theme 2/CEJM theme 2 chap 12 révision .pdf",
+    "Cours généraux/CEJM/Supports/Theme 2/CEJM theme 2 chap 11 révision .pdf",
+    "Cours généraux/CEJM/Supports/Theme 2/CEJM theme 2 chap 10 révision .pdf",
+    "Cours généraux/CEJM/Supports/Theme 2/CEJM theme 2 chap 9 révision .pdf",
+    "Cours généraux/CEJM/Supports/Theme 2/CEJM theme 2 chap 8 révision .pdf",
     "Cours généraux/Mathematique/BTS_SIO_programme_math.pdf",
+    "Cours généraux/CEJM/Supports/Theme 2/msoAF88.tmp",
+    "Cours généraux/CEJM/Supports/Theme 2/~$CEJM theme 2 chap 9 révision .pptx",
+    "Cours généraux/CEJM/Supports/Theme 2/mso6040.tmp",
     "Cours généraux/Mathematique/Artihmetique/Arithmetique_modulaire/congruence.md",
+    "Cours généraux/Mathematique/Artihmetique/Systeme_de_numeration.md",
     "Cours généraux/Mathematique/Artihmetique/Arithmetique_modulaire/Division euclidienne.md",
     "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/Contrôle d’exécution.md",
     "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/Instructions de base et opérateurs utilisés.md",
@@ -172,30 +178,21 @@
     "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/finitude.md",
     "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/algorithme.md",
     "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/exos/00 - Base Algorithme.md",
-    "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/exos",
     "Cours généraux/Mathematique/Sujet BTS/BTS 2010.md",
-    "Cours généraux/Mathematique/Suites_numerique",
-    "Cours généraux/Mathematique/Calcul Matriciel",
-    "Cours généraux/Mathematique/GRAPHES ET ORDONNANCEMENT",
     "Cours généraux/Mathematique/Injective surjective.md",
     "Cours généraux/Mathematique/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Application f d’un ensemble E dans un ensemble F.md",
     "Cours généraux/Mathematique/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Relations binaires.md",
     "Cours généraux/Mathematique/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Produit cartésien de deux ensembles.md",
-    "Cours généraux/Mathematique/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES",
     "Cours généraux/Mathematique/Algebre de Boole/CALCUL BOOLÉEN.md",
     "Cours généraux/Mathematique/Algebre de Boole/LANGAGE ENSEMBLISTE.md",
-    "Cours généraux/Mathematique/Algebre de Boole",
     "Cours généraux/Mathematique/Algebre de Boole/Calcul des prédicats.md",
     "Cours généraux/Mathematique/Algebre de Boole/Calcul propositionnel.md",
-    "Cours généraux/Mathematique/CALCUL DES PROPOSITIONS ET DES PRÉDICATS",
     "Cours généraux/Mathematique/Suites_numerique/Suites_numérique.md",
     "Cours généraux/Mathematique/GRAPHES ET ORDONNANCEMENT/Ordonnancement.md",
     "Cours généraux/Mathematique/Artihmetique/arithmetique_modulaire.md",
-    "Cours généraux/Mathematique/Artihmetique/Arithmetique_modulaire",
     "Cours généraux/Mathematique/Artihmetique/Arithmetique_modulaire/PGCD.md",
     "Cours généraux/Mathematique/GRAPHES ET ORDONNANCEMENT/Graphes.md",
     "Cours généraux/Mathematique/Calcul Matriciel/Calcul matriciel.md",
-    "Cours généraux/Mathematique/Artihmetique/Systeme_de_numeration.md",
     "Projets/PPE 3/PPE3_schema.canvas",
     "img/d439b6003af33a87caba06e5c15c10385243b57d.jpg",
     "img/Pasted image 20231015115624.png",
