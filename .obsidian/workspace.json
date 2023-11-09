@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-11-08.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "899b272d1f05ce03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Veille techno - Langage et outils dev Web.md",
+                "file": "Cours généraux/Mathematique/Artihmetique/Systeme_de_numeration.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Veille techno - Langage et outils dev Web.md",
+                "file": "Cours généraux/Mathematique/Artihmetique/Systeme_de_numeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Veille techno - Langage et outils dev Web.md",
+                "file": "Cours généraux/Mathematique/Artihmetique/Systeme_de_numeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Veille techno - Langage et outils dev Web.md"
+                "file": "Cours généraux/Mathematique/Artihmetique/Systeme_de_numeration.md"
               }
             }
           },
@@ -172,46 +158,46 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "899b272d1f05ce03",
+  "active": "972cdbfd9f0031b1",
   "lastOpenFiles": [
-    "2023-11-08.md",
-    "Veille techno - Langage et outils dev Web.md",
-    "Veille Techno  - outils  d'ITSM.md",
-    "2023-10-03.md",
+    "Cours généraux/CEJM/Supports/Revision/~WRL0945.tmp",
+    "Cours généraux/CEJM/Supports/Revision/~WRD0937.tmp",
+    "Cours généraux/Mathematique/BTS_SIO_programme_math.pdf",
+    "Cours généraux/Mathematique/Artihmetique/Arithmetique_modulaire/congruence.md",
+    "Cours généraux/Mathematique/Artihmetique/Arithmetique_modulaire/Division euclidienne.md",
+    "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/Contrôle d’exécution.md",
+    "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/Instructions de base et opérateurs utilisés.md",
+    "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/Types de données.md",
+    "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/Généralités.md",
+    "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/finitude.md",
+    "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/algorithme.md",
+    "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/exos/00 - Base Algorithme.md",
+    "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/exos",
+    "Cours généraux/Mathematique/Sujet BTS/BTS 2010.md",
+    "Cours généraux/Mathematique/Suites_numerique",
+    "Cours généraux/Mathematique/Calcul Matriciel",
+    "Cours généraux/Mathematique/GRAPHES ET ORDONNANCEMENT",
     "Cours généraux/Mathematique/Injective surjective.md",
-    "Cours généraux/Mathematique/Ordonnancement.md",
-    "Cours généraux/Mathematique/Graphes.md",
-    "Cours généraux/Mathematique/PGCD.md",
-    "Cours généraux/Mathematique/Matrices.md",
-    "Cours généraux/Culture G/Paris/Mixité sociale.md",
-    "Cours généraux/Culture G/PARIS_MIXITE SOCIALE_LIENS.pdf",
-    "Developpement/BDD/MERISE/Introduction.md",
-    "Developpement/BDD/MERISE/Cours.md",
-    "Developpement/BDD/MERISE/Démarche de modélisation.md",
-    "Projets/gsb-organisation.pdf",
-    "Developpement/BDD/MERISE",
-    "Developpement/Client_lourd/JAVA/Les classes en JAVA/Les classes en JAVA.md",
-    "Developpement/Client_lourd/JAVA/Variables en JAVA.md",
-    "Developpement/Commun/Programmation orientée objets/Programmation orienté objet.md",
-    "a_faire/héritage.md",
-    "Developpement/Client_lourd/JAVA/Types de valeurs en JAVA.md",
-    "Developpement/Client_lourd/JAVA/Fonctionnement.md",
-    "Developpement/Client_lourd/JAVA/Constructeurs en JAVA.md",
-    "Developpement/Client_lourd/JAVA/Les classes en JAVA/Types de classes/Les collections en JAVA.md",
-    "Developpement/Client_lourd/JAVA/Les classes en JAVA/Types de classes/Champs en JAVA.md",
-    "Developpement/Client_lourd/JAVA/Les classes en JAVA/Types de classes/Methodes en JAVA.md",
-    "Developpement/Client_lourd/JAVA/Les classes en JAVA/Types de classes/Les packages en JAVA.md",
-    "Developpement/Client_lourd/JAVA/Les classes en JAVA/Les génériques en JAVA.md",
+    "Cours généraux/Mathematique/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Application f d’un ensemble E dans un ensemble F.md",
+    "Cours généraux/Mathematique/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Relations binaires.md",
+    "Cours généraux/Mathematique/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Produit cartésien de deux ensembles.md",
+    "Cours généraux/Mathematique/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES",
+    "Cours généraux/Mathematique/Algebre de Boole/CALCUL BOOLÉEN.md",
+    "Cours généraux/Mathematique/Algebre de Boole/LANGAGE ENSEMBLISTE.md",
+    "Cours généraux/Mathematique/Algebre de Boole",
+    "Cours généraux/Mathematique/Algebre de Boole/Calcul des prédicats.md",
+    "Cours généraux/Mathematique/Algebre de Boole/Calcul propositionnel.md",
+    "Cours généraux/Mathematique/CALCUL DES PROPOSITIONS ET DES PRÉDICATS",
+    "Cours généraux/Mathematique/Suites_numerique/Suites_numérique.md",
+    "Cours généraux/Mathematique/GRAPHES ET ORDONNANCEMENT/Ordonnancement.md",
+    "Cours généraux/Mathematique/Artihmetique/arithmetique_modulaire.md",
+    "Cours généraux/Mathematique/Artihmetique/Arithmetique_modulaire",
+    "Cours généraux/Mathematique/Artihmetique/Arithmetique_modulaire/PGCD.md",
+    "Cours généraux/Mathematique/GRAPHES ET ORDONNANCEMENT/Graphes.md",
+    "Cours généraux/Mathematique/Calcul Matriciel/Calcul matriciel.md",
+    "Cours généraux/Mathematique/Artihmetique/Systeme_de_numeration.md",
     "Projets/PPE 3/PPE3_schema.canvas",
-    "Projets/PPE 3/idée.md",
-    "Developpement/Web/JS/Net_ninja_tutorial/Function",
-    "Developpement/Web/JS/Net_ninja_tutorial/Control flow",
-    "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Condition",
-    "Developpement/Web/JS/Net_ninja_tutorial/Control flow/Loops",
     "img/d439b6003af33a87caba06e5c15c10385243b57d.jpg",
-    "Developpement/Web/JS/Net_ninja_tutorial/Types/Objets",
-    "Developpement/Web/JS/Net_ninja_tutorial/Strings",
-    "Developpement/Web/JS/Net_ninja_tutorial/Types",
     "img/Pasted image 20231015115624.png",
     "img/Pasted image 20231003121022.png",
     "img/Pasted image 20231003120958.png",
