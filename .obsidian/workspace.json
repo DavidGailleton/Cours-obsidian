@@ -8,12 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "972cdbfd9f0031b1",
+            "id": "a1317b54ff7763e9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Cours généraux/CEJM/Supports/Theme 2/CEJM theme 2 chap 15 révision .pdf"
+                "file": "Cours généraux/CEJM/Supports/Theme 2/Chap 9 - Rôle de l'état et politique économique.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -46,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "conjoncturelle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -83,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours généraux/CEJM/Supports/Theme 2/CEJM theme 2 chap 15 révision .pdf",
+                "file": "Cours généraux/CEJM/Supports/Theme 2/Chap 9 - Rôle de l'état et politique économique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours généraux/CEJM/Supports/Theme 2/CEJM theme 2 chap 15 révision .pdf",
+                "file": "Cours généraux/CEJM/Supports/Theme 2/Chap 9 - Rôle de l'état et politique économique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours généraux/CEJM/Supports/Theme 2/CEJM theme 2 chap 15 révision .pdf"
+                "file": "Cours généraux/CEJM/Supports/Theme 2/Chap 9 - Rôle de l'état et politique économique.md"
               }
             }
           },
@@ -155,19 +159,40 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "972cdbfd9f0031b1",
+  "active": "a1317b54ff7763e9",
   "lastOpenFiles": [
+    "Cours généraux/CEJM/Supports/Revision/~WRL1654.tmp",
+    "Cours généraux/CEJM/Supports/Revision/~WRD1646.tmp",
+    "Cours généraux/CEJM/Supports/Theme 2/Chap 8 - Situation économique.md",
+    "Cours généraux/CEJM/Supports/Theme 2/Chap 9 - Rôle de l'état et politique économique.md",
+    "Developpement/Client_lourd/JAVA/Les classes en JAVA/Collections/Listes (list).md",
+    "Cours généraux/CEJM/Lexique non connu - David GAILLETON.md",
+    "Cours généraux/CEJM/Supports/Theme 2/Chap 15 - Le rôle de l'innovation.md",
+    "Cours généraux/CEJM/Supports/Theme 2/Chap 14 - Le macro-environnement et son analyse.md",
+    "Cours généraux/CEJM/Supports/Theme 2/Chap 13 - Le droit de La propriété industrielle.md",
+    "Cours généraux/CEJM/Supports/Theme 2/Chap 12 - Le droit de la concurrence.md",
+    "Cours généraux/CEJM/Supports/Theme 2/Chap 11 - Le rôle du droit et des AAI dans la régulation.md",
+    "Cours généraux/CEJM/Supports/Theme 2/Chap 10 - Contexte internationale de la régulation économique.md",
+    "Cours généraux/Culture G/Paris/Le pouvoir à Paris.md",
+    "Cours généraux/CEJM/Supports/Theme 2/CEJM theme 2 chap 15 révision .pdf",
+    "img/Pasted image 20231109160341.png",
+    "img/Pasted image 20231109160239.png",
     "Cours généraux/CEJM/Supports/Theme 2/CEJM theme 2 chap 14 révision .pdf",
+    "img/Pasted image 20231109160017.png",
+    "img/Pasted image 20231109160015.png",
+    "img/Pasted image 20231109155950.png",
+    "img/Pasted image 20231109155858.png",
     "Cours généraux/CEJM/Supports/Theme 2/CEJM theme 2 chap 13 révision .pdf",
     "Cours généraux/CEJM/Supports/Theme 2/CEJM theme 2 chap 12 révision .pdf",
     "Cours généraux/CEJM/Supports/Theme 2/CEJM theme 2 chap 11 révision .pdf",
+    "img/Pasted image 20231109154745.png",
     "Cours généraux/CEJM/Supports/Theme 2/CEJM theme 2 chap 10 révision .pdf",
+    "img/Pasted image 20231109152228.png",
+    "img/Pasted image 20231109152214.png",
     "Cours généraux/CEJM/Supports/Theme 2/CEJM theme 2 chap 9 révision .pdf",
-    "Cours généraux/CEJM/Supports/Theme 2/CEJM theme 2 chap 8 révision .pdf",
+    "img/Pasted image 20231109151850.png",
+    "Cours généraux/CEJM/Supports/Theme 2/CEJM theme 2 chap 8 révision.pdf",
     "Cours généraux/Mathematique/BTS_SIO_programme_math.pdf",
-    "Cours généraux/CEJM/Supports/Theme 2/msoAF88.tmp",
-    "Cours généraux/CEJM/Supports/Theme 2/~$CEJM theme 2 chap 9 révision .pptx",
-    "Cours généraux/CEJM/Supports/Theme 2/mso6040.tmp",
     "Cours généraux/Mathematique/Artihmetique/Arithmetique_modulaire/congruence.md",
     "Cours généraux/Mathematique/Artihmetique/Systeme_de_numeration.md",
     "Cours généraux/Mathematique/Artihmetique/Arithmetique_modulaire/Division euclidienne.md",
@@ -182,28 +207,7 @@
     "Cours généraux/Mathematique/Injective surjective.md",
     "Cours généraux/Mathematique/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Application f d’un ensemble E dans un ensemble F.md",
     "Cours généraux/Mathematique/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Relations binaires.md",
-    "Cours généraux/Mathematique/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Produit cartésien de deux ensembles.md",
-    "Cours généraux/Mathematique/Algebre de Boole/CALCUL BOOLÉEN.md",
-    "Cours généraux/Mathematique/Algebre de Boole/LANGAGE ENSEMBLISTE.md",
-    "Cours généraux/Mathematique/Algebre de Boole/Calcul des prédicats.md",
-    "Cours généraux/Mathematique/Algebre de Boole/Calcul propositionnel.md",
-    "Cours généraux/Mathematique/Suites_numerique/Suites_numérique.md",
-    "Cours généraux/Mathematique/GRAPHES ET ORDONNANCEMENT/Ordonnancement.md",
-    "Cours généraux/Mathematique/Artihmetique/arithmetique_modulaire.md",
-    "Cours généraux/Mathematique/Artihmetique/Arithmetique_modulaire/PGCD.md",
-    "Cours généraux/Mathematique/GRAPHES ET ORDONNANCEMENT/Graphes.md",
-    "Cours généraux/Mathematique/Calcul Matriciel/Calcul matriciel.md",
     "Projets/PPE 3/PPE3_schema.canvas",
-    "img/d439b6003af33a87caba06e5c15c10385243b57d.jpg",
-    "img/Pasted image 20231015115624.png",
-    "img/Pasted image 20231003121022.png",
-    "img/Pasted image 20231003120958.png",
-    "img/Pasted image 20231003120855.png",
-    "img/Pasted image 20231003112315.png",
-    "Projets/CovoituReact/CovoituReact fonctionnement.canvas",
-    "img/CovoituReact fonctionnement.png",
-    "img/Pasted image 20231002155522.png",
-    "img/Pasted image 20231002155442.png",
-    "img/Pasted image 20231002155406.png"
+    "Projets/CovoituReact/CovoituReact fonctionnement.canvas"
   ]
 }
