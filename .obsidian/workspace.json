@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours généraux/CEJM/Supports/Theme 2/Chap 9 - Rôle de l'état et politique économique.md",
-                "mode": "preview",
+                "file": "Developpement/BDD/MERISE/Cours.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours généraux/CEJM/Supports/Theme 2/Chap 9 - Rôle de l'état et politique économique.md",
+                "file": "Developpement/BDD/MERISE/Cours.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours généraux/CEJM/Supports/Theme 2/Chap 9 - Rôle de l'état et politique économique.md",
+                "file": "Developpement/BDD/MERISE/Cours.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours généraux/CEJM/Supports/Theme 2/Chap 9 - Rôle de l'état et politique économique.md"
+                "file": "Developpement/BDD/MERISE/Cours.md"
               }
             }
           },
@@ -161,10 +160,32 @@
   },
   "active": "a1317b54ff7763e9",
   "lastOpenFiles": [
+    "Developpement/BDD/MERISE/Modèles/MCD/MCD - Relations.md",
+    "img/Pasted image 20231201133316.png",
+    "img/Pasted image 20231201133201.png",
+    "Developpement/BDD/MERISE/Modèles/MCD/MCD - Concept de Base.md",
+    "Developpement/BDD/MERISE/Modèles/MCD/MCD - Modèle Conceptuel de Données.md",
+    "Developpement/BDD/MERISE/Modèles/MCD",
+    "img/Pasted image 20231201132110.png",
+    "img/Pasted image 20231201131452.png",
+    "Developpement/BDD/MERISE/Logiciels de modélisation MERISE.md",
+    "Developpement/BDD/MERISE/Application/test_mcd.asi",
+    "Developpement/BDD/MERISE/Application",
+    "Developpement/BDD/MERISE/New Folder",
+    "img/Sans titre 2.jpg",
+    "img/Sans titre 1.jpg",
+    "img/Sans titre.jpg",
+    "img/Pasted image 20231201125727.png",
+    "img/Pasted image 20231201125649.png",
+    "img/Pasted image 20231201125456.png",
+    "Developpement/BDD/MERISE/Démarche de modélisation.md",
+    "Developpement/BDD/MERISE/Modèles",
+    "Developpement/BDD/MERISE/Cours.md",
+    "Developpement/BDD/MERISE/Introduction.md",
+    "Cours généraux/CEJM/Supports/Theme 2/Chap 9 - Rôle de l'état et politique économique.md",
     "Cours généraux/CEJM/Supports/Revision/~WRL1654.tmp",
     "Cours généraux/CEJM/Supports/Revision/~WRD1646.tmp",
     "Cours généraux/CEJM/Supports/Theme 2/Chap 8 - Situation économique.md",
-    "Cours généraux/CEJM/Supports/Theme 2/Chap 9 - Rôle de l'état et politique économique.md",
     "Developpement/Client_lourd/JAVA/Les classes en JAVA/Collections/Listes (list).md",
     "Cours généraux/CEJM/Lexique non connu - David GAILLETON.md",
     "Cours généraux/CEJM/Supports/Theme 2/Chap 15 - Le rôle de l'innovation.md",
@@ -175,24 +196,8 @@
     "Cours généraux/CEJM/Supports/Theme 2/Chap 10 - Contexte internationale de la régulation économique.md",
     "Cours généraux/Culture G/Paris/Le pouvoir à Paris.md",
     "Cours généraux/CEJM/Supports/Theme 2/CEJM theme 2 chap 15 révision .pdf",
-    "img/Pasted image 20231109160341.png",
-    "img/Pasted image 20231109160239.png",
     "Cours généraux/CEJM/Supports/Theme 2/CEJM theme 2 chap 14 révision .pdf",
-    "img/Pasted image 20231109160017.png",
-    "img/Pasted image 20231109160015.png",
-    "img/Pasted image 20231109155950.png",
-    "img/Pasted image 20231109155858.png",
     "Cours généraux/CEJM/Supports/Theme 2/CEJM theme 2 chap 13 révision .pdf",
-    "Cours généraux/CEJM/Supports/Theme 2/CEJM theme 2 chap 12 révision .pdf",
-    "Cours généraux/CEJM/Supports/Theme 2/CEJM theme 2 chap 11 révision .pdf",
-    "img/Pasted image 20231109154745.png",
-    "Cours généraux/CEJM/Supports/Theme 2/CEJM theme 2 chap 10 révision .pdf",
-    "img/Pasted image 20231109152228.png",
-    "img/Pasted image 20231109152214.png",
-    "Cours généraux/CEJM/Supports/Theme 2/CEJM theme 2 chap 9 révision .pdf",
-    "img/Pasted image 20231109151850.png",
-    "Cours généraux/CEJM/Supports/Theme 2/CEJM theme 2 chap 8 révision.pdf",
-    "Cours généraux/Mathematique/BTS_SIO_programme_math.pdf",
     "Cours généraux/Mathematique/Artihmetique/Arithmetique_modulaire/congruence.md",
     "Cours généraux/Mathematique/Artihmetique/Systeme_de_numeration.md",
     "Cours généraux/Mathematique/Artihmetique/Arithmetique_modulaire/Division euclidienne.md",
@@ -200,13 +205,6 @@
     "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/Instructions de base et opérateurs utilisés.md",
     "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/Types de données.md",
     "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/Généralités.md",
-    "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/finitude.md",
-    "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/algorithme.md",
-    "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/exos/00 - Base Algorithme.md",
-    "Cours généraux/Mathematique/Sujet BTS/BTS 2010.md",
-    "Cours généraux/Mathematique/Injective surjective.md",
-    "Cours généraux/Mathematique/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Application f d’un ensemble E dans un ensemble F.md",
-    "Cours généraux/Mathematique/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Relations binaires.md",
     "Projets/PPE 3/PPE3_schema.canvas",
     "Projets/CovoituReact/CovoituReact fonctionnement.canvas"
   ]
