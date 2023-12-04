@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developpement/BDD/MERISE/Cours.md",
+                "file": "Developpement/BDD/MERISE/Exercice/Exercice_4/Exercice_4.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developpement/BDD/MERISE/Cours.md",
+                "file": "Developpement/BDD/MERISE/Exercice/Exercice_4/Exercice_4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Developpement/BDD/MERISE/Cours.md",
+                "file": "Developpement/BDD/MERISE/Exercice/Exercice_4/Exercice_4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Developpement/BDD/MERISE/Cours.md"
+                "file": "Developpement/BDD/MERISE/Exercice/Exercice_4/Exercice_4.md"
               }
             }
           },
@@ -160,31 +160,39 @@
   },
   "active": "a1317b54ff7763e9",
   "lastOpenFiles": [
+    "Developpement/BDD/MERISE/Exercice/Exercice_3/Exercice_3.md",
+    "Developpement/BDD/MERISE/Exercice/Exercice_4/Exercice_4.md",
+    "Developpement/BDD/MERISE/Exercice/Exercice_4",
+    "img/Pasted image 20231204135613.png",
+    "Developpement/BDD/MERISE/Exercice/Exercice_3/Exercice_3_AnalyseSI.asi",
+    "Developpement/BDD/MERISE/Modèles/MCD/MCD - Concept de Base.md",
     "Developpement/BDD/MERISE/Modèles/MCD/MCD - Relations.md",
+    "Developpement/BDD/MERISE/Modèles/MCD/MCD - Modèle Conceptuel de Données.md",
+    "Developpement/BDD/MERISE/Exercice/Exercice_2/Exercice_2_AnalyseSI.asi",
+    "Developpement/BDD/MERISE/Exercice/Exercice_2/Exercice_2.md",
+    "Developpement/BDD/MERISE/Exercice/Exercice_3",
+    "Developpement/BDD/MERISE/Exercice/Exercice_2",
+    "Developpement/BDD/MERISE/Cours.md",
+    "Developpement/BDD/MERISE/Exercice/Exercice_1/Exercice 1.md",
+    "Developpement/BDD/MERISE/Exercice/Exercice_1/Exercice_1_AnalyseSI.asi",
+    "Developpement/BDD/MERISE/Exercice/Exercice_1",
+    "Developpement/BDD/MERISE/Dictionnaire de données.md",
+    "Developpement/BDD/MERISE/Démarche de modélisation.md",
     "img/Pasted image 20231201133316.png",
     "img/Pasted image 20231201133201.png",
-    "Developpement/BDD/MERISE/Modèles/MCD/MCD - Concept de Base.md",
-    "Developpement/BDD/MERISE/Modèles/MCD/MCD - Modèle Conceptuel de Données.md",
     "Developpement/BDD/MERISE/Modèles/MCD",
     "img/Pasted image 20231201132110.png",
     "img/Pasted image 20231201131452.png",
     "Developpement/BDD/MERISE/Logiciels de modélisation MERISE.md",
-    "Developpement/BDD/MERISE/Application/test_mcd.asi",
-    "Developpement/BDD/MERISE/Application",
-    "Developpement/BDD/MERISE/New Folder",
+    "Developpement/BDD/MERISE/Exercice/test_mcd.asi",
+    "Developpement/BDD/MERISE/Exercice",
     "img/Sans titre 2.jpg",
     "img/Sans titre 1.jpg",
     "img/Sans titre.jpg",
     "img/Pasted image 20231201125727.png",
     "img/Pasted image 20231201125649.png",
-    "img/Pasted image 20231201125456.png",
-    "Developpement/BDD/MERISE/Démarche de modélisation.md",
-    "Developpement/BDD/MERISE/Modèles",
-    "Developpement/BDD/MERISE/Cours.md",
     "Developpement/BDD/MERISE/Introduction.md",
     "Cours généraux/CEJM/Supports/Theme 2/Chap 9 - Rôle de l'état et politique économique.md",
-    "Cours généraux/CEJM/Supports/Revision/~WRL1654.tmp",
-    "Cours généraux/CEJM/Supports/Revision/~WRD1646.tmp",
     "Cours généraux/CEJM/Supports/Theme 2/Chap 8 - Situation économique.md",
     "Developpement/Client_lourd/JAVA/Les classes en JAVA/Collections/Listes (list).md",
     "Cours généraux/CEJM/Lexique non connu - David GAILLETON.md",
@@ -195,16 +203,9 @@
     "Cours généraux/CEJM/Supports/Theme 2/Chap 11 - Le rôle du droit et des AAI dans la régulation.md",
     "Cours généraux/CEJM/Supports/Theme 2/Chap 10 - Contexte internationale de la régulation économique.md",
     "Cours généraux/Culture G/Paris/Le pouvoir à Paris.md",
-    "Cours généraux/CEJM/Supports/Theme 2/CEJM theme 2 chap 15 révision .pdf",
-    "Cours généraux/CEJM/Supports/Theme 2/CEJM theme 2 chap 14 révision .pdf",
-    "Cours généraux/CEJM/Supports/Theme 2/CEJM theme 2 chap 13 révision .pdf",
     "Cours généraux/Mathematique/Artihmetique/Arithmetique_modulaire/congruence.md",
     "Cours généraux/Mathematique/Artihmetique/Systeme_de_numeration.md",
     "Cours généraux/Mathematique/Artihmetique/Arithmetique_modulaire/Division euclidienne.md",
-    "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/Contrôle d’exécution.md",
-    "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/Instructions de base et opérateurs utilisés.md",
-    "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/Types de données.md",
-    "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/Généralités.md",
     "Projets/PPE 3/PPE3_schema.canvas",
     "Projets/CovoituReact/CovoituReact fonctionnement.canvas"
   ]

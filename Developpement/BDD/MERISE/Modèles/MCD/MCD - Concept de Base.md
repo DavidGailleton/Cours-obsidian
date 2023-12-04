@@ -19,7 +19,7 @@ Pour ce faire on peut utiliser plusieurs attribut pour trouver un appartement sp
 ![[Pasted image 20231201125107.png]]
 
 ### ID
-- Pour éviter tous doublon on peut utiliser un identifient unique que l'on nomera généralement **id_nomEntite** et celui-ci est généralement **séquentiel**
+- Pour éviter tous doublon on peut utiliser un identifient unique que l'on nomera généralement **id_nomEntite** et celui-ci est généralement **séquentiel** (**Il est important de ne pas oublier de soulignée les clé primaire**)
 - Un entier auto-incrément
 - Une combinaison de code avec une partie qui s'incrémente
 ![[Pasted image 20231201125423.png]]
@@ -30,5 +30,6 @@ Pour ce faire on peut utiliser plusieurs attribut pour trouver un appartement sp
 Les cardinalités précisent la participation d'une entité à une relation
 
 La cardinalité est représenté par des **parenthèse** contenant 2 chiffres séparé par une virgule. le premier chiffre est le nombre minimal pour lequel une entitée peut ajouter des composant à une **association**. Le second est le nombre maximal (ou **N** pour infini)  
+[[MCD - Modèle Conceptuel de Données|MCD]] :
 
 ![[Pasted image 20231201132110.png]]
