@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developpement/BDD/MERISE/Exercice/Exercice_7/Exercice_7.md",
+                "file": "Developpement/BDD/MERISE/Exercice/Exercice_8/Exercice_8.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developpement/BDD/MERISE/Exercice/Exercice_7/Exercice_7.md",
+                "file": "Developpement/BDD/MERISE/Exercice/Exercice_8/Exercice_8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Developpement/BDD/MERISE/Exercice/Exercice_7/Exercice_7.md",
+                "file": "Developpement/BDD/MERISE/Exercice/Exercice_8/Exercice_8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Developpement/BDD/MERISE/Exercice/Exercice_7/Exercice_7.md"
+                "file": "Developpement/BDD/MERISE/Exercice/Exercice_8/Exercice_8.md"
               }
             }
           },
@@ -160,8 +160,14 @@
   },
   "active": "a1317b54ff7763e9",
   "lastOpenFiles": [
-    "Developpement/BDD/MERISE/Exercice/Exercice_5/Exercice_5.md",
     "Developpement/BDD/MERISE/Exercice/Exercice_7/Exercice_7.md",
+    "Developpement/BDD/MERISE/Exercice/Exercice_8/Exercice_8.md",
+    "Developpement/BDD/MERISE/Exercice/Exercice_8",
+    "Developpement/BDD/MERISE/Exercice/Exercice_5/Exercice_5.md",
+    "img/Pasted image 20231205161633.png",
+    "img/Pasted image 20231205154949.png",
+    "Developpement/BDD/MERISE/Exercice/Exercice_7/Exercice_7_AnalyseSI_MCD.asi",
+    "Developpement/BDD/MERISE/Exercice/Exercice_6/Exercice_6.md",
     "Developpement/BDD/MERISE/Exercice/Exercice_7",
     "Developpement/BDD/MERISE/Exercice/Exercice_6/Untitled",
     "img/Pasted image 20231205133426.png",
@@ -197,15 +203,9 @@
     "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/Contrôle d’exécution.md",
     "Developpement/BDD/MERISE/Conversiton MCD - MLD.md",
     "Developpement/BDD/MERISE/Modèles/MLD/MLD.md",
-    "Developpement/BDD/MERISE/Modèles/MLD",
-    "Developpement/BDD/MERISE/Exercice/Exercice_6/Exercice_6.md",
-    "Developpement/BDD/MERISE/Exercice/Exercice_6/Exercice_6_AnalyseSI.asi",
-    "Developpement/BDD/MERISE/Modèles/MCD/MCD - Relations.md",
     "img/Pasted image 20231204135613.png",
     "img/Pasted image 20231201133316.png",
     "img/Pasted image 20231201133201.png",
-    "img/Pasted image 20231201132110.png",
-    "img/Pasted image 20231201131452.png",
     "Projets/PPE 3/PPE3_schema.canvas",
     "Projets/CovoituReact/CovoituReact fonctionnement.canvas"
   ]
