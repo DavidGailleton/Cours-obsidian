@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developpement/BDD/MERISE/Exercice/Exercice_8/Exercice_8.md",
+                "file": "Developpement/BDD/MERISE/Exercice/Exercice_10/Exercice_10.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developpement/BDD/MERISE/Exercice/Exercice_8/Exercice_8.md",
+                "file": "Developpement/BDD/MERISE/Exercice/Exercice_10/Exercice_10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Developpement/BDD/MERISE/Exercice/Exercice_8/Exercice_8.md",
+                "file": "Developpement/BDD/MERISE/Exercice/Exercice_10/Exercice_10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Developpement/BDD/MERISE/Exercice/Exercice_8/Exercice_8.md"
+                "file": "Developpement/BDD/MERISE/Exercice/Exercice_10/Exercice_10.md"
               }
             }
           },
@@ -158,10 +158,20 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "a1317b54ff7763e9",
+  "active": "cb0605c79d7a5644",
   "lastOpenFiles": [
-    "Developpement/BDD/MERISE/Exercice/Exercice_7/Exercice_7.md",
+    "Developpement/BDD/MERISE/Exercice/Exercice_12",
+    "Developpement/BDD/MERISE/Exercice/Exercice_11/Exercice_11_AnalyseSI_MCD.asi",
+    "Developpement/BDD/MERISE/Exercice/Exercice_11",
+    "Developpement/BDD/MERISE/Exercice/Exercice_10/Exercice_10_AnalyseSI_MCD.asi",
+    "img/Pasted image 20231206112747.png",
     "Developpement/BDD/MERISE/Exercice/Exercice_8/Exercice_8.md",
+    "Developpement/BDD/MERISE/Exercice/Exercice_10/Exercice_10.md",
+    "Developpement/BDD/MERISE/Exercice/Exercice_9/Exercice_9_AnalyseSI_MCD.asi",
+    "Developpement/BDD/MERISE/Exercice/Exercice_10",
+    "Developpement/BDD/MERISE/Exercice/Exercice_9",
+    "Developpement/BDD/MERISE/Exercice/Exercice_8/Exercice_8_AnalyseSI_MCD.asi",
+    "Developpement/BDD/MERISE/Exercice/Exercice_7/Exercice_7.md",
     "Developpement/BDD/MERISE/Exercice/Exercice_8",
     "Developpement/BDD/MERISE/Exercice/Exercice_5/Exercice_5.md",
     "img/Pasted image 20231205161633.png",
@@ -169,22 +179,15 @@
     "Developpement/BDD/MERISE/Exercice/Exercice_7/Exercice_7_AnalyseSI_MCD.asi",
     "Developpement/BDD/MERISE/Exercice/Exercice_6/Exercice_6.md",
     "Developpement/BDD/MERISE/Exercice/Exercice_7",
-    "Developpement/BDD/MERISE/Exercice/Exercice_6/Untitled",
     "img/Pasted image 20231205133426.png",
-    "Developpement/BDD/MERISE/Exercice/Exercice_5/Exercice_5_AnalyseSI_MCD.asi",
     "Developpement/BDD/MERISE/Exercice/Exercice_4/Exercice_4.md",
     "img/Pasted image 20231205120450.png",
-    "Developpement/BDD/MERISE/Exercice/Exercice_4/Exercice_4_AnalyseSI_MCD.asi",
     "Developpement/BDD/MERISE/Exercice/Exercice_3/Exercice_3.md",
     "Developpement/BDD/MERISE/Exercice/Exercice_2/Exercice_2.md",
     "img/Pasted image 20231205111640.png",
-    "Developpement/BDD/MERISE/Exercice/Exercice_3/Exercice_3_AnalyseSI_MCD.asi",
     "img/Pasted image 20231205101512.png",
-    "Developpement/BDD/MERISE/Exercice/Exercice_2/Exercice_2_AnalyseSI_MCD.asi",
     "Developpement/BDD/MERISE/Exercice/Exercice_1/Exercice 1.md",
     "img/Pasted image 20231205094938.png",
-    "Cours généraux/Mathematique/BTS_SIO_programme_math.pdf",
-    "Developpement/BDD/MERISE/Exercice/Exercice_1/Exercice_1_AnalyseSI_MCD.asi",
     "Cours généraux/Mathematique/Sujet BTS/BTS 2010.md",
     "Cours généraux/Mathematique/Suites_numerique/Suites_numérique.md",
     "Cours généraux/Mathematique/GRAPHES ET ORDONNANCEMENT/Ordonnancement.md",
@@ -201,11 +204,8 @@
     "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/Généralités.md",
     "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/Instructions de base et opérateurs utilisés.md",
     "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/Contrôle d’exécution.md",
-    "Developpement/BDD/MERISE/Conversiton MCD - MLD.md",
-    "Developpement/BDD/MERISE/Modèles/MLD/MLD.md",
     "img/Pasted image 20231204135613.png",
     "img/Pasted image 20231201133316.png",
-    "img/Pasted image 20231201133201.png",
     "Projets/PPE 3/PPE3_schema.canvas",
     "Projets/CovoituReact/CovoituReact fonctionnement.canvas"
   ]
