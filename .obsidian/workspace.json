@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developpement/BDD/MERISE/Exercice/Exercice_10/Exercice_10.md",
+                "file": "Developpement/BDD/MERISE/Exercice/Exercice_13.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developpement/BDD/MERISE/Exercice/Exercice_10/Exercice_10.md",
+                "file": "Developpement/BDD/MERISE/Exercice/Exercice_13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Developpement/BDD/MERISE/Exercice/Exercice_10/Exercice_10.md",
+                "file": "Developpement/BDD/MERISE/Exercice/Exercice_13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Developpement/BDD/MERISE/Exercice/Exercice_10/Exercice_10.md"
+                "file": "Developpement/BDD/MERISE/Exercice/Exercice_13.md"
               }
             }
           },
@@ -158,15 +158,20 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "cb0605c79d7a5644",
+  "active": "a1317b54ff7763e9",
   "lastOpenFiles": [
+    "Developpement/BDD/MERISE/Exercice/Exercice_12/Exercice_12_AnalyseSI_MCD.asi",
+    "Developpement/BDD/MERISE/Exercice/Exercice_13",
+    "Developpement/BDD/MERISE/Identification relative.md",
+    "Developpement/BDD/MERISE/Exercice/Exercice_13.md",
+    "Developpement/BDD/MERISE/Associations reflective.md",
+    "Developpement/BDD/MERISE/Exercice/Exercice_10/Exercice_10.md",
     "Developpement/BDD/MERISE/Exercice/Exercice_12",
     "Developpement/BDD/MERISE/Exercice/Exercice_11/Exercice_11_AnalyseSI_MCD.asi",
     "Developpement/BDD/MERISE/Exercice/Exercice_11",
     "Developpement/BDD/MERISE/Exercice/Exercice_10/Exercice_10_AnalyseSI_MCD.asi",
     "img/Pasted image 20231206112747.png",
     "Developpement/BDD/MERISE/Exercice/Exercice_8/Exercice_8.md",
-    "Developpement/BDD/MERISE/Exercice/Exercice_10/Exercice_10.md",
     "Developpement/BDD/MERISE/Exercice/Exercice_9/Exercice_9_AnalyseSI_MCD.asi",
     "Developpement/BDD/MERISE/Exercice/Exercice_10",
     "Developpement/BDD/MERISE/Exercice/Exercice_9",
@@ -176,9 +181,7 @@
     "Developpement/BDD/MERISE/Exercice/Exercice_5/Exercice_5.md",
     "img/Pasted image 20231205161633.png",
     "img/Pasted image 20231205154949.png",
-    "Developpement/BDD/MERISE/Exercice/Exercice_7/Exercice_7_AnalyseSI_MCD.asi",
     "Developpement/BDD/MERISE/Exercice/Exercice_6/Exercice_6.md",
-    "Developpement/BDD/MERISE/Exercice/Exercice_7",
     "img/Pasted image 20231205133426.png",
     "Developpement/BDD/MERISE/Exercice/Exercice_4/Exercice_4.md",
     "img/Pasted image 20231205120450.png",
@@ -201,9 +204,6 @@
     "Cours généraux/Mathematique/Artihmetique/Arithmetique_modulaire/Division euclidienne.md",
     "Cours généraux/Mathematique/Artihmetique/Arithmetique_modulaire/congruence.md",
     "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/Types de données.md",
-    "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/Généralités.md",
-    "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/Instructions de base et opérateurs utilisés.md",
-    "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/Contrôle d’exécution.md",
     "img/Pasted image 20231204135613.png",
     "img/Pasted image 20231201133316.png",
     "Projets/PPE 3/PPE3_schema.canvas",
