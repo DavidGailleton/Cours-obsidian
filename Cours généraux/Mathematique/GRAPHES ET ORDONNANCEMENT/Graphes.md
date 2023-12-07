@@ -9,7 +9,8 @@ Mais également par des tableau
 ![[Capture d’écran du 2023-08-28 14-08-17 1.png]]
  
 Nous pouvons aussi les représenter par des [[Calcul matriciel]]
-![[Capture d’écran du 2023-08-28 14-10-49.png]]
+
+$\begin{bmatrix}0 & 1 & 1 & 1\\0&0&1&0\\0&1&0&1\\1&0&0&1\end{bmatrix}$
 
 ## Les chemins et Circuits
 
@@ -38,29 +39,14 @@ Pour cet exemple nous allons utilise ce graphe :
 
 Pour trouver l'ensemble des chemins de longueur 1 nous allons créer une matrice
 
- M | X1 | X2 | X3 | X4
- :---: | :---: | :---: | :---: | :---: 
-X1 | 0 | 1 | 0 | 0 
-X2 | 0 | 0 | 1 | 0
-X3 | 0 | 0 | 0 | 1
-X4 | 0 | 0 | 0 | 0
+$\begin{bmatrix}0 & 1 & 0 & 0\\0&0&1&0\\0&0&0&1\\0&0&0&0\end{bmatrix}$
 
 Pour trouver l'ensemble des chemins de longueur 2, il suffit de mettre la matrice au carré :
 
- M² | X1 | X2 | X3 | X4
- :---: | :---: | :---: | :---: | :---: 
-X1 | 0 | 0 | 1 | 0 
-X2 | 0 | 0 | 0 | 1
-X3 | 0 | 0 | 0 | 0
-X4 | 0 | 0 | 0 | 0
+$\begin{bmatrix}0 & 0 & 1 & 0\\0&0&0&1\\0&0&0&0\\0&0&0&0\end{bmatrix}$
 
 Pour les chemins de longueur 3, au cube :
 
- M³ | X1 | X2 | X3 | X4
- :---: | :---: | :---: | :---: | :---: 
-X1 | 0 | 0 | 0 | 1 
-X2 | 0 | 0 | 0 | 0
-X3 | 0 | 0 | 0 | 0
-X4 | 0 | 0 | 0 | 0
+$\begin{bmatrix}0 & 0 & 0 & 1\\0&0&0&0\\0&0&0&0\\0&0&0&0\end{bmatrix}$
 
 Et ainsi de suite...

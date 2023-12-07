@@ -8,12 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a1317b54ff7763e9",
+            "id": "4869ef35705ed328",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developpement/BDD/MERISE/Exercice/Exercice_13.md",
+                "file": "Cours généraux/Mathematique/Algebre de Boole/CALCUL BOOLÉEN.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "248771f1bda0b465",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Veille techno - Langage et outils dev Web.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developpement/BDD/MERISE/Exercice/Exercice_13.md",
+                "file": "Cours généraux/Mathematique/Algebre de Boole/CALCUL BOOLÉEN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Developpement/BDD/MERISE/Exercice/Exercice_13.md",
+                "file": "Cours généraux/Mathematique/Algebre de Boole/CALCUL BOOLÉEN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Developpement/BDD/MERISE/Exercice/Exercice_13.md"
+                "file": "Cours généraux/Mathematique/Algebre de Boole/CALCUL BOOLÉEN.md"
               }
             }
           },
@@ -158,54 +171,54 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "a1317b54ff7763e9",
+  "active": "4869ef35705ed328",
   "lastOpenFiles": [
+    "Cours généraux/Mathematique/Algebre de Boole/LANGAGE ENSEMBLISTE.md",
+    "Cours généraux/Mathematique/Algebre de Boole/Calcul propositionnel.md",
+    "Cours généraux/Mathematique/Algebre de Boole/Calcul des prédicats.md",
+    "Cours généraux/Mathematique/Algebre de Boole/CALCUL BOOLÉEN.md",
+    "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/Contrôle d’exécution.md",
+    "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/exos/00 - Base Algorithme.md",
+    "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/exos/02 - Rendre la monnaie.md",
+    "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/Types de données.md",
+    "Cours généraux/Mathematique/Artihmetique/Arithmetique_modulaire/congruence.md",
+    "Cours généraux/Mathematique/Artihmetique/Systeme_de_numeration.md",
+    "Cours généraux/Mathematique/Artihmetique/Arithmetique_modulaire/Division euclidienne.md",
+    "Cours généraux/Mathematique/Artihmetique/Arithmetique_modulaire/PGCD.md",
+    "Cours généraux/Mathematique/Calcul Matriciel/Calcul matriciel.md",
+    "Cours généraux/Mathematique/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Produit cartésien de deux ensembles.md",
+    "Cours généraux/Mathematique/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Relations binaires.md",
+    "Cours généraux/Mathematique/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Application f d’un ensemble E dans un ensemble F.md",
+    "Cours généraux/Mathematique/GRAPHES ET ORDONNANCEMENT/Graphes.md",
+    "Cours généraux/Mathematique/GRAPHES ET ORDONNANCEMENT/Ordonnancement.md",
+    "Cours généraux/Mathematique/Suites_numerique/Suites_numérique.md",
+    "img/Pasted image 20231207114514.png",
+    "Veille techno - Langage et outils dev Web.md",
+    "img/Pasted image 20231207112003.png",
+    "img/Pasted image 20231207111958.png",
+    "img/Pasted image 20231207110145.png",
+    "img/Pasted image 20231207110116.png",
+    "Cours généraux/CEJM/Supports/Theme 2/Chap 8 - Situation économique.md",
+    "Developpement/BDD/MERISE/Exercice/Exercice_13/Exercice_13.md",
+    "Developpement/BDD/MERISE/Associations reflexives.md",
+    "Developpement/BDD/MERISE/Exercice/MicrosoftTeams-image_1.PNG",
+    "Developpement/BDD/MERISE/Exercice/MicrosoftTeams-image_8.PNG",
+    "img/Pasted image 20231207094149.png",
+    "Developpement/BDD/MERISE/Identification relative.md",
+    "Developpement/BDD/MERISE/Exercice/MicrosoftTeams-image_7.PNG",
+    "img/Pasted image 20231207094016.png",
+    "Developpement/BDD/MERISE/Modèles/MLD/MLD.md",
+    "Developpement/BDD/MERISE/Exercice/Exercice_14",
     "Developpement/BDD/MERISE/Exercice/Exercice_12/Exercice_12_AnalyseSI_MCD.asi",
     "Developpement/BDD/MERISE/Exercice/Exercice_13",
-    "Developpement/BDD/MERISE/Identification relative.md",
-    "Developpement/BDD/MERISE/Exercice/Exercice_13.md",
-    "Developpement/BDD/MERISE/Associations reflective.md",
     "Developpement/BDD/MERISE/Exercice/Exercice_10/Exercice_10.md",
     "Developpement/BDD/MERISE/Exercice/Exercice_12",
     "Developpement/BDD/MERISE/Exercice/Exercice_11/Exercice_11_AnalyseSI_MCD.asi",
     "Developpement/BDD/MERISE/Exercice/Exercice_11",
     "Developpement/BDD/MERISE/Exercice/Exercice_10/Exercice_10_AnalyseSI_MCD.asi",
-    "img/Pasted image 20231206112747.png",
-    "Developpement/BDD/MERISE/Exercice/Exercice_8/Exercice_8.md",
     "Developpement/BDD/MERISE/Exercice/Exercice_9/Exercice_9_AnalyseSI_MCD.asi",
     "Developpement/BDD/MERISE/Exercice/Exercice_10",
     "Developpement/BDD/MERISE/Exercice/Exercice_9",
-    "Developpement/BDD/MERISE/Exercice/Exercice_8/Exercice_8_AnalyseSI_MCD.asi",
-    "Developpement/BDD/MERISE/Exercice/Exercice_7/Exercice_7.md",
-    "Developpement/BDD/MERISE/Exercice/Exercice_8",
-    "Developpement/BDD/MERISE/Exercice/Exercice_5/Exercice_5.md",
-    "img/Pasted image 20231205161633.png",
-    "img/Pasted image 20231205154949.png",
-    "Developpement/BDD/MERISE/Exercice/Exercice_6/Exercice_6.md",
-    "img/Pasted image 20231205133426.png",
-    "Developpement/BDD/MERISE/Exercice/Exercice_4/Exercice_4.md",
-    "img/Pasted image 20231205120450.png",
-    "Developpement/BDD/MERISE/Exercice/Exercice_3/Exercice_3.md",
-    "Developpement/BDD/MERISE/Exercice/Exercice_2/Exercice_2.md",
-    "img/Pasted image 20231205111640.png",
-    "img/Pasted image 20231205101512.png",
-    "Developpement/BDD/MERISE/Exercice/Exercice_1/Exercice 1.md",
-    "img/Pasted image 20231205094938.png",
-    "Cours généraux/Mathematique/Sujet BTS/BTS 2010.md",
-    "Cours généraux/Mathematique/Suites_numerique/Suites_numérique.md",
-    "Cours généraux/Mathematique/GRAPHES ET ORDONNANCEMENT/Ordonnancement.md",
-    "Cours généraux/Mathematique/GRAPHES ET ORDONNANCEMENT/Graphes.md",
-    "Cours généraux/Mathematique/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Relations binaires.md",
-    "Cours généraux/Mathematique/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Produit cartésien de deux ensembles.md",
-    "Cours généraux/Mathematique/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Application f d’un ensemble E dans un ensemble F.md",
-    "Cours généraux/Mathematique/Calcul Matriciel/Calcul matriciel.md",
-    "Cours généraux/Mathematique/Artihmetique/Systeme_de_numeration.md",
-    "Cours généraux/Mathematique/Artihmetique/Arithmetique_modulaire/PGCD.md",
-    "Cours généraux/Mathematique/Artihmetique/Arithmetique_modulaire/Division euclidienne.md",
-    "Cours généraux/Mathematique/Artihmetique/Arithmetique_modulaire/congruence.md",
-    "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/Types de données.md",
-    "img/Pasted image 20231204135613.png",
-    "img/Pasted image 20231201133316.png",
     "Projets/PPE 3/PPE3_schema.canvas",
     "Projets/CovoituReact/CovoituReact fonctionnement.canvas"
   ]

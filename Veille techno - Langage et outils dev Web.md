@@ -22,3 +22,4 @@ La méthode **pull** consiste à aller chercher l'information.
 
 #### Youtube - [Fireship](https://www.youtube.com/@Fireship)
 
+#### Medium
