@@ -12,7 +12,7 @@ Les éléments visibles depuis l’extérieur de la classe sont appelés l'inter
 
 ### L'héritage
 
-L’[[héritage]] permet de créer une classe au partir d'une classe existante. La classe héritée est appelée la classe mère, la classe qui hérite est appelée la classe fille.
+L’[[a_faire/héritage]] permet de créer une classe au partir d'une classe existante. La classe héritée est appelée la classe mère, la classe qui hérite est appelée la classe fille.
 
 ### Le polymorphisme
 
