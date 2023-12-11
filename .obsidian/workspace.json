@@ -11,10 +11,8 @@
             "id": "248771f1bda0b465",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Developpement/BDD/MERISE/Exercice/Exercice_14/Exercice_14.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developpement/BDD/MERISE/Exercice/Exercice_14/Exercice_14.pdf",
+                "file": "Developpement/Sujet_BTS/sujet_2013/13SL01-EQUIDA-Suj.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Developpement/BDD/MERISE/Exercice/Exercice_14/Exercice_14.pdf",
+                "file": "Developpement/Sujet_BTS/sujet_2013/13SL01-EQUIDA-Suj.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Developpement/BDD/MERISE/Exercice/Exercice_14/Exercice_14.pdf"
+                "file": "Developpement/Sujet_BTS/sujet_2013/13SL01-EQUIDA-Suj.pdf"
               }
             }
           },
@@ -155,12 +153,52 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "248771f1bda0b465",
+  "floating": {
+    "id": "e279d51e0258db05",
+    "type": "floating",
+    "children": [
+      {
+        "id": "4b79143135319d13",
+        "type": "window",
+        "children": [
+          {
+            "id": "9ab7efff2c015dfb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ae4b85f8af6d210f",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Developpement/Sujet_BTS/sujet_2013/13SL01-EQUIDA-Suj.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 768,
+        "y": 0,
+        "width": 768,
+        "height": 816,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "ae4b85f8af6d210f",
   "lastOpenFiles": [
+    "Developpement/Sujet_BTS/sujet_2013/13SL01-EQUIDA-Suj.pdf",
+    "Developpement/Sujet_BTS/sujet_2013/Sujet_2013.md",
+    "Developpement/BDD/MERISE/Exercice/Exercice_14/Exercice_14.pdf",
+    "Developpement/Sujet_BTS/sujet_2013",
+    "Developpement/Sujet_BTS/Untitled.md",
+    "Developpement/Sujet_BTS",
     "Developpement/BDD/MERISE/Exercice/Exercice_14/Katyusha_MCD_Exercice_14.mcd",
     "Developpement/BDD/MERISE/Exercice/Exercice_14/Exercice_14.md",
     "Cours généraux/Mathematique/Algebre de Boole/CALCUL BOOLÉEN.md",
-    "Developpement/BDD/MERISE/Exercice/Exercice_14/Exercice_14.pdf",
     "Developpement/BDD/MERISE/Exercice/Exercice_13/Exercice_13.md",
     "Developpement/BDD/MERISE/Héritage.md",
     "Veille techno - Langage et outils dev Web.md",
@@ -187,8 +225,6 @@
     "img/Pasted image 20231207111958.png",
     "img/Pasted image 20231207110145.png",
     "img/Pasted image 20231207110116.png",
-    "Cours généraux/CEJM/Supports/Theme 2/Chap 8 - Situation économique.md",
-    "Developpement/BDD/MERISE/Associations reflexives.md",
     "Developpement/BDD/MERISE/Exercice/MicrosoftTeams-image_1.PNG",
     "Developpement/BDD/MERISE/Exercice/MicrosoftTeams-image_8.PNG",
     "img/Pasted image 20231207094149.png",
@@ -199,10 +235,6 @@
     "Developpement/BDD/MERISE/Exercice/Exercice_13",
     "Developpement/BDD/MERISE/Exercice/Exercice_12",
     "Developpement/BDD/MERISE/Exercice/Exercice_11/Exercice_11_AnalyseSI_MCD.asi",
-    "Developpement/BDD/MERISE/Exercice/Exercice_11",
-    "Developpement/BDD/MERISE/Exercice/Exercice_10/Exercice_10_AnalyseSI_MCD.asi",
-    "Developpement/BDD/MERISE/Exercice/Exercice_9/Exercice_9_AnalyseSI_MCD.asi",
-    "Developpement/BDD/MERISE/Exercice/Exercice_10",
     "Projets/PPE 3/PPE3_schema.canvas",
     "Projets/CovoituReact/CovoituReact fonctionnement.canvas"
   ]
