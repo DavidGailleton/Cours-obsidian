@@ -143,7 +143,7 @@ droite du nombre.
 ### Division binaire par une puissance de 2
 Soit *n* un entier naturel. Lorsqu'on réalise la division euclidienne d'un entier binaire par
 2<sup>n</sup>, on obtient :
--  un reste formé de *n* chiffres les plus à droite du nombre,
+-  un reste formé de $n$ chiffres les plus à droite du nombre,
 -  un quotient formé par les chiffres restants.
 
-**Exemple**: 1011001 / 2<sup>3</sup> = 1011 et le reste est 001
+**Exemple**: $1011001 / 2^3 = 1011$ et le reste est $001$

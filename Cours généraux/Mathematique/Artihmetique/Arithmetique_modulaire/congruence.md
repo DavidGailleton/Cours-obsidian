@@ -13,4 +13,13 @@ Dans tout ce qui suit, n est un entier naturel non nul, a et b sont des entiers 
 ### la transitivité
 On considère trois entiers relatifs a, b et c, et un entier naturel n non nul.  
 On a alors : $$\text{Si} \; a≡b[n] \; \text{et} \; b≡c[n] \text{, alors} \; a≡c[n]$$
-A CONTINUER
+### **Relation de transitivité**
+Il est possible d'effectuer des opération sur les congruence. On pourras utiliser l'**addition**, la **soustraction**, la **multiplication** et la **puissance** (Il est **Interdit** d'utiliser la division): 
+$$a+a'≡b+b'[n]$$
+$$-+a'≡b-b'[n]$$
+$$a*a'≡b*b'[n]$$
+$$a^p≡b^p[n], \forall p \in \Bbb{N}$$
+**on peut ajouter ou soustraire autant de fois que l’on veut le modulo.**
+Ainsi, si on a par exemple :  
+$a ≡ 40 [7]$, on peut dire $a ≡ 33 [7]$, $a ≡ 26 [7]$, $a ≡ 19 [7]$, etc… (on enlève 7 à chaque fois).  
+On peut aussi dire $a ≡ 47 [7]$, $a ≡ 54 [7]$, etc… (on rajoute 7 à chaque fois).

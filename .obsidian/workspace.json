@@ -11,8 +11,42 @@
             "id": "248771f1bda0b465",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Cours généraux/Mathematique/Algebre de Boole/Exercice/Cours et exercices logique.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "fb98f292fc0c87d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19140d8824b89cfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours généraux/Mathematique/Algebre de Boole/Exercice/Exercices.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a258d574a0398fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours généraux/Mathematique/Algebre de Boole/Calcul propositionnel.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "proposition",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developpement/Sujet_BTS/sujet_2013/13SL01-EQUIDA-Suj.pdf",
+                "file": "Cours généraux/Mathematique/Algebre de Boole/Exercice/Exercices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Developpement/Sujet_BTS/sujet_2013/13SL01-EQUIDA-Suj.pdf",
+                "file": "Cours généraux/Mathematique/Algebre de Boole/Exercice/Exercices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Developpement/Sujet_BTS/sujet_2013/13SL01-EQUIDA-Suj.pdf"
+                "file": "Cours généraux/Mathematique/Algebre de Boole/Exercice/Exercices.md"
               }
             }
           },
@@ -153,43 +187,36 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "floating": {
-    "id": "e279d51e0258db05",
-    "type": "floating",
-    "children": [
-      {
-        "id": "4b79143135319d13",
-        "type": "window",
-        "children": [
-          {
-            "id": "9ab7efff2c015dfb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ae4b85f8af6d210f",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Developpement/Sujet_BTS/sujet_2013/13SL01-EQUIDA-Suj.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 768,
-        "y": 0,
-        "width": 768,
-        "height": 816,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "ae4b85f8af6d210f",
+  "active": "19140d8824b89cfd",
   "lastOpenFiles": [
+    "img/Pasted image 20231211162301.png",
+    "Cours généraux/Mathematique/Algebre de Boole/Calcul propositionnel.md",
+    "Cours généraux/Mathematique/Algebre de Boole/Exercice/Exercices.md",
+    "Cours généraux/Mathematique/Algebre de Boole/Exercice/Cours et exercices logique.pdf",
+    "Cours généraux/Mathematique/Algebre de Boole/LANGAGE ENSEMBLISTE.md",
+    "Cours généraux/Mathematique/Algebre de Boole/Exercice",
+    "Cours généraux/Mathematique/Algebre de Boole/Calcul des prédicats.md",
+    "Cours généraux/Mathematique/BTS_SIO_programme_math.pdf",
+    "Cours généraux/Mathematique/Algebre de Boole/CALCUL BOOLÉEN.md",
+    "Cours généraux/Mathematique/Artihmetique/Systeme_de_numeration.md",
+    "Cours généraux/Mathematique/Calcul Matriciel/Calcul matriciel.md",
+    "Cours généraux/Mathematique/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Application f d’un ensemble E dans un ensemble F.md",
+    "Cours généraux/Mathematique/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Produit cartésien de deux ensembles.md",
+    "Cours généraux/Mathematique/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Relations binaires.md",
+    "Cours généraux/Mathematique/Suites_numerique/Suites_numérique.md",
+    "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/Contrôle d’exécution.md",
+    "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/Généralités.md",
+    "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/Instructions de base et opérateurs utilisés.md",
+    "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/Types de données.md",
+    "Cours généraux/Mathematique/Artihmetique/Arithmetique_modulaire/congruence.md",
+    "Cours généraux/Mathematique/Artihmetique/Arithmetique_modulaire/PGCD.md",
+    "Cours généraux/Mathematique/GRAPHES ET ORDONNANCEMENT/Ordonnancement.md",
+    "img/Pasted image 20231211122349.png",
+    "img/Pasted image 20231211122330.png",
+    "img/Pasted image 20231211122049.png",
+    "Cours généraux/Mathematique/GRAPHES ET ORDONNANCEMENT/Graphes.md",
+    "img/Pasted image 20231211121046.png",
+    "Cours généraux/Mathematique/Alphabet_Mathematique.md",
     "Developpement/Sujet_BTS/sujet_2013/13SL01-EQUIDA-Suj.pdf",
     "Developpement/Sujet_BTS/sujet_2013/Sujet_2013.md",
     "Developpement/BDD/MERISE/Exercice/Exercice_14/Exercice_14.pdf",
@@ -198,43 +225,16 @@
     "Developpement/Sujet_BTS",
     "Developpement/BDD/MERISE/Exercice/Exercice_14/Katyusha_MCD_Exercice_14.mcd",
     "Developpement/BDD/MERISE/Exercice/Exercice_14/Exercice_14.md",
-    "Cours généraux/Mathematique/Algebre de Boole/CALCUL BOOLÉEN.md",
     "Developpement/BDD/MERISE/Exercice/Exercice_13/Exercice_13.md",
     "Developpement/BDD/MERISE/Héritage.md",
-    "Veille techno - Langage et outils dev Web.md",
-    "Cours généraux/Mathematique/Algebre de Boole/Calcul des prédicats.md",
-    "Cours généraux/Mathematique/Algebre de Boole/LANGAGE ENSEMBLISTE.md",
-    "Cours généraux/Mathematique/Algebre de Boole/Calcul propositionnel.md",
-    "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/Contrôle d’exécution.md",
-    "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/exos/00 - Base Algorithme.md",
-    "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/exos/02 - Rendre la monnaie.md",
-    "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/Types de données.md",
-    "Cours généraux/Mathematique/Artihmetique/Arithmetique_modulaire/congruence.md",
-    "Cours généraux/Mathematique/Artihmetique/Systeme_de_numeration.md",
-    "Cours généraux/Mathematique/Artihmetique/Arithmetique_modulaire/Division euclidienne.md",
-    "Cours généraux/Mathematique/Artihmetique/Arithmetique_modulaire/PGCD.md",
-    "Cours généraux/Mathematique/Calcul Matriciel/Calcul matriciel.md",
-    "Cours généraux/Mathematique/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Produit cartésien de deux ensembles.md",
-    "Cours généraux/Mathematique/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Relations binaires.md",
-    "Cours généraux/Mathematique/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Application f d’un ensemble E dans un ensemble F.md",
-    "Cours généraux/Mathematique/GRAPHES ET ORDONNANCEMENT/Graphes.md",
-    "Cours généraux/Mathematique/GRAPHES ET ORDONNANCEMENT/Ordonnancement.md",
-    "Cours généraux/Mathematique/Suites_numerique/Suites_numérique.md",
     "img/Pasted image 20231207114514.png",
     "img/Pasted image 20231207112003.png",
     "img/Pasted image 20231207111958.png",
     "img/Pasted image 20231207110145.png",
     "img/Pasted image 20231207110116.png",
     "Developpement/BDD/MERISE/Exercice/MicrosoftTeams-image_1.PNG",
-    "Developpement/BDD/MERISE/Exercice/MicrosoftTeams-image_8.PNG",
-    "img/Pasted image 20231207094149.png",
-    "Developpement/BDD/MERISE/Exercice/MicrosoftTeams-image_7.PNG",
-    "img/Pasted image 20231207094016.png",
     "Developpement/BDD/MERISE/Exercice/Exercice_14",
     "Developpement/BDD/MERISE/Exercice/Exercice_12/Exercice_12_AnalyseSI_MCD.asi",
-    "Developpement/BDD/MERISE/Exercice/Exercice_13",
-    "Developpement/BDD/MERISE/Exercice/Exercice_12",
-    "Developpement/BDD/MERISE/Exercice/Exercice_11/Exercice_11_AnalyseSI_MCD.asi",
     "Projets/PPE 3/PPE3_schema.canvas",
     "Projets/CovoituReact/CovoituReact fonctionnement.canvas"
   ]
