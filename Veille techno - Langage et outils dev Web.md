@@ -35,7 +35,7 @@ La méthode **pull** consiste à aller chercher l'information.
 #### 1.1.1 Période Pré-Internet
 
 Avant l'avènement d'Internet, les premiers langages de balisage tels que le SGML (Standard Generalized Markup Language) étaient utilisés pour la structuration des documents. Cependant, ces documents étaient statiques et destinés principalement à l'impression.
-SGML est également la base utilisé pour le langage HTML.è
+SGML est également la base utilisé pour le langage HTML.
 
 #### 1.1.2 Début d'Internet et HTML
 

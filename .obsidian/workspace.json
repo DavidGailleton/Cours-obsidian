@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours généraux/Mathematique/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Application f d’un ensemble E dans un ensemble F.md",
+                "file": "Veille techno - Langage et outils dev Web.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours généraux/Mathematique/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Application f d’un ensemble E dans un ensemble F.md",
+                "file": "Veille techno - Langage et outils dev Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours généraux/Mathematique/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Application f d’un ensemble E dans un ensemble F.md",
+                "file": "Veille techno - Langage et outils dev Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours généraux/Mathematique/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Application f d’un ensemble E dans un ensemble F.md"
+                "file": "Veille techno - Langage et outils dev Web.md"
               }
             }
           },
@@ -160,6 +160,12 @@
   },
   "active": "19140d8824b89cfd",
   "lastOpenFiles": [
+    "73292000",
+    "AC4E1000",
+    "43AD1000",
+    "Tableau de synthèse - Epreuve E4 - BTS SIO.xlsx",
+    "E7891000",
+    "Cours généraux/Mathematique/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Application f d’un ensemble E dans un ensemble F.md",
     "Cours généraux/Mathematique/Algebre de Boole/Calcul propositionnel.md",
     "Cours généraux/Mathematique/Algebre de Boole/LANGAGE ENSEMBLISTE.md",
     "Cours généraux/Mathematique/Algebre de Boole/Exercice/Exercices.md",
@@ -172,7 +178,6 @@
     "Cours généraux/Mathematique/BTS_SIO_programme_math.pdf",
     "Cours généraux/Mathematique/Artihmetique/Systeme_de_numeration.md",
     "Cours généraux/Mathematique/Calcul Matriciel/Calcul matriciel.md",
-    "Cours généraux/Mathematique/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Application f d’un ensemble E dans un ensemble F.md",
     "Cours généraux/Mathematique/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Produit cartésien de deux ensembles.md",
     "Cours généraux/Mathematique/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Relations binaires.md",
     "Cours généraux/Mathematique/Suites_numerique/Suites_numérique.md",
@@ -193,8 +198,6 @@
     "Developpement/BDD/MERISE/Exercice/Exercice_14/Exercice_14.pdf",
     "Developpement/Sujet_BTS/sujet_2013",
     "Developpement/Sujet_BTS/Untitled.md",
-    "Developpement/Sujet_BTS",
-    "Developpement/BDD/MERISE/Exercice/Exercice_14/Katyusha_MCD_Exercice_14.mcd",
     "Developpement/BDD/MERISE/Exercice/Exercice_14/Exercice_14.md",
     "Developpement/BDD/MERISE/Exercice/Exercice_13/Exercice_13.md",
     "Developpement/BDD/MERISE/Héritage.md",
@@ -203,8 +206,6 @@
     "img/Pasted image 20231207111958.png",
     "img/Pasted image 20231207110145.png",
     "img/Pasted image 20231207110116.png",
-    "Developpement/BDD/MERISE/Exercice/Exercice_14",
-    "Developpement/BDD/MERISE/Exercice/Exercice_12/Exercice_12_AnalyseSI_MCD.asi",
     "Projets/PPE 3/PPE3_schema.canvas",
     "Projets/CovoituReact/CovoituReact fonctionnement.canvas"
   ]
