@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Veille techno - Langage et outils dev Web.md",
+                "file": "Developpement/BDD/SQL/SQL.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Veille techno - Langage et outils dev Web.md",
+                "file": "Developpement/BDD/SQL/SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Veille techno - Langage et outils dev Web.md",
+                "file": "Developpement/BDD/SQL/SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Veille techno - Langage et outils dev Web.md"
+                "file": "Developpement/BDD/SQL/SQL.md"
               }
             }
           },
@@ -160,6 +160,28 @@
   },
   "active": "19140d8824b89cfd",
   "lastOpenFiles": [
+    "Projets/PPE 3/PPE 3.md",
+    "Developpement/BDD/SQL/SQL.md",
+    "Developpement/BDD/MERISE/Associations reflexives.md",
+    "Developpement/BDD/MERISE/Modèles/MLD/MLD.md",
+    "img/Pasted image 20231213122002.png",
+    "img/Pasted image 20231213121647.png",
+    "Developpement/Data/Python/Liste.md",
+    "Developpement/Data/Python/Operateurs.md",
+    "Developpement/Data/Python/Dictionnaire.md",
+    "img/16827780421019_image9.png",
+    "Developpement/Data/Python/Tulpes.md",
+    "img/16254683020359_1C5.png",
+    "Developpement/Data/Python/Type.md",
+    "Developpement/Data/Python/Variable.md",
+    "Developpement/Commun/Variables.md",
+    "Developpement/Data/Python/Python.md",
+    "img/Pasted image 20231213101133.png",
+    "Developpement/BDD/MERISE/Exercice/Exercice_1/Exercice 1.md",
+    "Developpement/BDD/Base de données.md",
+    "Developpement/BDD/SQL/Archive/mysql.md",
+    "Developpement/BDD/SQL/Archive",
+    "Veille techno - Langage et outils dev Web.md",
     "73292000",
     "AC4E1000",
     "43AD1000",
@@ -179,33 +201,11 @@
     "Cours généraux/Mathematique/Artihmetique/Systeme_de_numeration.md",
     "Cours généraux/Mathematique/Calcul Matriciel/Calcul matriciel.md",
     "Cours généraux/Mathematique/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Produit cartésien de deux ensembles.md",
-    "Cours généraux/Mathematique/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Relations binaires.md",
-    "Cours généraux/Mathematique/Suites_numerique/Suites_numérique.md",
-    "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/Contrôle d’exécution.md",
-    "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/Généralités.md",
-    "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/Types de données.md",
-    "Cours généraux/Mathematique/Artihmetique/Arithmetique_modulaire/congruence.md",
-    "Cours généraux/Mathematique/Artihmetique/Arithmetique_modulaire/PGCD.md",
-    "Cours généraux/Mathematique/GRAPHES ET ORDONNANCEMENT/Ordonnancement.md",
     "img/Pasted image 20231211122349.png",
     "img/Pasted image 20231211122330.png",
     "img/Pasted image 20231211122049.png",
-    "Cours généraux/Mathematique/GRAPHES ET ORDONNANCEMENT/Graphes.md",
     "img/Pasted image 20231211121046.png",
-    "Cours généraux/Mathematique/Alphabet_Mathematique.md",
     "Developpement/Sujet_BTS/sujet_2013/13SL01-EQUIDA-Suj.pdf",
-    "Developpement/Sujet_BTS/sujet_2013/Sujet_2013.md",
-    "Developpement/BDD/MERISE/Exercice/Exercice_14/Exercice_14.pdf",
-    "Developpement/Sujet_BTS/sujet_2013",
-    "Developpement/Sujet_BTS/Untitled.md",
-    "Developpement/BDD/MERISE/Exercice/Exercice_14/Exercice_14.md",
-    "Developpement/BDD/MERISE/Exercice/Exercice_13/Exercice_13.md",
-    "Developpement/BDD/MERISE/Héritage.md",
-    "img/Pasted image 20231207114514.png",
-    "img/Pasted image 20231207112003.png",
-    "img/Pasted image 20231207111958.png",
-    "img/Pasted image 20231207110145.png",
-    "img/Pasted image 20231207110116.png",
     "Projets/PPE 3/PPE3_schema.canvas",
     "Projets/CovoituReact/CovoituReact fonctionnement.canvas"
   ]
