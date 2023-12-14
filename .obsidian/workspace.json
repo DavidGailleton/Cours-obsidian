@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developpement/BDD/SQL/SQL.md",
+                "file": "Developpement/Data/Python/Fonction.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developpement/BDD/SQL/SQL.md",
+                "file": "Developpement/Data/Python/Fonction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Developpement/BDD/SQL/SQL.md",
+                "file": "Developpement/Data/Python/Fonction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Developpement/BDD/SQL/SQL.md"
+                "file": "Developpement/Data/Python/Fonction.md"
               }
             }
           },
@@ -160,16 +160,37 @@
   },
   "active": "069283b1021314e0",
   "lastOpenFiles": [
-    "Developpement/BDD/Base de données.md",
+    "img/16827900709796_image4.png",
+    "Developpement/Data/Python/Boucles.md",
+    "img/16827886925394_image16.png",
+    "Developpement/Data/Python/Fonction.md",
+    "img/16827860942511_image6.png",
+    "Cours généraux/CEJM/Supports/Theme 2/Chap 15 - Le rôle de l'innovation.md",
+    "Cours généraux/CEJM/Supports/Theme 2/support_prof",
+    "Cours généraux/CEJM/Supports/Thème 1/Chap 2 - Les fonctionnement et dysfonctionnement des marchés.md",
+    "Cours généraux/CEJM/Travailleur indépendant et Salarié.md",
+    "img/Pasted image 20231214092545.png",
+    "img/Pasted image 20231214092403.png",
+    "Cours généraux/CEJM/Supports/Theme 5/CEJM theme 5 chap 36 révision .pdf",
+    "Cours généraux/CEJM/Supports/Theme 2/support_prof/CEJM theme 2 chap 9 révision .pdf",
+    "Cours généraux/CEJM/Supports/Theme 2/support_prof/CEJM theme 2 chap 10 révision .pdf",
+    "Cours généraux/CEJM/Supports/Theme 5/CEJM theme 5 chap 37 révision .pdf",
+    "img/Pasted image 20231214091944.png",
+    "Cours généraux/CEJM/Supports/Thème 1/Chap 1 - Les échanges et Les relations entre Les agents économiques.md",
+    "Cours généraux/CEJM/Supports/Thème 1/~$CEJM Theme 1 chap 2 révision.pptx",
+    "img/Pasted image 20231214091638.png",
+    "Cours généraux/CEJM/Evolution économiques liées au numérique.md",
+    "Cours généraux/CEJM/Supports/Thème 1/~$CEJM Theme 1 chap 1 révision.pptx",
+    "Developpement/Data/Python/Condition.md",
+    "Cours généraux/CEJM/Impact Juridique et économique des évolution numériques.md",
+    "Cours généraux/CEJM/2023-10-05.md",
     "Developpement/BDD/SQL/SQL.md",
+    "Developpement/BDD/Base de données.md",
     "Developpement/BDD/SQL/Exercice/Exercice_2/Exercice_2.md",
     "Developpement/BDD/SQL/SQL & Merise (1).pdf",
     "Developpement/BDD/SQL/Exercice/Exercice_2/departement.sql",
     "Developpement/BDD/SQL/Exercice/Exercice_2",
     "Developpement/BDD/SQL/Exercice/Exercice_1/Exercice_1.md",
-    "Developpement/BDD/SQL/Exercice/Exercice_1/villes_france.sql",
-    "Developpement/BDD/SQL/Exercice/Exercice_1",
-    "Developpement/BDD/SQL/Exercice",
     "Projets/PPE 3/PPE 3.md",
     "Developpement/BDD/MERISE/Associations reflexives.md",
     "Developpement/BDD/MERISE/Modèles/MLD/MLD.md",
@@ -185,26 +206,6 @@
     "Developpement/Data/Python/Variable.md",
     "Developpement/Commun/Variables.md",
     "Developpement/Data/Python/Python.md",
-    "img/Pasted image 20231213101133.png",
-    "Developpement/BDD/MERISE/Exercice/Exercice_1/Exercice 1.md",
-    "Developpement/BDD/SQL/Archive/mysql.md",
-    "Developpement/BDD/SQL/Archive",
-    "Veille techno - Langage et outils dev Web.md",
-    "73292000",
-    "AC4E1000",
-    "43AD1000",
-    "Cours généraux/Mathematique/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Application f d’un ensemble E dans un ensemble F.md",
-    "Cours généraux/Mathematique/Algebre de Boole/Calcul propositionnel.md",
-    "Cours généraux/Mathematique/Algebre de Boole/LANGAGE ENSEMBLISTE.md",
-    "Cours généraux/Mathematique/Algebre de Boole/Exercice/Exercices.md",
-    "Cours généraux/Mathematique/ALGORITHMIQUE APPLIQUÉE/Instructions de base et opérateurs utilisés.md",
-    "Cours généraux/Mathematique/Algebre de Boole/Calcul des prédicats.md",
-    "Cours généraux/Mathematique/Algebre de Boole/CALCUL BOOLÉEN.md",
-    "img/Pasted image 20231211162301.png",
-    "img/Pasted image 20231211122349.png",
-    "img/Pasted image 20231211122330.png",
-    "img/Pasted image 20231211122049.png",
-    "img/Pasted image 20231211121046.png",
     "Projets/PPE 3/PPE3_schema.canvas",
     "Projets/CovoituReact/CovoituReact fonctionnement.canvas"
   ]

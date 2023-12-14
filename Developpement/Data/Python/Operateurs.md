@@ -1,3 +1,4 @@
+## Operateur basique
 Il y a 5 opérateurs principaux en Python :
 - `x + y`  : la somme de x et y (x plus y).
     
@@ -19,3 +20,13 @@ True
 >>> 8 in nombres
 False
 ```
+
+### Operateur logique
+
+- **`and`**  : vérifie si deux conditions sont toutes les deux vraies.
+    
+- **`or`**  : vérifie si _au moins une_ condition est vraie.
+    
+- **`not`**  : vérifie si une condition n’est pas vraie (c’est-à-dire fausse).
+
+Ces opérateurs peuvent être combinés et mélangés selon vos besoins.
