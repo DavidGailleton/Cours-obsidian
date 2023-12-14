@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 16775792
       }
+    },
+    {
+      "query": "path:\"Cours généraux/Mathematique\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6069206
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +46,6 @@
   "repelStrength": 9.88206236492745,
   "linkStrength": 1,
   "linkDistance": 143,
-  "scale": 0.58987872159809,
-  "close": true
+  "scale": 0.37596376572525725,
+  "close": false
 }

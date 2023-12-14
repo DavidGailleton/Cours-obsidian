@@ -1,4 +1,10 @@
+SQL est un System de [[Base de données]] fonctionnant avec des tables
 ## SELECT
+L'utilisation la plus courante de SQL consiste à lire des données issues de la base de données. Cela s'effectue grâce à la commande SELECT, qui retourne des enregistrements dans un tableau de résultat Cette commande peut sélectionner une ou plusieurs colonnes d'une table.
+```sql
+SELECT nom_du_champ FROM nom_du_tableau
+```
+
 ### DISTINCT
 supprime les doublons
 ```SQL
@@ -24,12 +30,14 @@ SELECT * FROM patient WHERE ville = 'paris'
 ### BETWEEN
 
 ### LIKE
-#### %a
-#### a%
+#### %
+Le signe % permet de remplacer tous les caractèrers
+#### __
+Le signe `_` permet de remplacer seulement 1 caractère
 
-#### %a%
-
-#### pa%on
+### IS
+#### NULL
+#### NOT NULL
 ## GROUP BY
 
 
