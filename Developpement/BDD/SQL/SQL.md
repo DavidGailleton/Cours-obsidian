@@ -50,3 +50,6 @@ Le signe `_` permet de remplacer seulement 1 caractère
 ## LIMIT
 
 ## OFFSET
+
+## ALTER TABLE
+ALTER permet de modifié la structure d'une table
