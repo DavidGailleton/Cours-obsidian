@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developpement/Data/ETL/ETL.md",
+                "file": "Developpement/Data/Export.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "append",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developpement/Data/ETL/ETL.md",
+                "file": "Developpement/Data/Export.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Developpement/Data/ETL/ETL.md",
+                "file": "Developpement/Data/Export.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Developpement/Data/ETL/ETL.md"
+                "file": "Developpement/Data/Export.md"
               }
             }
           },
@@ -158,10 +158,15 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "069283b1021314e0",
+  "active": "cb0605c79d7a5644",
   "lastOpenFiles": [
-    "Developpement/BDD/SQL/SQL.md",
+    "Developpement/BDD/Web",
+    "Developpement/Data/Python/Dictionnaire.md",
+    "Developpement/Data/Python/Tulpes.md",
+    "Developpement/Data/Python/Liste.md",
     "Developpement/Data/ETL/ETL.md",
+    "Developpement/Data/Export.md",
+    "Developpement/BDD/SQL/SQL.md",
     "Developpement/Data/Python/Modules et Packages.md",
     "Developpement/Data/ETL",
     "Developpement/Data/Python/Fonction.md",
@@ -198,14 +203,9 @@
     "Developpement/BDD/MERISE/Modèles/MLD/MLD.md",
     "img/Pasted image 20231213122002.png",
     "img/Pasted image 20231213121647.png",
-    "Developpement/Data/Python/Liste.md",
     "Developpement/Data/Python/Operateurs.md",
-    "Developpement/Data/Python/Dictionnaire.md",
     "img/16827780421019_image9.png",
-    "Developpement/Data/Python/Tulpes.md",
     "Developpement/Data/Python/Type.md",
-    "Developpement/Data/Python/Variable.md",
-    "Developpement/Commun/Variables.md",
     "Projets/PPE 3/PPE3_schema.canvas",
     "Projets/CovoituReact/CovoituReact fonctionnement.canvas"
   ]
