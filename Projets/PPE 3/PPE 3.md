@@ -7,6 +7,7 @@ Création et Gestion des Ordonnances : Les médecins doivent pouvoir créer, mod
 Base de Données des Médicaments : L'application doit avoir une base de données exhaustive des médicaments, y compris les informations sur les contre-indications et les interactions médicamenteuses. L'application doit avertir le médecin en cas de potentielles interactions dangereuses ou contre-indications basées sur le profil du patient.
 
 ## MCD
+![[Pasted image 20240108114248.png]]
 ![[Pasted image 20231213121647.png]]
 ou
 ![[Pasted image 20231213122002.png]]
