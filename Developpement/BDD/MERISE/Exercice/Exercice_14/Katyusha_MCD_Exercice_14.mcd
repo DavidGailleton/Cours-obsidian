@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<katyusha>
+	<version>0.4.6</version>
+</katyusha>
+<base>
+	<nom>Base</nom>
+	<sgbd>mysql</sgbd>
+	<rep></rep>
+	<drop>0</drop>
+</base>
+<tables>
+	<table id=2>
+		<nom>Personne</nom>
+		<attributs>
+			<attribut id=1>
+				<nom>id_p</nom>
+				<type>integer</type>
+				<complement_type></complement_type>
+				<pk>1</pk>
+				<taille>0</taille>
+				<auto_increment>1</auto_increment>
+				<valeur></valeur>
+				<null>0</null>
+				<description></description>
+			</attribut>
+			<attribut id=2>
+				<nom>nom_p</nom>
+				<type>varchar</type>
+				<complement_type></complement_type>
+				<pk>0</pk>
+				<taille>35</taille>
+				<auto_increment>0</auto_increment>
+				<valeur>null</valeur>
+				<null>0</null>
+				<description></description>
+			</attribut>
+			<attribut id=3>
+				<nom>prenom_p</nom>
+				<type>varchar</type>
+				<complement_type></complement_type>
+				<pk>0</pk>
+				<taille>35</taille>
+				<auto_increment>0</auto_increment>
+				<valeur>null</valeur>
+				<null>0</null>
+				<description></description>
+			</attribut>
+			<attribut id=4>
+				<nom>date_naissance_p</nom>
+				<type>date</type>
+				<complement_type></complement_type>
+				<pk>0</pk>
+				<taille>0</taille>
+				<auto_increment>0</auto_increment>
+				<valeur>null</valeur>
+				<null>0</null>
+				<description></description>
+			</attribut>
+		</attributs>
+		<couleurs>
+			<fond_tete>#FFFFFF</fond_tete>
+			<ligne>#FF7000</ligne>
+			<fond_corps>#FFB57B</fond_corps>
+			<texte>black</texte>
+		</couleurs>
+		<description></description>
+	<coords>111.07688119938625/65.6536781915411</coords>
+	</table>
+	<table id=3>
+		<nom>Salarié</nom>
+		<attributs>
+			<attribut id=1>
+				<nom>matricule_s</nom>
+				<type>integer</type>
+				<complement_type></complement_type>
+				<pk>1</pk>
+				<taille>0</taille>
+				<auto_increment>1</auto_increment>
+				<valeur></valeur>
+				<null>0</null>
+				<description></description>
+			</attribut>
+			<attribut id=2>
+				<nom>habituel</nom>
+				<type>bool</type>
+				<complement_type></complement_type>
+				<pk>0</pk>
+				<taille>0</taille>
+				<auto_increment>0</auto_increment>
+				<valeur>0</valeur>
+				<null>0</null>
+				<description></description>
+			</attribut>
+		</attributs>
+		<couleurs>
+			<fond_tete>#FFFFFF</fond_tete>
+			<ligne>#FF7000</ligne>
+			<fond_corps>#FFB57B</fond_corps>
+			<texte>black</texte>
+		</couleurs>
+		<description></description>
+	<coords>442.65435470928986/21.720003850528826</coords>
+	</table>
+	<table id=5>
+		<nom>Projet</nom>
+		<attributs>
+			<attribut id=1>
+				<nom>id_p</nom>
+				<type>integer</type>
+				<complement_type></complement_type>
+				<pk>1</pk>
+				<taille>0</taille>
+				<auto_increment>1</auto_increment>
+				<valeur></valeur>
+				<null>0</null>
+				<description></description>
+			</attribut>
+			<attribut id=2>
+				<nom>libelle_p</nom>
+				<type>varchar</type>
+				<complement_type></complement_type>
+				<pk>0</pk>
+				<taille>20</taille>
+				<auto_increment>0</auto_increment>
+				<valeur>null</valeur>
+				<null>0</null>
+				<description></description>
+			</attribut>
+			<attribut id=3>
+				<nom>date_debut_p</nom>
+				<type>date</type>
+				<complement_type></complement_type>
+				<pk>0</pk>
+				<taille>0</taille>
+				<auto_increment>0</auto_increment>
+				<valeur>null</valeur>
+				<null>0</null>
+				<description></description>
+			</attribut>
+			<attribut id=4>
+				<nom>date_fin_pre_p</nom>
+				<type>date</type>
+				<complement_type></complement_type>
+				<pk>0</pk>
+				<taille>0</taille>
+				<auto_increment>0</auto_increment>
+				<valeur>null</valeur>
+				<null>1</null>
+				<description></description>
+			</attribut>
+		</attributs>
+		<couleurs>
+			<fond_tete>#FFFFFF</fond_tete>
+			<ligne>#FF7000</ligne>
+			<fond_corps>#FFB57B</fond_corps>
+			<texte>black</texte>
+		</couleurs>
+		<description></description>
+	<coords>289.4316940929414/259.1922483755475</coords>
+	</table>
+	<table id=6>
+		<nom>Tache</nom>
+		<attributs>
+			<attribut id=1>
+				<nom>id_t</nom>
+				<type>bigint</type>
+				<complement_type></complement_type>
+				<pk>1</pk>
+				<taille>0</taille>
+				<auto_increment>1</auto_increment>
+				<valeur></valeur>
+				<null>0</null>
+				<description></description>
+			</attribut>
+		</attributs>
+		<couleurs>
+			<fond_tete>#FFFFFF</fond_tete>
+			<ligne>#FF7000</ligne>
+			<fond_corps>#FFB57B</fond_corps>
+			<texte>black</texte>
+		</couleurs>
+		<description></description>
+	<coords>609.306126270782/208.2039383024724</coords>
+	</table>
+	<table id=7>
+		<nom>Etat</nom>
+		<attributs>
+			<attribut id=1>
+				<nom>etat</nom>
+				<type>integer</type>
+				<complement_type></complement_type>
+				<pk>1</pk>
+				<taille>15</taille>
+				<auto_increment>0</auto_increment>
+				<valeur>null</valeur>
+				<null>0</null>
+				<description></description>
+			</attribut>
+		</attributs>
+		<couleurs>
+			<fond_tete>#FFFFFF</fond_tete>
+			<ligne>#FF7000</ligne>
+			<fond_corps>#FFB57B</fond_corps>
+			<texte>black</texte>
+		</couleurs>
+		<description></description>
+	<coords>301.0489268459273/100.99003957715593</coords>
+	</table>
+	<table id=8>
+		<nom>Role</nom>
+		<attributs>
+			<attribut id=1>
+				<nom>libelle_role</nom>
+				<type>varchar</type>
+				<complement_type></complement_type>
+				<pk>1</pk>
+				<taille>25</taille>
+				<auto_increment>0</auto_increment>
+				<valeur>null</valeur>
+				<null>0</null>
+				<description></description>
+			</attribut>
+			<attribut id=2>
+				<nom>salaire</nom>
+				<type>float</type>
+				<complement_type></complement_type>
+				<pk>0</pk>
+				<taille>0</taille>
+				<auto_increment>0</auto_increment>
+				<valeur>null</valeur>
+				<null>0</null>
+				<description></description>
+			</attribut>
+		</attributs>
+		<couleurs>
+			<fond_tete>#FFFFFF</fond_tete>
+			<ligne>#FF7000</ligne>
+			<fond_corps>#FFB57B</fond_corps>
+			<texte>black</texte>
+		</couleurs>
+		<description></description>
+	<coords>329.79281099018635/374.2245050831277</coords>
+	</table>
+</tables>
+<relations>
+	<relation id=4>
+		<nom>est</nom>
+		<attributs>
+		</attributs>
+		<liens>
+			<lien id=0>
+				<table_lien>Personne</table_lien>
+				<n_lien>0.1</n_lien>
+				<relatif>0</relatif>
+			</lien>
+			<lien id=1>
+				<table_lien>Salarié</table_lien>
+				<n_lien>1.1</n_lien>
+				<relatif>0</relatif>
+			</lien>
+		<couleurs>
+			<fond>#FFE3CD</fond>
+			<ligne>#FF7000</ligne>
+			<liens>#FF7000</liens>
+			<texte>black</texte>
+		</couleurs>
+		</liens>
+	<coords>246.96236649549218/26.14460672750924</coords>
+	</relation>
+	<relation id=9>
+		<nom>possede</nom>
+		<attributs>
+		</attributs>
+		<liens>
+			<lien id=0>
+				<table_lien>Tache</table_lien>
+				<n_lien>1.1</n_lien>
+				<relatif>0</relatif>
+			</lien>
+			<lien id=1>
+				<table_lien>Projet</table_lien>
+				<n_lien>1.n</n_lien>
+				<relatif>0</relatif>
+			</lien>
+		<couleurs>
+			<fond>#FFE3CD</fond>
+			<ligne>#FF7000</ligne>
+			<liens>#FF7000</liens>
+			<texte>black</texte>
+		</couleurs>
+		</liens>
+	<coords>517.0/285.0</coords>
+	</relation>
+	<relation id=10>
+		<nom>a comme etat</nom>
+		<attributs>
+		</attributs>
+		<liens>
+		<couleurs>
+			<fond>#FFE3CD</fond>
+			<ligne>#FF7000</ligne>
+			<liens>#FF7000</liens>
+			<texte>black</texte>
+		</couleurs>
+		</liens>
+	<coords>147.0/187.0</coords>
+	</relation>
+</relations>
+<etiquettes>
+</etiquettes>
+<heritages>
+</heritages>
+

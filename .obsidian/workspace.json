@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "b4d6ef56c7c714ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "39b04f59c3c5a944",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7976b479b6738ec2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours généraux/CEJM/Sujets/Question.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "56f6878ff53ed45a",
+    "type": "split",
+    "children": [
+      {
+        "id": "abef763f54c24631",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "954d875c88eb875c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2dd57c7dd6f0c4d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "074852fb4bcf5459",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3c4c28b7c809b614",
+    "type": "split",
+    "children": [
+      {
+        "id": "caf246a63fd85d3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "238e207e5e6862a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cours généraux/CEJM/Sujets/Question.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4ad8b981c6d2a1da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cours généraux/CEJM/Sujets/Question.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0c364f3fab6cb3d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5d3fe4b366809c26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cours généraux/CEJM/Sujets/Question.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7976b479b6738ec2",
+  "lastOpenFiles": [
+    "Cours généraux/CEJM/Sujets/A REVISER.md",
+    "Cours généraux/CEJM/Sujets/Question.md",
+    "Cours généraux/CEJM/Sujets/2020.pdf",
+    "Cours généraux/CEJM/Sujets/2023.pdf",
+    "Cours généraux/CEJM/Sujets/2013.pdf",
+    "Projets/PPE4/README.md",
+    "Cours généraux/CEJM/Sujets/2021.pdf",
+    "Cours généraux/CEJM/Sujets/2016.pdf",
+    "Cours généraux/CEJM/Sujets/2015.pdf",
+    "Cours généraux/CEJM/Sujets/2014.pdf",
+    "Cours généraux/CEJM/Supports/Theme 6/support_prof/CEJM theme 6 chap 44 révision .pdf",
+    "Cours généraux/CEJM/Sujets/msoA7E0.tmp",
+    "Cours généraux/CEJM/Sujets/2022.pdf",
+    "Cours généraux/CEJM/PESTEL.md",
+    "Cours généraux/CEJM/Evolution économiques liées au numérique.md",
+    "Cours généraux/CEJM/2023-10-05.md",
+    "Cours généraux/CEJM/Supports/Thème 3/Chap 16 - Les facteurs de production.md",
+    "Cours généraux/CEJM/Supports/Thème 1/Chap 2 - Les fonctionnement et dysfonctionnement des marchés.md",
+    "Cours généraux/CEJM/Supports/Thème 1/Chap 1 - Les échanges et Les relations entre Les agents économiques.md",
+    "Cours généraux/Mathematique/2nd/Exercices/1.calculs-et-problemes.md",
+    "Cours généraux/Mathematique/2nd/Exercices/2.equations-et-inequations.md",
+    "Cours généraux/Mathematique/Type de données.md",
+    "Cours généraux/Mathematique/BTS/GRAPHES ET ORDONNANCEMENT/Graphes.md",
+    "Cours généraux/Mathematique/Alphabet_Mathematique.md",
+    "Cours généraux/Mathematique/BTS/GRAPHES ET ORDONNANCEMENT/Ordonnancement.md",
+    "Cours généraux/Mathematique/BTS/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Relations binaires.md",
+    "Cours généraux/Mathematique/BTS/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Produit cartésien de deux ensembles.md",
+    "Cours généraux/Mathematique/BTS/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Application f d’un ensemble E dans un ensemble F.md",
+    "Cours généraux/Mathematique/BTS/Calcul Matriciel/Calcul matriciel.md",
+    "Cours généraux/Mathematique/BTS/Artihmetique/Arithmetique_modulaire/PGCD.md",
+    "Cours généraux/Mathematique/BTS/Artihmetique/Arithmetique_modulaire/congruence.md",
+    "Cours généraux/Mathematique/BTS/Artihmetique/Systeme_de_numeration.md",
+    "Cours généraux/Mathematique/BTS/ALGORITHMIQUE APPLIQUÉE/exos/02 - Rendre la monnaie.md",
+    "Cours généraux/Mathematique/BTS/ALGORITHMIQUE APPLIQUÉE/exos/03 - Salle de concert.md",
+    "Cours généraux/Mathematique/BTS/ALGORITHMIQUE APPLIQUÉE/exos/01 - Algo python.md",
+    "Cours généraux/Mathematique/BTS/ALGORITHMIQUE APPLIQUÉE/exos/00 - Base Algorithme.md",
+    "Pasted image 20240213113622.png",
+    "Pasted image 20240212095217.png",
+    "Pasted image 20240212094852.png"
+  ]
+}

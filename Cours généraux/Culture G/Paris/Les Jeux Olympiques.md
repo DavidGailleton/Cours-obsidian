@@ -1,0 +1,1 @@
+En tant que grande ville architectural, Paris accueillera les jeux olympiques 2024 afin de montrer au monde la magnificence de la Capitale.  

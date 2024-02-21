@@ -1,0 +1,3 @@
+## La bibliothèque AWT
+
+La bibliothèque AWT (Abstract Window Toolkit) est la première bibliothèque graphique proposée par Java. Elle est disponible depuis la première version du langage. Elle est composée de deux packages : java.awt et java.awt.event. Le package java.awt contient les classes de base permettant la création d’interfaces graphiques. Le package java.awt.event contient les classes permettant la gestion des événements.

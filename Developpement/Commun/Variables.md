@@ -1,0 +1,1 @@
+Les variables permettent de mémoriser pendant l'exécution d'une application différentes valeurs utiles a son bon fonctionnement. Avant d'utiliser les variables dans un programme, il convient de savoir ou les déclarer, quel nom leur donner et quel type leur donner. C'est l'objectif des prochaines sections.
