@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "39b04f59c3c5a944",
+        "id": "39b9fb4d77782b27",
         "type": "tabs",
         "children": [
           {
-            "id": "7976b479b6738ec2",
+            "id": "f0cbf2a0f7b64acb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours généraux/CEJM/Sujets/Question.md",
+                "file": "Cours généraux/Mathematique/cours/BTS/GRAPHES ET ORDONNANCEMENT/Ordonnancement.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "contrat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours généraux/CEJM/Sujets/Question.md",
+                "file": "Cours généraux/Mathematique/cours/BTS/GRAPHES ET ORDONNANCEMENT/Ordonnancement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours généraux/CEJM/Sujets/Question.md",
+                "file": "Cours généraux/Mathematique/cours/BTS/GRAPHES ET ORDONNANCEMENT/Ordonnancement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours généraux/CEJM/Sujets/Question.md"
+                "file": "Cours généraux/Mathematique/cours/BTS/GRAPHES ET ORDONNANCEMENT/Ordonnancement.md"
               }
             }
           }
@@ -146,44 +146,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7976b479b6738ec2",
+  "active": "f0cbf2a0f7b64acb",
   "lastOpenFiles": [
-    "Cours généraux/CEJM/Sujets/A REVISER.md",
-    "Cours généraux/CEJM/Sujets/Question.md",
-    "Cours généraux/CEJM/Sujets/2020.pdf",
-    "Cours généraux/CEJM/Sujets/2023.pdf",
-    "Cours généraux/CEJM/Sujets/2013.pdf",
-    "Projets/PPE4/README.md",
-    "Cours généraux/CEJM/Sujets/2021.pdf",
-    "Cours généraux/CEJM/Sujets/2016.pdf",
-    "Cours généraux/CEJM/Sujets/2015.pdf",
-    "Cours généraux/CEJM/Sujets/2014.pdf",
-    "Cours généraux/CEJM/Supports/Theme 6/support_prof/CEJM theme 6 chap 44 révision .pdf",
-    "Cours généraux/CEJM/Sujets/msoA7E0.tmp",
-    "Cours généraux/CEJM/Sujets/2022.pdf",
-    "Cours généraux/CEJM/PESTEL.md",
-    "Cours généraux/CEJM/Evolution économiques liées au numérique.md",
+    "Cours généraux/Mathematique/cours/BTS/Calcul Matriciel/Calcul matriciel.md",
+    "Cours généraux/Mathematique/cours/BTS/GRAPHES ET ORDONNANCEMENT/Graphes.md",
+    "Cours généraux/Mathematique/Arithmétique/Systeme_de_numeration.md",
+    "Cours généraux/Mathematique/Arithmétique/Arithmetique_modulaire/PGCD.md",
+    "Cours généraux/Mathematique/Arithmétique/Arithmetique_modulaire/congruence.md",
+    "Cours généraux/Mathematique/Arithmétique/Arithmetique_modulaire",
+    "Cours généraux/Mathematique/cours/BTS/Calcul Matriciel/Exercice/Exercice 1.md",
+    "Cours généraux/Mathematique/cours/BTS/BTS_SIO_programme_math.pdf",
+    "Cours généraux/Mathematique/cours/BTS/GRAPHES ET ORDONNANCEMENT/Ordonnancement.md",
+    "Projets/PPE3/Compte_rendu_PPE3_David_GAILLETON_v2.pdf",
+    "Projets/~WRL1654.tmp",
+    "Projets/~WRD0005.tmp",
+    "Projets/PPE3/Compte_rendu_PPE3_David_GAILLETON.pdf",
+    "Projets/PPE3/PPE 3.md",
+    "Cours généraux/CEJM/A REVISER.md",
+    "Cours généraux/CEJM/Sujets/VERGERTAU.pdf",
+    "Cours généraux/CEJM/Sujets/TEEBIKE.pdf",
+    "Cours généraux/CEJM/Sujets/SERVIHOME.pdf",
+    "Cours généraux/CEJM/Sujets/MONTAGNE.pdf",
+    "Cours généraux/Culture G/Sujet/Musique Contestation Eminem/Musique Contestation Eminem.md",
+    "Cours généraux/Culture G/A reviser.md",
+    "2024-04-23.md",
+    "Projets/BTC transition/Bitcoin pour les commerçant.md",
+    "Projets/Untitled.md",
+    "Cours généraux/CEJM/Outils d'analyse/PESTEL.md",
+    "Cours généraux/CEJM/Agents économique.md",
     "Cours généraux/CEJM/2023-10-05.md",
-    "Cours généraux/CEJM/Supports/Thème 3/Chap 16 - Les facteurs de production.md",
-    "Cours généraux/CEJM/Supports/Thème 1/Chap 2 - Les fonctionnement et dysfonctionnement des marchés.md",
+    "2024-03-27.md",
     "Cours généraux/CEJM/Supports/Thème 1/Chap 1 - Les échanges et Les relations entre Les agents économiques.md",
-    "Cours généraux/Mathematique/2nd/Exercices/1.calculs-et-problemes.md",
-    "Cours généraux/Mathematique/2nd/Exercices/2.equations-et-inequations.md",
-    "Cours généraux/Mathematique/Type de données.md",
-    "Cours généraux/Mathematique/BTS/GRAPHES ET ORDONNANCEMENT/Graphes.md",
-    "Cours généraux/Mathematique/Alphabet_Mathematique.md",
-    "Cours généraux/Mathematique/BTS/GRAPHES ET ORDONNANCEMENT/Ordonnancement.md",
-    "Cours généraux/Mathematique/BTS/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Relations binaires.md",
-    "Cours généraux/Mathematique/BTS/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Produit cartésien de deux ensembles.md",
-    "Cours généraux/Mathematique/BTS/ÉLÉMENTS DE LA THÉORIE DES ENSEMBLES/Application f d’un ensemble E dans un ensemble F.md",
-    "Cours généraux/Mathematique/BTS/Calcul Matriciel/Calcul matriciel.md",
-    "Cours généraux/Mathematique/BTS/Artihmetique/Arithmetique_modulaire/PGCD.md",
-    "Cours généraux/Mathematique/BTS/Artihmetique/Arithmetique_modulaire/congruence.md",
-    "Cours généraux/Mathematique/BTS/Artihmetique/Systeme_de_numeration.md",
-    "Cours généraux/Mathematique/BTS/ALGORITHMIQUE APPLIQUÉE/exos/02 - Rendre la monnaie.md",
-    "Cours généraux/Mathematique/BTS/ALGORITHMIQUE APPLIQUÉE/exos/03 - Salle de concert.md",
-    "Cours généraux/Mathematique/BTS/ALGORITHMIQUE APPLIQUÉE/exos/01 - Algo python.md",
-    "Cours généraux/Mathematique/BTS/ALGORITHMIQUE APPLIQUÉE/exos/00 - Base Algorithme.md",
+    "Cours généraux/CEJM/Outils d'analyse/5 forces de Porter.md",
+    "Cours généraux/CEJM/Environnement d'entreprise/Méso environnement.md",
+    "Cours généraux/CEJM/Environnement d'entreprise/Micro environnement.md",
+    "Cours généraux/CEJM/Environnement d'entreprise/Environnement d'entreprise.md",
+    "Pasted image 20240327110759.png",
+    "Cours généraux/CEJM/Environnement d'entreprise/Macro environnement.md",
+    "Cours généraux/CEJM/Outils d'analyse/SWOT.md",
+    "2024-03-26.md",
+    "Pasted image 20240326143234.png",
+    "Projets/PPE4/Canvas.canvas",
+    "Projets/PPE3/MCD.png",
+    "Pasted image 20240222161658.png",
     "Pasted image 20240213113622.png",
     "Pasted image 20240212095217.png",
     "Pasted image 20240212094852.png"

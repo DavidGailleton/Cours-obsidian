@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"ec6e327c6f314187","x":-180,"y":-620,"width":250,"height":60,"type":"text","text":"Login"},
+		{"id":"80e82af17d6e3d31","x":245,"y":-620,"width":250,"height":60,"type":"text","text":"Footer"},
+		{"id":"fd8b51dd4043deba","x":70,"y":-445,"width":250,"height":60,"type":"text","text":"Dashboard"},
+		{"id":"0c95e7552b4ffa6d","x":-360,"y":-445,"width":250,"height":60,"type":"text","text":"Header"},
+		{"id":"257c10da6aca5db3","x":-280,"y":-240,"width":250,"height":60,"type":"text","text":"Liste médicament"},
+		{"id":"e0ee634d3ffbc79c","x":20,"y":-240,"width":250,"height":60,"type":"text","text":"Liste matériel"},
+		{"id":"190421505887d729","x":-920,"y":-415,"width":250,"height":60,"type":"text","text":"Gestion Administrateur - liste profile"},
+		{"id":"df93ead4f9c2aca4","x":-700,"y":-140,"width":250,"height":60,"type":"text","text":"panier"},
+		{"id":"f6a4a5b173c38641","x":-700,"y":80,"width":250,"height":60,"type":"text","text":"Confirmation commande"},
+		{"id":"85037fdf96661e16","x":-120,"y":-80,"width":250,"height":60,"type":"text","text":"page produit"},
+		{"id":"1bba38db911fad93","x":-920,"y":-551,"width":250,"height":60,"type":"text","text":"Validation commande"},
+		{"id":"cbcdcd78d3eb64de","x":-560,"y":-680,"width":250,"height":60,"type":"text","text":"Page de profile"},
+		{"id":"7f06e503de29e450","x":-920,"y":-680,"width":250,"height":60,"type":"text","text":"Liste commande"},
+		{"id":"8a8b61fccd3966c5","x":-920,"y":-820,"width":250,"height":60,"type":"text","text":"Commande"},
+		{"id":"a79af7d4f34999ef","x":-1240,"y":-415,"width":250,"height":60,"type":"text","text":"Profile vue admin"}
+	],
+	"edges":[
+		{"id":"94a54adb38a08c6a","fromNode":"ec6e327c6f314187","fromSide":"right","toNode":"80e82af17d6e3d31","toSide":"left"},
+		{"id":"6a37ec4b5011b51d","fromNode":"80e82af17d6e3d31","fromSide":"bottom","toNode":"fd8b51dd4043deba","toSide":"top"},
+		{"id":"bec12cd6186faaab","fromNode":"ec6e327c6f314187","fromSide":"bottom","toNode":"fd8b51dd4043deba","toSide":"top"},
+		{"id":"d698dcd2ef8ed56c","fromNode":"ec6e327c6f314187","fromSide":"bottom","toNode":"0c95e7552b4ffa6d","toSide":"top"},
+		{"id":"bb366e76c74b86c2","fromNode":"0c95e7552b4ffa6d","fromSide":"left","toNode":"df93ead4f9c2aca4","toSide":"right"},
+		{"id":"c3a24b5a5dcdb1ae","fromNode":"0c95e7552b4ffa6d","fromSide":"bottom","toNode":"257c10da6aca5db3","toSide":"top"},
+		{"id":"4e0b80940c40a7a3","fromNode":"fd8b51dd4043deba","fromSide":"bottom","toNode":"257c10da6aca5db3","toSide":"top"},
+		{"id":"17476800bf52488b","fromNode":"fd8b51dd4043deba","fromSide":"bottom","toNode":"e0ee634d3ffbc79c","toSide":"top"},
+		{"id":"a35fcccda899371a","fromNode":"0c95e7552b4ffa6d","fromSide":"bottom","toNode":"e0ee634d3ffbc79c","toSide":"top"},
+		{"id":"d04319430ace8c4e","fromNode":"0c95e7552b4ffa6d","fromSide":"left","toNode":"1bba38db911fad93","toSide":"right","label":"Validateur || Admin"},
+		{"id":"ea0c957f08bfae1e","fromNode":"0c95e7552b4ffa6d","fromSide":"left","toNode":"190421505887d729","toSide":"right","label":"Admin"},
+		{"id":"f4746da1c8c2d052","fromNode":"df93ead4f9c2aca4","fromSide":"bottom","toNode":"f6a4a5b173c38641","toSide":"top"},
+		{"id":"d2a9cea32f9104f2","fromNode":"257c10da6aca5db3","fromSide":"bottom","toNode":"85037fdf96661e16","toSide":"top"},
+		{"id":"e5e0dc6ae59c4fbd","fromNode":"e0ee634d3ffbc79c","fromSide":"bottom","toNode":"85037fdf96661e16","toSide":"top"},
+		{"id":"95802f0f4c87d88e","fromNode":"85037fdf96661e16","fromSide":"left","toNode":"df93ead4f9c2aca4","toSide":"right"},
+		{"id":"8771ef23186a831d","fromNode":"0c95e7552b4ffa6d","fromSide":"left","toNode":"cbcdcd78d3eb64de","toSide":"bottom"},
+		{"id":"16d926b634edc8c6","fromNode":"1bba38db911fad93","fromSide":"top","toNode":"7f06e503de29e450","toSide":"bottom"},
+		{"id":"b1314354b793a804","fromNode":"cbcdcd78d3eb64de","fromSide":"left","toNode":"7f06e503de29e450","toSide":"right"},
+		{"id":"37cd4d3aa87799df","fromNode":"7f06e503de29e450","fromSide":"top","toNode":"8a8b61fccd3966c5","toSide":"bottom"},
+		{"id":"d5b9dd6666096036","fromNode":"190421505887d729","fromSide":"left","toNode":"a79af7d4f34999ef","toSide":"right"}
+	]
+}

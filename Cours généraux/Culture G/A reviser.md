@@ -1,0 +1,6 @@
+- PDFs méthodo
+- Corrigés types
+- 3 plans types sur Paris (Centralisation / Mixité sociale / Construction)
+- 2 plans types sur le voyage ()
+- Textes vue en classe
+- Revoir les livres

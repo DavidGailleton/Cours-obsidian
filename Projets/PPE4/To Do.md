@@ -1,0 +1,46 @@
+- [x] Header ✅ 2024-02-23
+	- [x] validation de commande seulement pour le validateur ✅ 2024-02-23
+	- [x] gestion des médicaments dans la base de donné seulement pour le gestionnaire de de stock ✅ 2024-02-23
+	- [x] Gestionnaire d'utilisateurs seulement pour l'administrateur ✅ 2024-02-23
+- [x] Login ✅ 2024-03-18
+	- [x] Formulaire connexion ✅ 2024-02-23
+	- [x] Formulaire Nouveau mot de passe ✅ 2024-03-18
+	- [x] Sécurité ✅ 2024-02-24
+		- [x] JWT ✅ 2024-02-23
+		- [x] Cryptage des mots de passe avec bcrypt ✅ 2024-02-23
+		- [x] blocage de l'utilisateur si mauvais mot de passe ✅ 2024-02-23
+		- [x] Trie des caractères sensible au injection SQL ✅ 2024-02-24
+- [x] Vue Utilisateur ✅ 2024-03-09
+	- [x] Barre de recherche ✅ 2024-02-27
+	- [x] Choix de la page ✅ 2024-02-28
+	- [x] Page de médicament ✅ 2024-02-29
+		- [x] Afficher les médicaments ✅ 2024-02-23
+		- [x] Ajouter au panier ✅ 2024-02-29
+	- [x] Page de matériel ✅ 2024-02-29
+		- [x] Afficher matériels ✅ 2024-02-29
+		- [x] Ajouter au panier ✅ 2024-02-29
+	- [x] Panier ✅ 2024-03-01
+		- [x] Afficher médicaments ✅ 2024-02-29
+		- [x] afficher matériels ✅ 2024-02-29
+		- [x] Possibilité de supprimer du matériel ✅ 2024-02-29
+		- [x] Possibilité de changer la quantité ✅ 2024-03-01
+		- [x] Confirmer la commande ✅ 2024-03-06
+	- [x] Vue d'une commande ✅ 2024-03-09
+- [x] Vue validateur ✅ 2024-03-17
+	- [x] Liste des commandes a valider ✅ 2024-03-16
+	- [x] possibilité de valider ou refuser ✅ 2024-03-17
+- [ ] Vue gestionnaire de stock
+	- [x] Commande de produits chez fournisseur ✅ 2024-03-18
+	- [ ] Possibilité de modifier un médicament et matériel
+	- [ ] Possibilité de supprimer un médicament ou matériel
+	- [ ] Possibilité d'ajouter un médicament ou matériel
+- [x] Vue administrateur ✅ 2024-03-18
+	- [x] Liste des utilisateur ✅ 2024-03-09
+	- [x] Création d'un utilisateur ✅ 2024-03-12
+	- [x] suppression d'un utilisateur avec archivage ✅ 2024-03-18
+	- [x] edition d'un utilisateur ✅ 2024-03-14
+- [ ] Dashboard
+	- [x] Afficher medicament ou matériels pour les utilisateur ✅ 2024-02-25
+	- [ ] condition d'affichage des racourcis
+	- [ ] Afficher médicament ou matériels pour les gestionnaire de stock
+	- [ ] redirection sur la liste des commande a valider pour les validateurs

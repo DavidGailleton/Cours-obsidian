@@ -1,0 +1,261 @@
+\documentclass[10pt]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}%ATTENTION codage en utf8 ! 
+\usepackage{fourier} 
+\usepackage[scaled=0.875]{helvet}
+\renewcommand{\ttdefault}{lmtt}
+\usepackage{amsmath,amssymb,makeidx}
+\usepackage{fancybox}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage[normalem]{ulem}
+\usepackage{enumitem}
+\usepackage{pifont}
+\usepackage{textcomp} 
+\newcommand{\euro}{\eurologo}
+%Tapuscrit : Denis Vergès
+%Relecture : François Hache
+\usepackage{pst-plot,pst-text,pst-node,pst-tree,pstricks-add}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\D}{\mathbb{D}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\C}{\mathbb{C}}
+\usepackage[left=3.5cm, right=3.5cm, top=3cm, bottom=3cm]{geometry}
+\newcommand{\vect}[1]{\overrightarrow{\,\mathstrut#1\,}}
+\newcommand{\barre}[1]{\overline{\,\mathstrut#1\,}}
+\renewcommand{\theenumi}{\textbf{\arabic{enumi}}}
+\renewcommand{\labelenumi}{\textbf{\theenumi.}}
+\renewcommand{\theenumii}{\textbf{\alph{enumii}}}
+\renewcommand{\labelenumii}{\textbf{\theenumii.}}
+\def\Oij{$\left(\text{O}~;~\vect{\imath},~\vect{\jmath}\right)$}
+\def\Oijk{$\left(\text{O}~;~\vect{\imath},~\vect{\jmath},~\vect{k}\right)$}
+\def\Ouv{$\left(\text{O}~;~\vect{u},~\vect{v}\right)$}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\hypersetup{%
+pdfauthor = {APMEP},
+pdfsubject = {BTS},
+pdftitle = {Métropole septembre 2020},
+allbordercolors = white,
+pdfstartview=FitH}  
+\usepackage[french]{babel}
+\usepackage[np]{numprint}
+\begin{document}
+\setlength\parindent{0mm}
+\rhead{\textbf{A. P{}. M. E. P{}.}}
+\lhead{\small Brevet de technicien supérieur Métropole}
+\lfoot{\small{Services informatiques aux organisations\\ épreuve obligatoire}}
+\rfoot{\small{septembre 2020}}
+\pagestyle{fancy}
+\thispagestyle{empty}
+\marginpar{\rotatebox{90}{\textbf{A. P{}. M. E. P{}.}}}
+
+\begin{center} {\Large \textbf{\decofourleft~BTS Métropole septembre 2020~\decofourright\\[5pt]Services informatiques aux organisations}}
+
+\vspace{0,25cm}
+  
+\end{center}
+
+\textbf{Exercice 1 \hfill 5 points}
+
+\medskip
+
+Une entreprise fabrique des manettes pour consoles de jeux vidéo. Elle en propose de deux tailles différentes: grandes ou bien petites; qui sont de couleur soit noires, soit argentées pour chaque taille ; et qui sont sans fil ou bien à brancher pour chaque taille également. 
+
+On introduit les variables booléennes suivantes:
+
+\setlength\parindent{9mm}
+\begin{itemize}[label=\textbullet]
+\item $g$ signifie que la manette est grande, $\overline{g}$ que la manette est petite;
+\item $n$ signifie que la manette est de couleur noire, $\overline{n}$ que la manette est de couleur
+argentée ;
+\item $b$ signifie que la manette est à brancher, $\overline{b}$ que la manette est sans fil.
+\end{itemize}
+\setlength\parindent{0mm}
+
+Cette entreprise fournit plusieurs fabricants qui lui en achètent des quantités analogues. 
+
+Après plusieurs mois de vente, l'entreprise constate que les manettes vendues sont de l'un au moins des 4 types suivants:
+
+\setlength\parindent{9mm}
+\begin{itemize}[label=\textbullet]
+\item les grandes manettes sans fil ;
+\item les petites manettes de couleur noires ;
+\item les petites manettes de couleur argentées et sans fil ;
+\item les petites manettes qui sont à brancher.
+\end{itemize}
+\setlength\parindent{0mm}
+
+On note $E$ l'expression booléenne correspondant aux types de manettes les plus vendues par l'entreprise.
+
+On admet que $E= g.\barre{b} + \barre{g}.n + \barre{g}. \barre{n}. \barre{b} + \barre{g}. b$.
+
+\medskip
+
+\begin{enumerate}
+\item Traduire par une phrase l'expression booléenne $\barre{g} . b$.
+\item Représenter $E$ par un tableau de Karnaugh, puis déterminer une forme simplifiée, à
+deux termes, de l'expression booléenne $E$.
+\item Traduire par une phrase l'expression simplifiée $E$.
+\item L'entreprise souhaite réduire sa production en supprimant les types de manettes non
+vendues. Lesquelles doit-elle supprimer ? Justifier votre réponse.
+\end{enumerate}
+
+\vspace{0,5cm}
+
+\textbf{Exercice 2 \hfill 8 points}
+
+\medskip
+
+Dans le modèle RGB (Red, Green, Blue), datant de 1931, la couleur et l'intensité de la lumière peuvent être représentées par la matrice colonne $C = \begin{pmatrix}R\\G\\B\end{pmatrix}$, où $R$ représente
+l'intensité de la composante rouge, $G$ l'intensité de la composante verte et $B$ l'intensité de la composante bleue. 
+
+L'intensité de chaque composante est, dans le système décimal, un entier compris entre $0$ et $255$ : $0$ désigne l'absence de celle-ci et $255$ désigne l'intensité maximale de celle-ci.
+
+\bigskip
+
+\textbf{Partie A} - Codage de couleurs
+
+\medskip
+
+La couleur \og saumon \fg{} est codée par $\begin{pmatrix}248\\142\\85\end{pmatrix}$ en décimal, l'intensité du rouge est donc 248, celle du vert est 142 et celle du bleu est 85. 
+
+Dans certains logiciels comme Photoshop par
+exemple, les couleurs sont codées par 3 nombres hexadécimaux à deux chiffres représentant les valeurs de Rouge, Vert et Bleu. En hexadécimal, cette couleur \og saumon \fg{}
+est codée $(F8~;~8E~;~55)$ que l'on notera par la matrice $\begin{pmatrix}F8\\8E\\55\end{pmatrix}$.
+
+\medskip
+
+\begin{enumerate}
+\item La couleur \og vert tilleul \fg{} est codée en écriture décimale par $\begin{pmatrix}165\\209\\82\end{pmatrix}$.
+
+Déterminer son codage en hexadécimal, on détaillera la démarche pour la valeur $165$.
+\item La couleur \og mauve \fg{} est codée en hexadécimal par $\begin{pmatrix}D4\\73\\D4\end{pmatrix}$.
+
+Déterminer son codage en écriture décimale, on détaillera la démarche pour la valeur
+$D4$.
+\item Combien de couleurs différentes peut-on représenter avec ce mode de
+représentation ? Combien de bits utilise ce codage ?
+\end{enumerate}
+
+\bigskip
+
+\textbf{Partie B} - De la lumière vers l'œil.
+
+La rétine d'un œil humain est composée de deux types de récepteurs : les cônes et les bâtonnets. Les bâtonnets sont responsables de la vision à faible niveau d'énergie (vision nocturne dite \og scotopique \fg) et vision à niveaux de gris) et ne perçoivent pas les couleurs. 
+
+Ils mesurent l'intensité de la lumière visible. Les cônes sont responsables de la vision diurne colorée. La vision des couleurs n'est pas toutefois directe, elle est envoyée au
+cerveau au moyen d'un signal $S = \begin{pmatrix}i\\l\\c\end{pmatrix}$.
+
+\setlength\parindent{9mm}
+\begin{itemize}[label=\textbullet]
+\item L'intensité $i$ de la lumière est $i= \dfrac{1}{3}(R + G + B)$ ;
+\item L'intensité $l$ des ondes longues est $l = R - G$ ;
+\item L'intensité $c$ des ondes courtes est $c = B - \dfrac{R + G}{2}$.
+\end{itemize}
+\setlength\parindent{0mm}
+
+Par exemple, pour la couleur \og vert tilleul \fg{} codée en décimal par $\begin{pmatrix}165\\209\\82\end{pmatrix}$, l'intensité $i$ de la lumière est $i = \dfrac{1}{3}(165 + 209 + 82) = 152$ ; l'intensité $l$ des ondes longues est $l = 165 - 209 = - 44$  et l'intensité $c$ des ondes courtes est $c = 82 - \dfrac{165 + 209}{2} = - 105$.
+
+On note les matrices : $C = \begin{pmatrix}R\\G\\B\end{pmatrix}$ et $M = \begin{pmatrix}\frac{1}{3}&\frac{1}{3}&\frac{1}{3}\\1&-1&0\\-\frac{1}{2}&-\frac{1}{2}&1\end{pmatrix}$.
+
+\medskip
+
+\begin{enumerate}
+\item 
+	\begin{enumerate}
+		\item Donner une égalité reliant les matrices $S$, $C$ et $M$.
+		\item Calculer les différentes intensités $i$, $l$ et $c$ du signal lorsque $R = 150$, $G
+		 = 90$ et $B = 210$.
+	\end{enumerate}
+\item Soit $N$ la matrice définie par: $N = \begin{pmatrix}1&\frac{1}{2}&-\frac{1}{3}\\1
+&- \frac{1}{2}&-\frac{1}{3}\\1&0&\frac{2}{3}\end{pmatrix}$.
+	\begin{enumerate}
+		\item Calculer le produit $N \times M$.
+		\item Que peut-on en déduire pour les matrices $N$ et $M$ ?
+	\end{enumerate}
+\item 
+	\begin{enumerate}
+		\item Prouver que si $M \times  C= S$ alors $C = N \times S$.
+		\item Le cerveau reçoit comme signal: $i = 120$ ; $l = 100$ et $c = - 90$.
+		
+Quelles sont les intensités $R$, $G$ et $B$ de la lumière reçue par l'œil ?
+	\end{enumerate} 
+\end{enumerate}
+
+\vspace{0,5cm}
+
+\textbf{Exercice 3 \hfill 7 points}
+
+\medskip
+
+En informatique, le code ASCII associe à certains caractères (lettre, chiffre, signe de ponctuation, \ldots) un entier compris entre 0 et 255 que l'on appelle son code ASCII. La fonction code du tableur renvoie le code ASCII du caractère. 
+
+L'extrait de tableur ci-dessous donne le codage de quelques caractères.
+
+\begin{center}
+\begin{tabularx}{\linewidth}{|l|*{13}{>{\centering \arraybackslash \footnotesize}X|}}\hline
+Lettre 			&A	&B	&C	&D	&E	&F	&G	&H	&I	&J	&K	&L	&M\\ \hline
+CodeASCII : $n$	&65&66	&67	&68	&69	&70	&71	&72	&73	&74	&75	&76	&77\\ \hline
+$p=f(n)$		&199&206&	&	&	&	&	&	&	&	&	&	&\\ \hline\hline
+Lettre			&N	&O	&P	&Q	&R	&S	&T	&U	&V	&W	&X	&Y	&Z\\ \hline 
+CodeASCII : $n$&78	&79	&80	&81	&82	&83	&84	&85	&86	&87	&88	&89	&90\\ \hline
+$p=f(n)$		&	&	&	&	&	&	&	&	&	&	&	&	&\\ \hline
+\end{tabularx}
+\end{center}
+
+\medskip
+
+On décide de chiffrer (crypter) une lettre à partir de son code ASCII en utilisant la fonction $f$ définie pour tout entier $n$ tel que $0 \leqslant n < 256$ par : $f(n)$ est le reste de la division euclidienne de $7n$ par $256$, c'est-à-dire que si on note $p = f(n)$, alors $p \equiv 7n \:(\text{mod}~256)$ où $p = f(n)$, avec $p$ entier tel que $0 \leqslant p < 256$.
+
+Par exemple, le code ASCII de la lettre A est 65. On a $7 \times 65 \equiv 199\: (\text{mod}~256)$ et $0 \leqslant  199 < 256$ donc la lettre A est chiffrée par 199.
+
+\bigskip
+
+\textbf{Partie A }- Chiffrement
+
+\medskip
+
+\begin{enumerate}
+\item Vérifier que la lettre \og B \fg{} est chiffrée par le nombre $206$.
+\item Déterminer le cryptage du mot \og BTS \fg. (On séparera chaque code de lettre par un
+espace).
+\end{enumerate}
+
+\bigskip
+
+\textbf{Partie B }- Déchiffrement
+
+\medskip
+
+Pour déchiffrer un entier $p$ compris entre $0$ et $255$ (inclus), on calcule le reste de la division euclidienne de $183 \times p$ par $256$ ; autrement dit $n \equiv 183 \times p \:(\text{mod}~256)$ avec $n$ entier tel que $0 \leqslant  n < 256$.
+
+\smallskip
+
+Par exemple, pour $p = 20$, on a $183 \times 20  \equiv 76 \:(\text{mod}~256)$ et donc la valeur chiffrée correspond à la lettre~L.
+
+\medskip
+
+\begin{enumerate}
+\item Déterminer la lettre correspondant à la valeur chiffrée $27$. On détaillera la réponse.
+\item  Donner le mot de trois lettres correspondant au code chiffré des trois entiers:
+234\quad  255 \quad 34.
+\end{enumerate}
+
+\bigskip
+
+\textbf{Partie C} - Justification
+
+\medskip
+
+\begin{enumerate}
+\item Prouver que $183 \times 7 \equiv 1\:(\text{mod}~256)$.
+\item On souhaite justifier comment obtenir l'entier $n$ à partir de l'entier $p = f(n)$.
+
+On rappelle que $f(n) \equiv 7n \: (\text{mod}~256)$.
+
+En déduire que $183 \times f(n) \equiv n \: (\text{mod}~256)$.
+\end{enumerate}
+\end{document}

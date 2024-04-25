@@ -3,12 +3,12 @@ L'économie met en lien des entités différentes, appelées agents, qui entreti
 ## Les agents économiques et Leurs rôles
 ### Définition et intérêts de La classification
 L'analyse économique nécessite d'identifier et de mesurer les comportements des agents économiques, c'est-à-dire des acteurs de la vie économique. Cependant, il y a 2 situations extrêmes impossibles : 
-- étudier le comportement de chacun de ces acteurs isolément (il suffit d'ima- giner un tableau avec le revenu de chaque personne vivant en France pour comprendre que cela n'est pas possible) ; 
+- étudier le comportement de chacun de ces acteurs isolément (il suffit d'imaginer un tableau avec le revenu de chaque personne vivant en France pour comprendre que cela n'est pas possible) ; 
 - étudier le comportement de tous les acteurs comme une seule unité (cela reviendrait à associer dans une analyse unique l'individu célibataire, l'entreprise de 100 000 salariés, l'État, etc. ce qui a peu de sens).
 
 La solution est donc de segmenter les acteurs de la vie économique en 5 groupes distincts formant les agents économiques ou « secteurs institutionnels », au sens de l'Insee. 
 
-Un agent économique est donc une per- sonne physique ou morale qui constitue un centre de décision économique autonome au sein d'un groupe homogène, selon le critère de sa principale fonction économique.
+Un agent économique est donc une personne physique ou morale qui constitue un centre de décision économique autonome au sein d'un groupe homogène, selon le critère de sa principale fonction économique.
 
 **Exemple** : L'indice de la confiance des ménages publié en décembre 2017 par l'Insee était de 105 points. L'investissement des entreprises, toujours selon l'Insee, a augmenté de 2,9 % en 2017.
 
